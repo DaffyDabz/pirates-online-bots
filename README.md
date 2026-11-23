@@ -10,7 +10,7 @@ open-source client and server). There are two kinds:
 - **Player bots** are crewmates. A player bot joins your crew, follows you around town, rows out to your ship, mans a
   cannon and fights beside you on land, and does quests, sea battles and card games on its own when nobody needs it.
 
-**Status:** both work on our server; the player bots are new and still learning. · **Visibility:** private for now
+**Status:** both work on our server; the player bots are new and still learning. · **Visibility:** public
 · **Last updated:** 2026-11-22
 
 ## Contents

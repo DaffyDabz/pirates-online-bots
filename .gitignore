@@ -1,0 +1,6 @@
+walk-*
+__pycache__/
+*.pyc
+accounts.local.json
+pbot/accounts.local.json
+run.lock

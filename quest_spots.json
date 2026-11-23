@@ -1,0 +1,13295 @@
+{
+"areas": {
+"1142018473.22dxschafe": [
+"1142018473.22dxschafe",
+"island",
+"DelFuegoIsland"
+],
+"1150922126.8dzlu": [
+"1150922126.8dzlu",
+"island",
+"PortRoyalIsland"
+],
+"1153417506.13dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_tailor"
+],
+"1153419342.98dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_barber"
+],
+"1153419460.35dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_19"
+],
+"1153419634.08dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_tavern_2"
+],
+"1153419689.81dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_tavern"
+],
+"1153420207.67dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_3"
+],
+"1153420647.55dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_blacksmith_2"
+],
+"1153420657.11dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_weapons_2"
+],
+"1153423448.14dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_weapons_1"
+],
+"1153423464.2dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_blacksmith_1"
+],
+"1153430887.13dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_barber_1"
+],
+"1153434762.53dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_tavern_2"
+],
+"1153434880.63dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_tattoo_1"
+],
+"1153434928.03dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_blacksmith_2"
+],
+"1153435103.16dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_tavern_1"
+],
+"1153435388.6dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_jeweler_1"
+],
+"1153435428.14dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_blacksmith_1"
+],
+"1153436073.35dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_weapons_1"
+],
+"1153436381.55dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_tailor_1"
+],
+"1153437552.45dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_weapons_2"
+],
+"1153507305.2dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_npc_house_interior_5"
+],
+"1153777833.68dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_tavern_3"
+],
+"1153777945.95dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_barber_2"
+],
+"1153778017.46dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_tailor_2"
+],
+"1153778094.12dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_jeweler_2"
+],
+"1153778118.18dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_weapons_3"
+],
+"1153778153.99dzlu0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_blacksmith_3"
+],
+"1155244887.43dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_1"
+],
+"1155684634.87dzlu0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_office_1"
+],
+"1155767402.81fxlara0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_14"
+],
+"1155771754.68fxlara0": [
+"1150922126.8dzlu",
+"interior",
+"int_battle_test"
+],
+"1155773612.45fxlara0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_building_int_6"
+],
+"1156207188.95dzlu": [
+"1156207188.95dzlu",
+"island",
+"tortugaIsland"
+],
+"1156207423.67dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_9"
+],
+"1156207523.59dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_16"
+],
+"1156207578.91dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_7"
+],
+"1156207603.55dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_18"
+],
+"1156207773.33dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_tavern"
+],
+"1156267902.64dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_15"
+],
+"1156267951.67dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_14"
+],
+"1156268617.43dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_8"
+],
+"1156269565.62dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_6"
+],
+"1156270758.2dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_2"
+],
+"1156270917.73dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_3"
+],
+"1156270974.95dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_5"
+],
+"1156277797.07dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_4"
+],
+"1156277937.59dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_17"
+],
+"1156279185.81dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_11"
+],
+"1156279216.23dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_12"
+],
+"1156279255.42dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_13"
+],
+"1156279370.48dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_buildling_int_tavern_2"
+],
+"1156279496.29dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_10"
+],
+"1156359855.24bbathen": [
+"1156359855.24bbathen",
+"island",
+"CangrejosIsland"
+],
+"1156371286.47dzlu0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_1"
+],
+"1158121765.09sdnaik": [
+"1156207188.95dzlu",
+"gamearea",
+"tortuga_area_cave_b_1"
+],
+"1159905354.84jubutler": [
+"1150922126.8dzlu",
+"interior",
+"tutorial_interior_withPit"
+],
+"1159933206.48sdnaik": [
+"1159933206.48sdnaik",
+"island",
+"KingsheadIsland"
+],
+"1160614528.73sdnaik": [
+"1160614528.73sdnaik",
+"island",
+"CubaIsland"
+],
+"1161282725.84kmuller": [
+"1161282725.84kmuller",
+"island",
+"RumrunnerIsland"
+],
+"1161732578.06sdnaik": [
+"1160614528.73sdnaik",
+"gamearea",
+"cuba_area_swamp_1"
+],
+"1161798288.34sdnaik": [
+"1150922126.8dzlu",
+"gamearea",
+"port_royal_area_jungle_b_1"
+],
+"1164135492.81dzlu": [
+"1164135492.81dzlu",
+"island",
+"AnvilIsland"
+],
+"1164141722.61sdnaik": [
+"1150922126.8dzlu",
+"gamearea",
+"port_royal_area_jungle_c_1"
+],
+"1164150392.42dzlu": [
+"1164150392.42dzlu",
+"island",
+"TormentaIsland"
+],
+"1164157132.99dzlu": [
+"1164157132.99dzlu",
+"island",
+"PerdidaIsland"
+],
+"1164763706.66sdnaik": [
+"1164763706.66sdnaik",
+"island",
+"DriftwoodIsland"
+],
+"1164929110.98sdnaik": [
+"1142018473.22dxschafe",
+"gamearea",
+"del_fuego_area_cave_c_1"
+],
+"1164952144.06sdnaik": [
+"1150922126.8dzlu",
+"gamearea",
+"port_royal_area_cave_a_1"
+],
+"1165001772.05sdnaik": [
+"1150922126.8dzlu",
+"gamearea",
+"port_royal_area_cave_b_1"
+],
+"1165004570.58sdnaik": [
+"1156207188.95dzlu",
+"gamearea",
+"tortuga_area_jungle_a_1"
+],
+"1165009856.72sdnaik": [
+"1156207188.95dzlu",
+"gamearea",
+"tortuga_area_jungle_b_1"
+],
+"1165009873.53sdnaik": [
+"1156207188.95dzlu",
+"gamearea",
+"tortuga_area_jungle_c_1"
+],
+"1165201513.53Shochet0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_building_int_carver_shack"
+],
+"1167857698.16naiksd": [
+"1173382404.64sdnaik",
+"gamearea",
+"cutthroat_area_jungle_b_1"
+],
+"1167857698.16sdnaik": [
+"1142018473.22dxschafe",
+"gamearea",
+"del_fuego_area_jungle_b_1"
+],
+"1167862588.52sdnaik": [
+"1142018473.22dxschafe",
+"gamearea",
+"del_fuego_area_cave_d_1"
+],
+"1168033330.17kmuller0": [
+"1150922126.8dzlu",
+"interior",
+"port_royal_interior_mansion"
+],
+"1168057131.73sdnaik": [
+"1142018473.22dxschafe",
+"gamearea",
+"del_fuego_area_cave_e_1"
+],
+"1168559956.74dxschafe0": [
+"1156207188.95dzlu",
+"interior",
+"TortugaJailInterior"
+],
+"1169179552.88sdnaik": [
+"1156207188.95dzlu",
+"gamearea",
+"tortuga_area_swamp_c_1"
+],
+"1169592956.59sdnaik": [
+"1150922126.8dzlu",
+"gamearea",
+"port_royal_area_jungle_a_1"
+],
+"1170964864.0dxschafe0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_jail_interior"
+],
+"1170972672.0dxschafe0": [
+"1159933206.48sdnaik",
+"interior",
+"kingshead_depot_int_1"
+],
+"1170972800.0dxschafe0": [
+"1159933206.48sdnaik",
+"interior",
+"kingshead_keep_int_1"
+],
+"1171314304.0dxschafe0": [
+"1160614528.73sdnaik",
+"interior",
+"Cuba_jail_interior"
+],
+"1171316864.0dxschafe0": [
+"1160614528.73sdnaik",
+"interior",
+"cuba_building_int_tailor"
+],
+"1171316864.0dxschafe2": [
+"1160614528.73sdnaik",
+"interior",
+"cuba_building_int_tattoo"
+],
+"1172208344.92sdnaik": [
+"1164150392.42dzlu",
+"gamearea",
+"tormenta_cave_b_1"
+],
+"1172209006.11sdnaik": [
+"1164135492.81dzlu",
+"gamearea",
+"anvil_island_area_barbossa_cave"
+],
+"1172209955.25sdnaik": [
+"1164157132.99dzlu",
+"gamearea",
+"perdida_area_jungle_b_1"
+],
+"1173381952.2sdnaik": [
+"1173381952.2sdnaik",
+"island",
+"OutcastIsland"
+],
+"1173382404.64sdnaik": [
+"1173382404.64sdnaik",
+"island",
+"CutthroatIsland"
+],
+"1175533824.0dxschafe0": [
+"1164763706.66sdnaik",
+"interior",
+"driftwood_npc_house_interior_1"
+],
+"1175729664.0dxschafe0": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_npc_house_interior_7"
+],
+"1183482682.31kmuller0": [
+"1150922126.8dzlu",
+"interior",
+"PortRoyalJailInterior1"
+],
+"1185994805.82kmuller0": [
+"1161282725.84kmuller",
+"interior",
+"rumrunner_interior_cellar"
+],
+"1186699264.0dxschafe0": [
+"1156207188.95dzlu",
+"interior",
+"tortuga_cave_b_int_1"
+],
+"1189479168.0sdnaik0": [
+"1159933206.48sdnaik",
+"interior",
+"kingshead_area_island"
+],
+"1190335104.0dxschafe0": [
+"1159933206.48sdnaik",
+"interior",
+"kingshead_jail_int_1"
+],
+"1190672768.0dxschafe1": [
+"1142018473.22dxschafe",
+"interior",
+"del_fuego_building_int_tattoo_2"
+],
+"1190741504.0dxschafe0": [
+"1160614528.73sdnaik",
+"interior",
+"cuba_building_int_tavern"
+],
+"1196970035.53sdnaik": [
+"1196970035.53sdnaik",
+"island",
+"pvpShipIsland2"
+],
+"1196970080.56sdnaik": [
+"1196970080.56sdnaik",
+"island",
+"pvpShipIsland1"
+],
+"1201636857.8kmuller": [
+"1201636857.8kmuller",
+"island",
+"pvp_rock_big_1"
+],
+"1201641372.09kmuller": [
+"1201641372.09kmuller",
+"island",
+"pvp_rock_med_1"
+],
+"1201641393.2kmuller": [
+"1201641393.2kmuller",
+"island",
+"pvp_rock_big_3"
+],
+"1201641405.3kmuller": [
+"1201641405.3kmuller",
+"island",
+"pvp_rock_med_2"
+],
+"1201641438.69kmuller": [
+"1201641438.69kmuller",
+"island",
+"pvp_rock_big_2"
+],
+"1201641487.41kmuller": [
+"1201641487.41kmuller",
+"island",
+"pvp_rock_sml_1"
+],
+"1202846053.19akelts0": [
+"1196970080.56sdnaik",
+"interior",
+"pvpShipIsland1_int_tavern"
+],
+"1204237124.2akelts0": [
+"1196970035.53sdnaik",
+"interior",
+"pvpShipIsland2_int_tavern"
+]
+},
+"exits": {
+"1142018473.22dxschafe": [
+[
+"1153430887.13dzlu0",
+-942.3,
+87.5,
+94.8,
+"door",
+"1200533376.0dxschafe28"
+],
+[
+"1153434762.53dzlu0",
+-1087.0,
+184.3,
+75.0,
+"door",
+"1200533376.0dxschafe62"
+],
+[
+"1153434880.63dzlu0",
+-1084.7,
+262.4,
+77.7,
+"door",
+"1200533376.0dxschafe27"
+],
+[
+"1153434928.03dzlu0",
+-1055.0,
+102.8,
+80.7,
+"door",
+"1200533376.0dxschafe40"
+],
+[
+"1153435103.16dzlu0",
+-847.0,
+68.8,
+102.4,
+"door",
+"1200533376.0dxschafe37"
+],
+[
+"1153435388.6dzlu0",
+-806.4,
+43.0,
+102.8,
+"door",
+"1200533376.0dxschafe38"
+],
+[
+"1153435428.14dzlu0",
+-787.5,
+12.6,
+107.5,
+"door",
+"1200533376.0dxschafe34"
+],
+[
+"1153436073.35dzlu0",
+-806.8,
+-45.2,
+106.3,
+"door",
+"1200533376.0dxschafe60"
+],
+[
+"1153436381.55dzlu0",
+-850.7,
+-277.9,
+106.2,
+"door",
+"1200533376.0dxschafe36"
+],
+[
+"1153437552.45dzlu0",
+-1142.0,
+153.7,
+62.0,
+"door",
+"1200533376.0dxschafe55"
+],
+[
+"1153507305.2dzlu0",
+-950.8,
+106.7,
+92.2,
+"door",
+"1200533376.0dxschafe0"
+],
+[
+"1153507305.2dzlu0",
+-965.0,
+115.1,
+92.2,
+"door",
+"1200533376.0dxschafe1"
+],
+[
+"1153777833.68dzlu0",
+569.5,
+-1257.0,
+31.7,
+"door",
+"1200533376.0dxschafe22"
+],
+[
+"1153777833.68dzlu0",
+549.5,
+-1240.3,
+31.7,
+"door",
+"1200533376.0dxschafe23"
+],
+[
+"1153777945.95dzlu0",
+761.9,
+-1350.7,
+23.2,
+"door",
+"1200533376.0dxschafe19"
+],
+[
+"1153778017.46dzlu0",
+753.9,
+-1313.7,
+46.1,
+"door",
+"1200533376.0dxschafe26"
+],
+[
+"1153778094.12dzlu0",
+492.8,
+-1300.0,
+33.0,
+"door",
+"1200533376.0dxschafe67"
+],
+[
+"1153778118.18dzlu0",
+578.9,
+-1201.6,
+32.3,
+"door",
+"1200533376.0dxschafe5"
+],
+[
+"1153778118.18dzlu0",
+553.4,
+-1212.4,
+32.4,
+"door",
+"1200533376.0dxschafe6"
+],
+[
+"1153778153.99dzlu0",
+522.4,
+-1277.3,
+31.8,
+"door",
+"1200533376.0dxschafe33"
+],
+[
+"1170964864.0dxschafe0",
+-1541.5,
+-718.5,
+151.2,
+"door",
+"1200533376.0dxschafe48"
+],
+[
+"1175729664.0dxschafe0",
+-1027.1,
+-482.1,
+110.7,
+"door",
+"1200533376.0dxschafe65"
+],
+[
+"1190672768.0dxschafe1",
+706.4,
+-1239.2,
+33.6,
+"door",
+"1200533376.0dxschafe56"
+],
+[
+"1190672768.0dxschafe1",
+733.7,
+-1243.9,
+34.7,
+"door",
+"1200533376.0dxschafe57"
+],
+[
+"1167857698.16sdnaik",
+530.1,
+-1106.5,
+37.8,
+"tunnel",
+"1158123997.77sdnaik"
+],
+[
+"1164929110.98sdnaik",
+-1083.4,
+570.4,
+99.2,
+"tunnel",
+"1158120851.02sdnaik"
+],
+[
+"1167862588.52sdnaik",
+-896.9,
+-654.4,
+122.0,
+"tunnel",
+"1158123738.75sdnaik"
+]
+],
+"1150922126.8dzlu": [
+[
+"1153417506.13dzlu0",
+-209.3,
+-1650.4,
+15.5,
+"door",
+"1201026944.0dxschafe5"
+],
+[
+"1153419342.98dzlu0",
+-79.4,
+-1772.1,
+16.0,
+"door",
+"1201026944.0dxschafe39"
+],
+[
+"1153419460.35dzlu0",
+-6.3,
+-1785.8,
+15.1,
+"door",
+"1201026944.0dxschafe28"
+],
+[
+"1153419634.08dzlu0",
+-164.8,
+-1734.0,
+14.8,
+"door",
+"1201026944.0dxschafe25"
+],
+[
+"1153419689.81dzlu0",
+86.9,
+-1720.5,
+14.0,
+"door",
+"1201026944.0dxschafe8"
+],
+[
+"1153420207.67dzlu0",
+-10.4,
+-1631.7,
+18.9,
+"door",
+"1201026944.0dxschafe26"
+],
+[
+"1153420647.55dzlu0",
+534.2,
+-1821.4,
+12.4,
+"door",
+"1201026944.0dxschafe3"
+],
+[
+"1153420657.11dzlu0",
+568.1,
+-1845.8,
+10.3,
+"door",
+"1201026944.0dxschafe29"
+],
+[
+"1153423448.14dzlu0",
+-544.5,
+-1864.3,
+12.8,
+"door",
+"1201026944.0dxschafe19"
+],
+[
+"1153423464.2dzlu0",
+-504.4,
+-1851.0,
+10.4,
+"door",
+"1201026944.0dxschafe24"
+],
+[
+"1159905354.84jubutler",
+-448.6,
+-1826.8,
+8.4,
+"door",
+"1201026944.0dxschafe33"
+],
+[
+"1159905354.84jubutler",
+-472.5,
+-1799.1,
+8.5,
+"door",
+"1201026944.0dxschafe34"
+],
+[
+"1155244887.43dzlu0",
+-249.4,
+-1726.5,
+15.4,
+"door",
+"1201026944.0dxschafe13"
+],
+[
+"1155684634.87dzlu0",
+370.0,
+-1865.2,
+10.9,
+"door",
+"1201026944.0dxschafe20"
+],
+[
+"1155767402.81fxlara0",
+-195.9,
+-1808.8,
+14.9,
+"door",
+"1201026944.0dxschafe22"
+],
+[
+"1155771754.68fxlara0",
+47.9,
+-1818.5,
+8.8,
+"door",
+"1201026944.0dxschafe23"
+],
+[
+"1155773612.45fxlara0",
+148.6,
+-1662.7,
+15.7,
+"door",
+"1201026944.0dxschafe37"
+],
+[
+"1168033330.17kmuller0",
+171.5,
+-1068.9,
+59.9,
+"door",
+"1201026944.0dxschafe16"
+],
+[
+"1183482682.31kmuller0",
+-711.7,
+-1773.8,
+24.6,
+"door",
+"1201026944.0dxschafe38"
+],
+[
+"1161798288.34sdnaik",
+-561.0,
+-1678.6,
+7.7,
+"tunnel",
+"1157485774.64sdnaik"
+],
+[
+"1169592956.59sdnaik",
+12.8,
+-924.2,
+46.2,
+"tunnel",
+"1169596919.53sdnaik"
+],
+[
+"1164141722.61sdnaik",
+758.1,
+-1814.3,
+10.1,
+"tunnel",
+"1169592497.66sdnaik"
+]
+],
+"1153417506.13dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153417506.13dzlu"
+]
+],
+"1153419342.98dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153419342.98dzlu"
+]
+],
+"1153419460.35dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153419460.35dzlu"
+]
+],
+"1153419634.08dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153419634.08dzlu"
+]
+],
+"1153419689.81dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153419689.81dzlu"
+]
+],
+"1153420207.67dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153420207.67dzlu"
+]
+],
+"1153420647.55dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153420647.55dzlu"
+]
+],
+"1153420657.11dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153420657.11dzlu"
+]
+],
+"1153423448.14dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153423448.14dzlu"
+]
+],
+"1153423464.2dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1153423464.2dzlu"
+]
+],
+"1153430887.13dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153430887.13dzlu"
+]
+],
+"1153434762.53dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153434762.53dzlu"
+]
+],
+"1153434880.63dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153434880.63dzlu"
+]
+],
+"1153434928.03dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153434928.03dzlu"
+]
+],
+"1153435103.16dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153435103.16dzlu"
+]
+],
+"1153435388.6dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153435388.6dzlu"
+]
+],
+"1153435428.14dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153435428.14dzlu"
+]
+],
+"1153436073.35dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153436073.35dzlu"
+]
+],
+"1153436381.55dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153436381.55dzlu"
+]
+],
+"1153437552.45dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153437552.45dzlu"
+]
+],
+"1153507305.2dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153507305.2dzlu"
+]
+],
+"1153777833.68dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153777833.68dzlu"
+]
+],
+"1153777945.95dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153777945.95dzlu"
+]
+],
+"1153778017.46dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153778017.46dzlu"
+]
+],
+"1153778094.12dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153778094.12dzlu"
+]
+],
+"1153778118.18dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153778118.18dzlu"
+]
+],
+"1153778153.99dzlu0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1153778153.99dzlu"
+]
+],
+"1155244887.43dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1155244887.43dzlu"
+]
+],
+"1155684634.87dzlu0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1155684634.87dzlu"
+]
+],
+"1155767402.81fxlara0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1155767402.81fxlara"
+]
+],
+"1155771754.68fxlara0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1155771754.68fxlara"
+]
+],
+"1155773612.45fxlara0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1155773612.45fxlara"
+]
+],
+"1156207188.95dzlu": [
+[
+"1156207423.67dzlu0",
+93.2,
+-79.6,
+11.7,
+"door",
+"1201024640.0dxschafe0"
+],
+[
+"1156207423.67dzlu0",
+60.0,
+-81.5,
+11.5,
+"door",
+"1201024640.0dxschafe1"
+],
+[
+"1156207523.59dzlu0",
+32.5,
+-8.9,
+11.2,
+"door",
+"1201024640.0dxschafe11"
+],
+[
+"1156207578.91dzlu0",
+158.7,
+51.2,
+10.0,
+"door",
+"1201024640.0dxschafe8"
+],
+[
+"1156207603.55dzlu0",
+32.8,
+16.2,
+10.5,
+"door",
+"1201024640.0dxschafe7"
+],
+[
+"1156207773.33dzlu0",
+87.9,
+57.8,
+8.8,
+"door",
+"1201024640.0dxschafe19"
+],
+[
+"1156267902.64dzlu0",
+145.1,
+-84.3,
+10.4,
+"door",
+"1201024640.0dxschafe12"
+],
+[
+"1156267951.67dzlu0",
+114.5,
+-102.5,
+9.8,
+"door",
+"1201024640.0dxschafe4"
+],
+[
+"1156268617.43dzlu0",
+52.3,
+51.6,
+8.5,
+"door",
+"1201024640.0dxschafe3"
+],
+[
+"1156269565.62dzlu0",
+162.1,
+-13.3,
+12.5,
+"door",
+"1201024640.0dxschafe18"
+],
+[
+"1156270758.2dzlu0",
+102.0,
+-191.9,
+4.7,
+"door",
+"1201024640.0dxschafe23"
+],
+[
+"1156270917.73dzlu0",
+125.3,
+-159.8,
+10.3,
+"door",
+"1201024640.0dxschafe13"
+],
+[
+"1156270974.95dzlu0",
+229.5,
+-184.2,
+20.1,
+"door",
+"1201024640.0dxschafe5"
+],
+[
+"1156277797.07dzlu0",
+200.9,
+-169.0,
+14.3,
+"door",
+"1201024640.0dxschafe6"
+],
+[
+"1156277937.59dzlu0",
+381.1,
+8.5,
+20.1,
+"door",
+"1201024640.0dxschafe2"
+],
+[
+"1156279185.81dzlu0",
+-159.6,
+-47.7,
+13.3,
+"door",
+"1201024640.0dxschafe20"
+],
+[
+"1156279216.23dzlu0",
+-189.4,
+-45.1,
+18.6,
+"door",
+"1201024640.0dxschafe25"
+],
+[
+"1156279255.42dzlu0",
+-200.2,
+-94.8,
+15.6,
+"door",
+"1201024640.0dxschafe9"
+],
+[
+"1156279370.48dzlu0",
+-223.2,
+-78.5,
+14.0,
+"door",
+"1201024640.0dxschafe16"
+],
+[
+"1156279370.48dzlu0",
+-242.5,
+-96.0,
+14.1,
+"door",
+"1201024640.0dxschafe17"
+],
+[
+"1156279496.29dzlu0",
+-118.4,
+-30.2,
+16.7,
+"door",
+"1201024640.0dxschafe24"
+],
+[
+"1156371286.47dzlu0",
+91.7,
+-210.9,
+4.1,
+"door",
+"1201024640.0dxschafe10"
+],
+[
+"1168559956.74dxschafe0",
+-209.3,
+-268.8,
+4.5,
+"door",
+"1201024640.0dxschafe15"
+],
+[
+"1165004570.58sdnaik",
+-144.4,
+92.9,
+27.8,
+"tunnel",
+"1157133806.45sdnaik"
+],
+[
+"1165009873.53sdnaik",
+207.1,
+159.3,
+22.0,
+"tunnel",
+"1157132484.23sdnaik"
+],
+[
+"1169179552.88sdnaik",
+-398.4,
+-312.5,
+-2.5,
+"tunnel",
+"1169179942.28sdnaik"
+]
+],
+"1156207423.67dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156207423.67dzlu"
+]
+],
+"1156207523.59dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156207523.59dzlu"
+]
+],
+"1156207578.91dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156207578.91dzlu"
+]
+],
+"1156207603.55dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156207603.55dzlu"
+]
+],
+"1156207773.33dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156207773.33dzlu"
+]
+],
+"1156267902.64dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156267902.64dzlu"
+]
+],
+"1156267951.67dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156267951.67dzlu"
+]
+],
+"1156268617.43dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156268617.43dzlu"
+]
+],
+"1156269565.62dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156269565.62dzlu"
+]
+],
+"1156270758.2dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156270758.2dzlu"
+]
+],
+"1156270917.73dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156270917.73dzlu"
+]
+],
+"1156270974.95dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156270974.95dzlu"
+]
+],
+"1156277797.07dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156277797.07dzlu"
+]
+],
+"1156277937.59dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156277937.59dzlu"
+]
+],
+"1156279185.81dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156279185.81dzlu"
+]
+],
+"1156279216.23dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156279216.23dzlu"
+]
+],
+"1156279255.42dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156279255.42dzlu"
+]
+],
+"1156279370.48dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156279370.48dzlu"
+]
+],
+"1156279496.29dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156279496.29dzlu"
+]
+],
+"1156371286.47dzlu0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1156371286.47dzlu"
+]
+],
+"1158121765.09sdnaik": [
+[
+"1186699264.0dxschafe0",
+23.4,
+-274.1,
+1.4,
+"door",
+"1203997191.31dxschafe"
+],
+[
+"1165004570.58sdnaik",
+407.8,
+202.8,
+1.9,
+"tunnel",
+"1157132912.58sdnaik"
+],
+[
+"1165009873.53sdnaik",
+-535.7,
+237.3,
+77.6,
+"tunnel",
+"1169179178.34sdnaik"
+]
+],
+"1159905354.84jubutler": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1155244820.58dzlu"
+]
+],
+"1159933206.48sdnaik": [
+[
+"1189479168.0sdnaik0",
+-537.7,
+516.2,
+59.5,
+"door",
+"1189479168.0sdnaik"
+]
+],
+"1160614528.73sdnaik": [
+[
+"1171314304.0dxschafe0",
+-308.1,
+-620.4,
+28.0,
+"door",
+"1201041678.38dxschafe"
+],
+[
+"1171316864.0dxschafe0",
+-363.7,
+-694.3,
+28.8,
+"door",
+"1201041677.5dxschafe"
+],
+[
+"1171316864.0dxschafe2",
+-161.5,
+-500.4,
+11.0,
+"door",
+"1201041678.91dxschafe"
+],
+[
+"1190741504.0dxschafe0",
+-163.5,
+-613.0,
+15.5,
+"door",
+"1201041675.97dxschafe"
+],
+[
+"1190741504.0dxschafe0",
+-185.3,
+-598.6,
+15.8,
+"door",
+"1201041677.36dxschafe"
+],
+[
+"1161732578.06sdnaik",
+471.4,
+-559.8,
+-2.6,
+"tunnel",
+"1161732370.84sdnaik"
+],
+[
+"1161732578.06sdnaik",
+107.3,
+-127.3,
+0.2,
+"tunnel",
+"1161732705.67sdnaik"
+]
+],
+"1161282725.84kmuller": [
+[
+"1185994805.82kmuller0",
+-468.9,
+-91.0,
+12.5,
+"door",
+"1185994805.82kmuller"
+]
+],
+"1161732578.06sdnaik": [
+[
+"1160614528.73sdnaik",
+400.8,
+192.5,
+6.4,
+"tunnel",
+"1161732705.67sdnaik"
+],
+[
+"1160614528.73sdnaik",
+-232.8,
+-24.1,
+14.4,
+"tunnel",
+"1161732370.84sdnaik"
+]
+],
+"1161798288.34sdnaik": [
+[
+"1165001772.05sdnaik",
+498.1,
+427.8,
+45.3,
+"tunnel",
+"1164951373.09sdnaik"
+],
+[
+"1150922126.8dzlu",
+-319.0,
+-565.8,
+0.7,
+"tunnel",
+"1157485774.64sdnaik"
+]
+],
+"1164135492.81dzlu": [
+[
+"1172209006.11sdnaik",
+138.8,
+208.1,
+26.9,
+"tunnel",
+"1172208953.16sdnaik"
+]
+],
+"1164141722.61sdnaik": [
+[
+"1164952144.06sdnaik",
+-632.7,
+-263.4,
+75.0,
+"tunnel",
+"1164951887.34sdnaik"
+],
+[
+"1150922126.8dzlu",
+304.7,
+-408.1,
+115.6,
+"tunnel",
+"1169592497.66sdnaik"
+]
+],
+"1164150392.42dzlu": [
+[
+"1172208344.92sdnaik",
+118.5,
+3.7,
+14.2,
+"tunnel",
+"1172208409.95sdnaik"
+],
+[
+"1172208344.92sdnaik",
+-251.2,
+-184.7,
+14.3,
+"tunnel",
+"1172208232.61sdnaik"
+]
+],
+"1164157132.99dzlu": [
+[
+"1172209955.25sdnaik",
+184.4,
+-35.6,
+27.2,
+"tunnel",
+"1172209837.81sdnaik"
+],
+[
+"1172209955.25sdnaik",
+-60.1,
+-6.6,
+26.7,
+"tunnel",
+"1172209713.31sdnaik"
+]
+],
+"1164763706.66sdnaik": [
+[
+"1175533824.0dxschafe0",
+157.8,
+187.9,
+44.8,
+"door",
+"1213739998.33WDIG"
+]
+],
+"1164929110.98sdnaik": [
+[
+"1142018473.22dxschafe",
+161.8,
+-12.7,
+-1.0,
+"tunnel",
+"1158120851.02sdnaik"
+],
+[
+"1168057131.73sdnaik",
+-149.2,
+-122.1,
+24.2,
+"tunnel",
+"1168057258.78sdnaik"
+]
+],
+"1164952144.06sdnaik": [
+[
+"1164141722.61sdnaik",
+519.1,
+-416.8,
+52.2,
+"tunnel",
+"1164951887.34sdnaik"
+],
+[
+"1169592956.59sdnaik",
+513.1,
+104.0,
+88.6,
+"tunnel",
+"1164951656.91sdnaik"
+]
+],
+"1165001772.05sdnaik": [
+[
+"1161798288.34sdnaik",
+407.8,
+202.8,
+1.9,
+"tunnel",
+"1164951373.09sdnaik"
+],
+[
+"1169592956.59sdnaik",
+-535.7,
+237.3,
+77.6,
+"tunnel",
+"1169593382.95sdnaik"
+]
+],
+"1165004570.58sdnaik": [
+[
+"1158121765.09sdnaik",
+36.7,
+255.7,
+7.1,
+"tunnel",
+"1157132912.58sdnaik"
+],
+[
+"1165009856.72sdnaik",
+837.2,
+5.2,
+52.4,
+"tunnel",
+"1169797457.36sdnaik"
+],
+[
+"1156207188.95dzlu",
+380.7,
+407.5,
+61.2,
+"tunnel",
+"1157133806.45sdnaik"
+]
+],
+"1165009856.72sdnaik": [
+[
+"1165004570.58sdnaik",
+498.1,
+427.8,
+45.3,
+"tunnel",
+"1169797457.36sdnaik"
+],
+[
+"1169179552.88sdnaik",
+-319.0,
+-565.8,
+0.7,
+"tunnel",
+"1169179649.25sdnaik"
+]
+],
+"1165009873.53sdnaik": [
+[
+"1165201513.53Shochet0",
+214.1,
+102.8,
+113.0,
+"door",
+"1209063086.42dxschafe"
+],
+[
+"1158121765.09sdnaik",
+-624.8,
+-263.4,
+74.0,
+"tunnel",
+"1169179178.34sdnaik"
+],
+[
+"1156207188.95dzlu",
+304.7,
+-408.1,
+115.6,
+"tunnel",
+"1157132484.23sdnaik"
+]
+],
+"1165201513.53Shochet0": [
+[
+"1165009873.53sdnaik",
+null,
+null,
+null,
+"door",
+"1165201513.53Shochet"
+]
+],
+"1167857698.16naiksd": [
+[
+"1173382404.64sdnaik",
+498.1,
+427.8,
+45.3,
+"tunnel",
+"1183051648.0sdnaik"
+],
+[
+"1173382404.64sdnaik",
+-319.0,
+-565.8,
+0.7,
+"tunnel",
+"1183049856.0sdnaik"
+]
+],
+"1167857698.16sdnaik": [
+[
+"1167862588.52sdnaik",
+498.1,
+427.8,
+45.3,
+"tunnel",
+"1164929430.17sdnaik"
+],
+[
+"1142018473.22dxschafe",
+-319.0,
+-565.8,
+0.7,
+"tunnel",
+"1158123997.77sdnaik"
+]
+],
+"1167862588.52sdnaik": [
+[
+"1168057131.73sdnaik",
+123.7,
+4.8,
+47.3,
+"tunnel",
+"1158121685.53sdnaik"
+],
+[
+"1167857698.16sdnaik",
+740.6,
+53.2,
+56.9,
+"tunnel",
+"1164929430.17sdnaik"
+],
+[
+"1142018473.22dxschafe",
+539.4,
+-174.2,
+39.3,
+"tunnel",
+"1158123738.75sdnaik"
+]
+],
+"1168033330.17kmuller0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1168033330.17kmuller"
+]
+],
+"1168057131.73sdnaik": [
+[
+"1167862588.52sdnaik",
+296.5,
+138.0,
+2.3,
+"tunnel",
+"1158121685.53sdnaik"
+],
+[
+"1164929110.98sdnaik",
+3.1,
+-362.1,
+41.7,
+"tunnel",
+"1168057258.78sdnaik"
+]
+],
+"1168559956.74dxschafe0": [
+[
+"1156207188.95dzlu",
+null,
+null,
+null,
+"door",
+"1168559956.74dxschafe"
+]
+],
+"1169179552.88sdnaik": [
+[
+"1165009856.72sdnaik",
+-383.5,
+124.7,
+9.4,
+"tunnel",
+"1169179649.25sdnaik"
+],
+[
+"1156207188.95dzlu",
+557.7,
+254.9,
+12.4,
+"tunnel",
+"1169179942.28sdnaik"
+]
+],
+"1169592956.59sdnaik": [
+[
+"1164952144.06sdnaik",
+36.7,
+255.7,
+7.1,
+"tunnel",
+"1164951656.91sdnaik"
+],
+[
+"1165001772.05sdnaik",
+837.2,
+5.2,
+52.4,
+"tunnel",
+"1169593382.95sdnaik"
+],
+[
+"1150922126.8dzlu",
+380.7,
+407.5,
+61.2,
+"tunnel",
+"1169596919.53sdnaik"
+]
+],
+"1170964864.0dxschafe0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1170964864.0dxschafe"
+]
+],
+"1170972672.0dxschafe0": [
+[
+"1189479168.0sdnaik0",
+null,
+null,
+null,
+"door",
+"1170972672.0dxschafe"
+]
+],
+"1170972800.0dxschafe0": [
+[
+"1189479168.0sdnaik0",
+null,
+null,
+null,
+"door",
+"1170972800.0dxschafe"
+]
+],
+"1171314304.0dxschafe0": [
+[
+"1160614528.73sdnaik",
+null,
+null,
+null,
+"door",
+"1171314304.0dxschafe"
+]
+],
+"1171316864.0dxschafe0": [
+[
+"1160614528.73sdnaik",
+null,
+null,
+null,
+"door",
+"1171316864.0dxschafe"
+]
+],
+"1171316864.0dxschafe2": [
+[
+"1160614528.73sdnaik",
+null,
+null,
+null,
+"door",
+"1171316864.0dxschafe1"
+]
+],
+"1172208344.92sdnaik": [
+[
+"1164150392.42dzlu",
+407.8,
+202.8,
+1.9,
+"tunnel",
+"1172208409.95sdnaik"
+],
+[
+"1164150392.42dzlu",
+-535.7,
+237.3,
+77.6,
+"tunnel",
+"1172208232.61sdnaik"
+]
+],
+"1172209006.11sdnaik": [
+[
+"1164135492.81dzlu",
+85.9,
+-190.1,
+24.8,
+"tunnel",
+"1172208953.16sdnaik"
+]
+],
+"1172209955.25sdnaik": [
+[
+"1164157132.99dzlu",
+498.1,
+427.8,
+45.3,
+"tunnel",
+"1172209713.31sdnaik"
+],
+[
+"1164157132.99dzlu",
+-319.0,
+-565.8,
+0.7,
+"tunnel",
+"1172209837.81sdnaik"
+]
+],
+"1173382404.64sdnaik": [
+[
+"1167857698.16naiksd",
+108.5,
+-258.0,
+26.3,
+"tunnel",
+"1183049856.0sdnaik"
+],
+[
+"1167857698.16naiksd",
+134.3,
+219.8,
+25.9,
+"tunnel",
+"1183051648.0sdnaik"
+]
+],
+"1175533824.0dxschafe0": [
+[
+"1164763706.66sdnaik",
+null,
+null,
+null,
+"door",
+"1175533824.0dxschafe"
+]
+],
+"1175729664.0dxschafe0": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1175729664.0dxschafe"
+]
+],
+"1183482682.31kmuller0": [
+[
+"1150922126.8dzlu",
+null,
+null,
+null,
+"door",
+"1183482682.31kmuller"
+]
+],
+"1185994805.82kmuller0": [
+[
+"1161282725.84kmuller",
+null,
+null,
+null,
+"door",
+"1185994805.82kmuller"
+]
+],
+"1186699264.0dxschafe0": [
+[
+"1158121765.09sdnaik",
+null,
+null,
+null,
+"door",
+"1186699264.0dxschafe"
+]
+],
+"1189479168.0sdnaik0": [
+[
+"1159933206.48sdnaik",
+null,
+null,
+null,
+"door",
+"1189479168.0sdnaik"
+],
+[
+"1170972672.0dxschafe0",
+-91.8,
+105.6,
+103.8,
+"door",
+"1201115177.31dxschafe"
+],
+[
+"1170972800.0dxschafe0",
+234.5,
+122.4,
+379.2,
+"door",
+"1201115179.88dxschafe"
+],
+[
+"1190335104.0dxschafe0",
+146.0,
+-830.9,
+211.1,
+"door",
+"1201115174.72dxschafe"
+]
+],
+"1190335104.0dxschafe0": [
+[
+"1189479168.0sdnaik0",
+null,
+null,
+null,
+"door",
+"1190335104.0dxschafe"
+]
+],
+"1190672768.0dxschafe1": [
+[
+"1142018473.22dxschafe",
+null,
+null,
+null,
+"door",
+"1190672768.0dxschafe0"
+]
+],
+"1190741504.0dxschafe0": [
+[
+"1160614528.73sdnaik",
+null,
+null,
+null,
+"door",
+"1190741504.0dxschafe"
+]
+],
+"1196970035.53sdnaik": [
+[
+"1204237124.2akelts0",
+-249.9,
+-140.6,
+66.0,
+"door",
+"1210373723.53akelts"
+],
+[
+"1204237124.2akelts0",
+-255.1,
+-166.1,
+66.0,
+"door",
+"1210373725.94akelts"
+]
+],
+"1196970080.56sdnaik": [
+[
+"1202846053.19akelts0",
+62.9,
+-228.0,
+29.4,
+"door",
+"1210704940.31kmuller"
+],
+[
+"1202846053.19akelts0",
+88.9,
+-227.0,
+29.7,
+"door",
+"1210704940.34kmuller"
+]
+],
+"1202846053.19akelts0": [
+[
+"1196970080.56sdnaik",
+null,
+null,
+null,
+"door",
+"1202846053.19akelts"
+]
+],
+"1204237124.2akelts0": [
+[
+"1196970035.53sdnaik",
+null,
+null,
+null,
+"door",
+"1204237124.2akelts"
+]
+]
+},
+"objs": {
+"1158366574.17dparis": [
+"1150922126.8dzlu",
+-1222.3,
+-2747.5,
+160.4,
+"Spawn Node",
+"Low Navy"
+],
+"1158366673.28dparis": [
+"1150922126.8dzlu",
+-1222.8,
+-2769.0,
+160.1,
+"Spawn Node",
+"Noob Navy"
+],
+"1158366723.53dparis": [
+"1150922126.8dzlu",
+-750.0,
+-1971.0,
+11.9,
+"Spawn Node",
+"Noob Navy"
+],
+"1162436315.06sdnaik": [
+"1158121765.09sdnaik",
+1.3,
+-174.1,
+30.4,
+"Spawn Node",
+"Early Skeleton"
+],
+"1164936002.39Shochet": [
+"1161798288.34sdnaik",
+-436.9,
+-254.2,
+10.5,
+"Spawn Node",
+"Low Skeleton"
+],
+"1164936245.39Shochet": [
+"1161798288.34sdnaik",
+-130.8,
+67.0,
+19.4,
+"Spawn Node",
+"Alligator"
+],
+"1164936310.64Shochet": [
+"1161798288.34sdnaik",
+-78.6,
+282.3,
+70.1,
+"Spawn Node",
+"Wasp"
+],
+"1164936338.17Shochet": [
+"1161798288.34sdnaik",
+97.8,
+-7.6,
+30.6,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1164936402.78Shochet": [
+"1161798288.34sdnaik",
+80.9,
+167.3,
+43.5,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1164936419.63Shochet": [
+"1161798288.34sdnaik",
+268.2,
+188.4,
+40.0,
+"Spawn Node",
+"Low Skeleton"
+],
+"1164936439.78Shochet": [
+"1161798288.34sdnaik",
+364.8,
+128.1,
+42.3,
+"Spawn Node",
+"Low Skeleton"
+],
+"1164936491.86Shochet": [
+"1161798288.34sdnaik",
+-360.7,
+30.4,
+13.4,
+"Spawn Node",
+"Alligator"
+],
+"1164936513.38Shochet": [
+"1161798288.34sdnaik",
+-176.9,
+258.2,
+22.0,
+"Spawn Node",
+"Alligator"
+],
+"1164939070.28Shochet": [
+"1164141722.61sdnaik",
+-405.8,
+-124.1,
+102.3,
+"Spawn Node",
+"Scorpion"
+],
+"1164939086.73Shochet": [
+"1164141722.61sdnaik",
+-372.8,
+-294.3,
+101.1,
+"Spawn Node",
+"Scorpion"
+],
+"1164939103.3Shochet": [
+"1164141722.61sdnaik",
+-268.6,
+-126.9,
+117.5,
+"Spawn Node",
+"Scorpion"
+],
+"1164939123.75Shochet": [
+"1164141722.61sdnaik",
+-95.1,
+-37.6,
+125.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1164939230.45Shochet": [
+"1164141722.61sdnaik",
+263.8,
+-247.3,
+107.9,
+"Spawn Node",
+"Low Skeleton"
+],
+"1164939260.28Shochet": [
+"1164141722.61sdnaik",
+356.4,
+-315.3,
+113.5,
+"Spawn Node",
+"Bat"
+],
+"1164939309.61Shochet": [
+"1164141722.61sdnaik",
+-495.8,
+-282.1,
+87.7,
+"Spawn Node",
+"Scorpion"
+],
+"1164999249.69Shochet": [
+"1164952144.06sdnaik",
+154.9,
+-86.8,
+2.6,
+"Spawn Node",
+"Scorpion"
+],
+"1164999287.17Shochet": [
+"1164952144.06sdnaik",
+286.8,
+-185.4,
+4.2,
+"Spawn Node",
+"Mid Navy"
+],
+"1164999438.31Shochet": [
+"1164952144.06sdnaik",
+281.0,
+-186.5,
+4.2,
+"Spawn Node",
+"Mid Navy"
+],
+"1164999523.0Shochet": [
+"1164952144.06sdnaik",
+391.4,
+-212.7,
+2.6,
+"Spawn Node",
+"EITC - Thug"
+],
+"1165018378.63Shochet": [
+"1150922126.8dzlu",
+402.2,
+-1838.9,
+12.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165018628.69Shochet": [
+"1150922126.8dzlu",
+291.1,
+-1004.0,
+52.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165018665.78Shochet": [
+"1150922126.8dzlu",
+-7.3,
+-1396.0,
+19.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165018696.72Shochet": [
+"1150922126.8dzlu",
+-348.2,
+-1713.3,
+11.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165018724.53Shochet": [
+"1150922126.8dzlu",
+89.7,
+-1810.1,
+9.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165018774.94Shochet": [
+"1150922126.8dzlu",
+287.6,
+-1297.2,
+26.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165018816.39Shochet": [
+"1150922126.8dzlu",
+180.4,
+-1622.7,
+11.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165019105.05Shochet": [
+"1164952144.06sdnaik",
+291.3,
+-228.6,
+4.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165019132.53Shochet": [
+"1164952144.06sdnaik",
+132.4,
+-187.8,
+2.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165019166.08Shochet": [
+"1164952144.06sdnaik",
+425.7,
+-138.8,
+2.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165019328.28Shochet": [
+"1165001772.05sdnaik",
+-43.1,
+-160.7,
+32.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165019476.34Shochet": [
+"1165001772.05sdnaik",
+65.2,
+19.8,
+27.5,
+"Spawn Node",
+"Vampire Bat"
+],
+"1165019501.84Shochet": [
+"1165001772.05sdnaik",
+29.0,
+-180.0,
+28.8,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1165197002.81Shochet": [
+"1161798288.34sdnaik",
+-240.9,
+-148.2,
+17.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165197032.86Shochet": [
+"1161798288.34sdnaik",
+-248.0,
+-165.8,
+16.8,
+"Spawn Node",
+"Low Skeleton"
+],
+"1165197123.73Shochet": [
+"1161798288.34sdnaik",
+-476.8,
+-70.2,
+18.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1165197146.75Shochet": [
+"1161798288.34sdnaik",
+-489.6,
+-229.4,
+13.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165197181.14Shochet": [
+"1161798288.34sdnaik",
+-166.2,
+143.5,
+21.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165197257.5Shochet": [
+"1164141722.61sdnaik",
+-312.9,
+-311.1,
+107.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165197288.56Shochet": [
+"1164141722.61sdnaik",
+101.5,
+2.2,
+117.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165197301.95Shochet": [
+"1164141722.61sdnaik",
+120.3,
+15.2,
+116.7,
+"Spawn Node",
+"Scorpion"
+],
+"1165197323.8Shochet": [
+"1164141722.61sdnaik",
+206.9,
+159.8,
+92.0,
+"Spawn Node",
+"Alligator"
+],
+"1165197451.89Shochet": [
+"1164141722.61sdnaik",
+-53.5,
+-120.8,
+125.3,
+"Spawn Node",
+"Early Skeleton"
+],
+"1165197469.59Shochet": [
+"1164141722.61sdnaik",
+-122.4,
+-172.9,
+128.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165197613.83Shochet": [
+"1164952144.06sdnaik",
+565.2,
+-276.3,
+2.6,
+"Spawn Node",
+"Bat"
+],
+"1165197639.41Shochet": [
+"1164952144.06sdnaik",
+369.9,
+-164.7,
+2.6,
+"Spawn Node",
+"Bat"
+],
+"1165197665.86Shochet": [
+"1164952144.06sdnaik",
+180.3,
+-89.2,
+2.6,
+"Spawn Node",
+"Bat"
+],
+"1165197708.75Shochet": [
+"1164952144.06sdnaik",
+166.7,
+-258.7,
+0.2,
+"Spawn Node",
+"Bat"
+],
+"1165197827.77Shochet": [
+"1165001772.05sdnaik",
+-219.8,
+-109.6,
+55.8,
+"Spawn Node",
+"Vampire Bat"
+],
+"1165198179.13Shochet": [
+"1158121765.09sdnaik",
+68.9,
+-173.0,
+27.3,
+"Spawn Node",
+"Low Skeleton"
+],
+"1165198212.56Shochet": [
+"1158121765.09sdnaik",
+-450.4,
+98.2,
+78.1,
+"Spawn Node",
+"Bat"
+],
+"1165198250.78Shochet": [
+"1158121765.09sdnaik",
+-27.1,
+-24.8,
+31.6,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1165198262.39Shochet": [
+"1158121765.09sdnaik",
+35.8,
+-10.7,
+28.8,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1165198277.17Shochet": [
+"1158121765.09sdnaik",
+-99.0,
+166.4,
+34.8,
+"Spawn Node",
+"Scorpion"
+],
+"1165198307.05Shochet": [
+"1158121765.09sdnaik",
+-305.0,
+215.0,
+67.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165198339.88Shochet": [
+"1158121765.09sdnaik",
+-243.7,
+122.7,
+66.1,
+"Spawn Node",
+"Vampire Bat"
+],
+"1165198380.77Shochet": [
+"1158121765.09sdnaik",
+171.0,
+-246.7,
+19.0,
+"Spawn Node",
+"Scorpion"
+],
+"1165198398.22Shochet": [
+"1158121765.09sdnaik",
+185.8,
+-234.4,
+16.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165198503.47Shochet": [
+"1158121765.09sdnaik",
+-277.3,
+-39.2,
+56.5,
+"Spawn Node",
+"Mid Navy"
+],
+"1165198750.63Shochet": [
+"1158121765.09sdnaik",
+-212.5,
+-119.6,
+55.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165199597.91Shochet": [
+"1156207188.95dzlu",
+-316.4,
+-312.8,
+-1.0,
+"Spawn Node",
+"Alligator"
+],
+"1165199625.3Shochet": [
+"1156207188.95dzlu",
+-281.0,
+-293.5,
+1.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165199876.28Shochet": [
+"1156207188.95dzlu",
+-168.5,
+-120.7,
+18.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165199908.11Shochet": [
+"1156207188.95dzlu",
+85.1,
+110.3,
+7.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165200029.95Shochet": [
+"1156207188.95dzlu",
+358.0,
+40.5,
+15.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165200204.91Shochet": [
+"1165009856.72sdnaik",
+-12.6,
+306.0,
+82.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165200225.19Shochet": [
+"1165009856.72sdnaik",
+-38.5,
+270.3,
+78.1,
+"Spawn Node",
+"Vampire Bat"
+],
+"1165200494.64Shochet": [
+"1165009856.72sdnaik",
+-211.7,
+-90.9,
+16.4,
+"Spawn Node",
+"Big Gator"
+],
+"1165200514.06Shochet": [
+"1165009856.72sdnaik",
+-377.9,
+-273.0,
+9.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165200531.55Shochet": [
+"1165009856.72sdnaik",
+-506.8,
+-167.8,
+14.5,
+"Spawn Node",
+"Vampire Bat"
+],
+"1165200567.16Shochet": [
+"1165009856.72sdnaik",
+-411.0,
+-50.9,
+18.2,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1165200596.5Shochet": [
+"1165009856.72sdnaik",
+-102.1,
+134.3,
+22.5,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1165200700.2Shochet": [
+"1165009856.72sdnaik",
+339.1,
+135.0,
+42.0,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1165200790.84Shochet": [
+"1165009856.72sdnaik",
+55.7,
+-53.3,
+29.3,
+"Spawn Node",
+"Vampire Bat"
+],
+"1165200809.17Shochet": [
+"1165009856.72sdnaik",
+42.2,
+-125.6,
+25.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165200852.94Shochet": [
+"1165009856.72sdnaik",
+-201.8,
+39.0,
+14.6,
+"Spawn Node",
+"High Skeleton"
+],
+"1165201347.11Shochet": [
+"1165009873.53sdnaik",
+316.1,
+-221.6,
+104.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165201410.28Shochet": [
+"1165009873.53sdnaik",
+255.1,
+-226.5,
+116.6,
+"Spawn Node",
+"Scorpion"
+],
+"1165201756.11Shochet": [
+"1165009873.53sdnaik",
+191.6,
+-50.2,
+115.6,
+"Spawn Node",
+"Scorpion"
+],
+"1165201826.06Shochet": [
+"1165009873.53sdnaik",
+10.3,
+-31.9,
+121.4,
+"Spawn Node",
+"Scorpion"
+],
+"1165201844.27Shochet": [
+"1165009873.53sdnaik",
+-5.6,
+9.8,
+121.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165204787.52Shochet": [
+"1165009873.53sdnaik",
+-76.5,
+-151.1,
+126.7,
+"Spawn Node",
+"Scorpion"
+],
+"1165205238.75Shochet": [
+"1165009873.53sdnaik",
+-303.7,
+-305.8,
+108.4,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1165205254.09Shochet": [
+"1165009873.53sdnaik",
+-320.3,
+-327.9,
+105.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1165205286.52Shochet": [
+"1165009873.53sdnaik",
+-456.8,
+-329.9,
+90.7,
+"Spawn Node",
+"Scorpion"
+],
+"1170568896.56sdnaik": [
+"1169592956.59sdnaik",
+31.9,
+92.8,
+4.3,
+"Spawn Node",
+"Alligator"
+],
+"1170568957.41sdnaik": [
+"1169592956.59sdnaik",
+-6.5,
+41.5,
+-3.0,
+"Spawn Node",
+"Big Gator"
+],
+"1170742144.0mike": [
+"1150922126.8dzlu",
+-1333.1,
+-3081.9,
+193.0,
+"Searchable Container",
+""
+],
+"1172046720.0JB0": [
+"1150922126.8dzlu",
+-581.4,
+-1777.5,
+15.1,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1172635262.83sdnaik": [
+"1169179552.88sdnaik",
+-154.0,
+95.5,
+1.2,
+"Spawn Node",
+"FlyTrap"
+],
+"1172635301.08sdnaik": [
+"1169179552.88sdnaik",
+-231.0,
+207.8,
+3.8,
+"Spawn Node",
+"Rock Crab"
+],
+"1172635315.69sdnaik": [
+"1169179552.88sdnaik",
+-188.4,
+183.6,
+-0.6,
+"Spawn Node",
+"Big Gator"
+],
+"1173148032.0mike": [
+"1156207578.91dzlu0",
+-18.2,
+-13.3,
+0.0,
+"Searchable Container",
+""
+],
+"1173148288.0mike": [
+"1156207188.95dzlu",
+39.0,
+-222.0,
+1.9,
+"Searchable Container",
+""
+],
+"1173148416.0mike": [
+"1156207188.95dzlu",
+19.3,
+-216.0,
+2.0,
+"Searchable Container",
+""
+],
+"1173148416.0mike0": [
+"1156207188.95dzlu",
+-231.0,
+-276.5,
+2.6,
+"Searchable Container",
+""
+],
+"1173409685.38sdnaik": [
+"1165009856.72sdnaik",
+10.5,
+268.4,
+79.8,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1173409763.27sdnaik": [
+"1165009856.72sdnaik",
+263.7,
+62.4,
+37.1,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1173409796.13sdnaik": [
+"1165009856.72sdnaik",
+-112.3,
+96.1,
+19.8,
+"Spawn Node",
+"High Skeleton"
+],
+"1174694272.0dxschafe": [
+"1165009873.53sdnaik",
+205.7,
+148.4,
+108.1,
+"Spawn Node",
+"Alligator"
+],
+"1174694272.0dxschafe0": [
+"1165009873.53sdnaik",
+368.4,
+-313.8,
+113.1,
+"Spawn Node",
+"Bat"
+],
+"1174695296.0dxschafe0": [
+"1165009873.53sdnaik",
+305.0,
+-324.8,
+115.3,
+"Spawn Node",
+"Early Skeleton"
+],
+"1174695424.0dxschafe": [
+"1165009873.53sdnaik",
+355.9,
+-244.8,
+113.2,
+"Spawn Node",
+"Early Skeleton"
+],
+"1174695552.0dxschafe": [
+"1165009873.53sdnaik",
+93.3,
+29.1,
+117.9,
+"Spawn Node",
+"Scorpion"
+],
+"1174695552.0dxschafe0": [
+"1165009873.53sdnaik",
+65.4,
+162.7,
+115.6,
+"Spawn Node",
+"Early Skeleton"
+],
+"1174695808.0dxschafe0": [
+"1165009873.53sdnaik",
+-440.0,
+-90.3,
+99.5,
+"Spawn Node",
+"Bat"
+],
+"1174695808.0dxschafe2": [
+"1165009873.53sdnaik",
+-501.9,
+-399.5,
+88.3,
+"Spawn Node",
+"Bat"
+],
+"1174695936.0dxschafe": [
+"1165009873.53sdnaik",
+-431.9,
+-356.9,
+92.7,
+"Spawn Node",
+"Early Skeleton"
+],
+"1174695936.0dxschafe0": [
+"1165009873.53sdnaik",
+-347.2,
+-220.4,
+106.1,
+"Spawn Node",
+"Early Skeleton"
+],
+"1174696064.0dxschafe": [
+"1158121765.09sdnaik",
+-237.0,
+-78.8,
+56.2,
+"Spawn Node",
+"High Navy"
+],
+"1174696704.0dxschafe3": [
+"1158121765.09sdnaik",
+71.1,
+-186.0,
+27.3,
+"Spawn Node",
+"Low Skeleton"
+],
+"1174696832.0dxschafe0": [
+"1158121765.09sdnaik",
+-312.3,
+-83.1,
+55.8,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1174696960.0dxschafe": [
+"1158121765.09sdnaik",
+-16.7,
+79.5,
+31.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1174696960.0dxschafe0": [
+"1158121765.09sdnaik",
+428.6,
+-167.7,
+2.2,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1174697088.0dxschafe": [
+"1158121765.09sdnaik",
+433.5,
+-186.3,
+2.2,
+"Spawn Node",
+"Low Skeleton"
+],
+"1174697088.0dxschafe0": [
+"1158121765.09sdnaik",
+303.3,
+146.9,
+2.2,
+"Spawn Node",
+"Bat"
+],
+"1174697216.0dxschafe": [
+"1158121765.09sdnaik",
+445.5,
+-177.1,
+2.2,
+"Spawn Node",
+"Scorpion"
+],
+"1174697600.0dxschafe": [
+"1169179552.88sdnaik",
+451.4,
+342.9,
+2.8,
+"Spawn Node",
+"Rock Crab"
+],
+"1174697984.0dxschafe": [
+"1169179552.88sdnaik",
+-384.5,
+228.9,
+2.1,
+"Spawn Node",
+"Crab"
+],
+"1174697984.0dxschafe0": [
+"1169179552.88sdnaik",
+-379.7,
+241.4,
+3.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1174698112.0dxschafe": [
+"1169179552.88sdnaik",
+116.2,
+161.3,
+-1.3,
+"Spawn Node",
+"Big Gator"
+],
+"1174698240.0dxschafe": [
+"1169179552.88sdnaik",
+182.2,
+100.4,
+3.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1174698368.0dxschafe": [
+"1169179552.88sdnaik",
+120.8,
+9.2,
+-0.2,
+"Spawn Node",
+"Huge Gator"
+],
+"1174698624.0dxschafe": [
+"1169179552.88sdnaik",
+352.0,
+226.4,
+-0.5,
+"Spawn Node",
+"Alligator"
+],
+"1174930688.0dxschafe": [
+"1164763706.66sdnaik",
+76.2,
+-197.6,
+10.7,
+"Spawn Node",
+"Crab"
+],
+"1174930816.0dxschafe": [
+"1164763706.66sdnaik",
+-107.0,
+209.1,
+39.7,
+"Spawn Node",
+"Wasp"
+],
+"1174930944.0dxschafe": [
+"1164763706.66sdnaik",
+305.8,
+-49.8,
+59.5,
+"Spawn Node",
+"Wasp"
+],
+"1174930944.0dxschafe0": [
+"1164763706.66sdnaik",
+439.5,
+292.5,
+9.4,
+"Spawn Node",
+"Crab"
+],
+"1175021696.0dxschafe0": [
+"1172209955.25sdnaik",
+33.8,
+-38.2,
+26.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175021696.0dxschafe1": [
+"1172209955.25sdnaik",
+27.6,
+61.7,
+27.2,
+"Spawn Node",
+"Wasp"
+],
+"1175021696.0dxschafe2": [
+"1172209955.25sdnaik",
+93.5,
+38.5,
+35.4,
+"Spawn Node",
+"Wasp"
+],
+"1175021696.0dxschafe3": [
+"1172209955.25sdnaik",
+62.6,
+-49.2,
+28.0,
+"Spawn Node",
+"Angry Wasp"
+],
+"1175021696.0dxschafe4": [
+"1172209955.25sdnaik",
+205.3,
+-4.9,
+34.2,
+"Spawn Node",
+"Angry Wasp"
+],
+"1175021696.0dxschafe5": [
+"1172209955.25sdnaik",
+-87.2,
+73.1,
+20.1,
+"Spawn Node",
+"Wasp"
+],
+"1175021696.0dxschafe6": [
+"1172209955.25sdnaik",
+58.6,
+-65.7,
+27.5,
+"Spawn Node",
+"Wasp"
+],
+"1175021824.0dxschafe": [
+"1172209955.25sdnaik",
+158.0,
+146.6,
+35.8,
+"Spawn Node",
+"Wasp"
+],
+"1175021824.0dxschafe0": [
+"1172209955.25sdnaik",
+123.6,
+25.0,
+32.3,
+"Spawn Node",
+"Wasp"
+],
+"1175037824.0dxschafe": [
+"1156207603.55dzlu0",
+-11.5,
+8.0,
+0.0,
+"Searchable Container",
+""
+],
+"1175041664.0dxschafe": [
+"1156359855.24bbathen",
+-79.6,
+-19.2,
+17.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175041664.0dxschafe0": [
+"1156359855.24bbathen",
+95.9,
+-56.6,
+23.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175041664.0dxschafe1": [
+"1156359855.24bbathen",
+-309.0,
+-186.9,
+14.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175041664.0dxschafe2": [
+"1156359855.24bbathen",
+164.4,
+74.9,
+49.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175041664.0dxschafe3": [
+"1156359855.24bbathen",
+138.0,
+316.7,
+19.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175041664.0dxschafe4": [
+"1156359855.24bbathen",
+-96.7,
+368.0,
+22.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175041664.0dxschafe5": [
+"1156359855.24bbathen",
+201.9,
+-72.5,
+63.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175041664.0dxschafe6": [
+"1156359855.24bbathen",
+-205.3,
+-78.6,
+20.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175041664.0dxschafe7": [
+"1156359855.24bbathen",
+-3.8,
+171.2,
+50.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175042048.0dxschafe10": [
+"1156359855.24bbathen",
+46.3,
+443.9,
+10.0,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe11": [
+"1156359855.24bbathen",
+-230.1,
+419.8,
+6.7,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe12": [
+"1156359855.24bbathen",
+-489.7,
+218.6,
+9.7,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe13": [
+"1156359855.24bbathen",
+422.9,
+260.5,
+18.7,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe14": [
+"1156359855.24bbathen",
+313.7,
+-204.5,
+14.3,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe4": [
+"1156359855.24bbathen",
+-273.3,
+-257.7,
+7.8,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe5": [
+"1156359855.24bbathen",
+-162.0,
+-124.1,
+10.4,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe6": [
+"1156359855.24bbathen",
+-43.2,
+-107.5,
+8.2,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe7": [
+"1156359855.24bbathen",
+151.1,
+-250.4,
+19.1,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe8": [
+"1156359855.24bbathen",
+284.6,
+315.6,
+4.6,
+"Spawn Node",
+"Crab"
+],
+"1175042048.0dxschafe9": [
+"1156359855.24bbathen",
+186.6,
+369.6,
+6.2,
+"Spawn Node",
+"Crab"
+],
+"1175042176.0dxschafe": [
+"1156359855.24bbathen",
+404.1,
+-14.6,
+22.0,
+"Spawn Node",
+"Crab"
+],
+"1175042176.0dxschafe0": [
+"1156359855.24bbathen",
+-368.4,
+-278.4,
+10.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042176.0dxschafe1": [
+"1156359855.24bbathen",
+-408.5,
+-238.6,
+18.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042176.0dxschafe2": [
+"1156359855.24bbathen",
+79.7,
+-96.8,
+20.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042176.0dxschafe3": [
+"1156359855.24bbathen",
+-37.1,
+459.6,
+10.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042176.0dxschafe4": [
+"1156359855.24bbathen",
+407.8,
+325.4,
+6.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042176.0dxschafe5": [
+"1156359855.24bbathen",
+-101.3,
+-6.5,
+18.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042176.0dxschafe6": [
+"1156359855.24bbathen",
+117.1,
+349.8,
+18.8,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042176.0dxschafe7": [
+"1156359855.24bbathen",
+101.3,
+-142.2,
+26.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042176.0dxschafe9": [
+"1156359855.24bbathen",
+75.2,
+-211.9,
+5.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe": [
+"1156359855.24bbathen",
+-318.6,
+-281.9,
+7.2,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe0": [
+"1156359855.24bbathen",
+-86.1,
+41.6,
+21.9,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe1": [
+"1156359855.24bbathen",
+15.2,
+75.3,
+30.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042304.0dxschafe10": [
+"1156359855.24bbathen",
+415.9,
+107.2,
+27.3,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe2": [
+"1156359855.24bbathen",
+153.3,
+270.7,
+27.8,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe3": [
+"1156359855.24bbathen",
+225.7,
+-44.0,
+71.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe4": [
+"1156359855.24bbathen",
+-1.4,
+187.3,
+55.1,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe5": [
+"1156359855.24bbathen",
+-302.4,
+-146.8,
+18.3,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe6": [
+"1156359855.24bbathen",
+181.6,
+58.4,
+58.1,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe7": [
+"1156359855.24bbathen",
+-464.7,
+-251.5,
+19.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1175042304.0dxschafe8": [
+"1156359855.24bbathen",
+-554.7,
+69.6,
+10.6,
+"Spawn Node",
+"Giant Crab"
+],
+"1175042304.0dxschafe9": [
+"1156359855.24bbathen",
+-342.5,
+342.8,
+7.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1175102976.0dxschafe": [
+"1156207188.95dzlu",
+35.8,
+-74.6,
+11.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175105408.0dxschafe": [
+"1156359855.24bbathen",
+-407.7,
+-270.7,
+14.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175105408.0dxschafe0": [
+"1156359855.24bbathen",
+-408.3,
+-304.0,
+7.2,
+"Spawn Node",
+"Rock Crab"
+],
+"1175105408.0dxschafe1": [
+"1156359855.24bbathen",
+-453.7,
+-296.9,
+8.8,
+"Spawn Node",
+"Giant Crab"
+],
+"1175105408.0dxschafe2": [
+"1156359855.24bbathen",
+-361.9,
+-224.5,
+17.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1175129344.0dxschafe": [
+"1161282725.84kmuller",
+-425.3,
+207.9,
+8.9,
+"Spawn Node",
+"Wasp"
+],
+"1175129472.0dxschafe0": [
+"1161282725.84kmuller",
+324.3,
+46.8,
+7.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1175129472.0dxschafe1": [
+"1161282725.84kmuller",
+531.8,
+-148.5,
+15.6,
+"Spawn Node",
+"Rock Crab"
+],
+"1175129472.0dxschafe2": [
+"1161282725.84kmuller",
+166.2,
+517.0,
+7.7,
+"Spawn Node",
+"Crab"
+],
+"1175129472.0dxschafe3": [
+"1161282725.84kmuller",
+-99.4,
+552.6,
+2.4,
+"Spawn Node",
+"Crab"
+],
+"1175129472.0dxschafe4": [
+"1161282725.84kmuller",
+-528.5,
+-337.1,
+1.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1175129600.0dxschafe": [
+"1161282725.84kmuller",
+385.9,
+-212.1,
+22.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1175129600.0dxschafe0": [
+"1161282725.84kmuller",
+363.2,
+237.4,
+22.1,
+"Spawn Node",
+"Scorpion"
+],
+"1175129600.0dxschafe1": [
+"1161282725.84kmuller",
+-293.3,
+180.0,
+9.8,
+"Spawn Node",
+"Scorpion"
+],
+"1175223168.0dxschafe1": [
+"1165004570.58sdnaik",
+387.2,
+232.8,
+59.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175223424.0dxschafe": [
+"1165004570.58sdnaik",
+400.8,
+233.1,
+61.0,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175224320.0dxschafe": [
+"1158121765.09sdnaik",
+192.9,
+-216.7,
+16.0,
+"Spawn Node",
+"Scorpion"
+],
+"1175224576.0dxschafe": [
+"1158121765.09sdnaik",
+-331.5,
+220.6,
+66.9,
+"Spawn Node",
+"Bat"
+],
+"1175224704.0dxschafe0": [
+"1165004570.58sdnaik",
+175.0,
+-37.1,
+35.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175224832.0dxschafe": [
+"1165004570.58sdnaik",
+69.5,
+-54.9,
+-1.4,
+"Spawn Node",
+"Alligator"
+],
+"1175298944.0dxschafe": [
+"1150922126.8dzlu",
+-552.1,
+-1763.0,
+14.4,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1175533440.0dxschafe": [
+"1164763706.66sdnaik",
+-45.6,
+221.0,
+48.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175533440.0dxschafe0": [
+"1164763706.66sdnaik",
+151.8,
+-212.3,
+30.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175533568.0dxschafe": [
+"1164763706.66sdnaik",
+39.7,
+-170.4,
+4.8,
+"Searchable Container",
+""
+],
+"1175536384.0dxschafe": [
+"1164763706.66sdnaik",
+-293.5,
+-269.0,
+7.7,
+"Searchable Container",
+""
+],
+"1175737088.0dxschafe": [
+"1150922126.8dzlu",
+-327.9,
+-1770.0,
+9.5,
+"Searchable Container",
+""
+],
+"1175737088.0dxschafe0": [
+"1150922126.8dzlu",
+-293.3,
+-1723.2,
+14.6,
+"Searchable Container",
+""
+],
+"1175737216.0dxschafe": [
+"1150922126.8dzlu",
+-86.5,
+-1683.3,
+15.4,
+"Searchable Container",
+""
+],
+"1175737216.0dxschafe0": [
+"1150922126.8dzlu",
+-242.9,
+-1693.7,
+14.6,
+"Searchable Container",
+""
+],
+"1175737216.0dxschafe1": [
+"1150922126.8dzlu",
+-74.4,
+-1756.4,
+14.3,
+"Searchable Container",
+""
+],
+"1175737216.0dxschafe2": [
+"1150922126.8dzlu",
+-32.2,
+-1702.3,
+14.3,
+"Searchable Container",
+""
+],
+"1175737216.0dxschafe3": [
+"1150922126.8dzlu",
+47.3,
+-1701.6,
+14.1,
+"Searchable Container",
+""
+],
+"1175737216.0dxschafe4": [
+"1150922126.8dzlu",
+38.8,
+-1797.1,
+14.3,
+"Searchable Container",
+""
+],
+"1175737216.0dxschafe5": [
+"1150922126.8dzlu",
+132.4,
+-1752.6,
+15.1,
+"Searchable Container",
+""
+],
+"1175737344.0dxschafe": [
+"1150922126.8dzlu",
+79.9,
+-1668.5,
+14.3,
+"Searchable Container",
+""
+],
+"1175737344.0dxschafe0": [
+"1150922126.8dzlu",
+7.2,
+-1799.8,
+14.3,
+"Searchable Container",
+""
+],
+"1175737344.0dxschafe1": [
+"1150922126.8dzlu",
+336.8,
+-1831.0,
+9.0,
+"Searchable Container",
+""
+],
+"1175737344.0dxschafe2": [
+"1150922126.8dzlu",
+355.8,
+-1868.0,
+5.6,
+"Searchable Container",
+""
+],
+"1175737344.0dxschafe3": [
+"1150922126.8dzlu",
+-427.6,
+-1817.5,
+5.0,
+"Searchable Container",
+""
+],
+"1175737472.0dxschafe": [
+"1150922126.8dzlu",
+-452.4,
+-1893.0,
+4.3,
+"Searchable Container",
+""
+],
+"1175816960.0dxschafe": [
+"1167862588.52sdnaik",
+419.3,
+-34.8,
+7.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175817216.0dxschafe0": [
+"1167862588.52sdnaik",
+362.7,
+-21.4,
+7.8,
+"Spawn Node",
+"Mid EITC"
+],
+"1175817216.0dxschafe1": [
+"1167862588.52sdnaik",
+376.7,
+-99.7,
+29.2,
+"Spawn Node",
+"Vampire Bat"
+],
+"1175822976.0dxschafe": [
+"1142018473.22dxschafe",
+-1393.4,
+-620.8,
+150.2,
+"Searchable Container",
+""
+],
+"1175823104.0dxschafe": [
+"1142018473.22dxschafe",
+-1379.0,
+-639.1,
+150.2,
+"Searchable Container",
+""
+],
+"1175823104.0dxschafe0": [
+"1142018473.22dxschafe",
+-1409.4,
+-644.0,
+150.2,
+"Searchable Container",
+""
+],
+"1175824768.0dxschafe0": [
+"1142018473.22dxschafe",
+-1396.4,
+-592.0,
+150.2,
+"Searchable Container",
+""
+],
+"1175824768.0dxschafe1": [
+"1142018473.22dxschafe",
+-1429.3,
+-590.7,
+150.2,
+"Searchable Container",
+""
+],
+"1175826048.0dxschafe": [
+"1150922126.8dzlu",
+-1393.4,
+-3087.3,
+193.0,
+"Searchable Container",
+""
+],
+"1175826048.0dxschafe0": [
+"1150922126.8dzlu",
+-1333.1,
+-3098.3,
+192.9,
+"Searchable Container",
+""
+],
+"1175826048.0dxschafe1": [
+"1150922126.8dzlu",
+-1347.1,
+-3086.1,
+192.9,
+"Searchable Container",
+""
+],
+"1175884544.0dxschafe": [
+"1164141722.61sdnaik",
+302.6,
+-254.3,
+115.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175891840.0dxschafe": [
+"1164141722.61sdnaik",
+211.3,
+154.4,
+107.0,
+"Spawn Node",
+"Alligator"
+],
+"1175891968.0dxschafe0": [
+"1164141722.61sdnaik",
+200.2,
+-277.7,
+118.7,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175892096.0dxschafe": [
+"1164141722.61sdnaik",
+208.4,
+-128.7,
+117.2,
+"Spawn Node",
+"Undead - Muck"
+],
+"1175892224.0dxschafe": [
+"1164141722.61sdnaik",
+-44.1,
+-38.3,
+123.6,
+"Spawn Node",
+"Bat"
+],
+"1175892352.0dxschafe": [
+"1164141722.61sdnaik",
+242.5,
+35.3,
+112.2,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175892352.0dxschafe0": [
+"1164141722.61sdnaik",
+27.3,
+152.4,
+117.1,
+"Spawn Node",
+"Scorpion"
+],
+"1175892352.0dxschafe1": [
+"1164141722.61sdnaik",
+18.9,
+55.0,
+119.3,
+"Spawn Node",
+"Scorpion"
+],
+"1175892480.0dxschafe": [
+"1164141722.61sdnaik",
+-150.3,
+2.2,
+126.1,
+"Spawn Node",
+"Early Skeleton"
+],
+"1175892736.0dxschafe": [
+"1164141722.61sdnaik",
+-111.0,
+-187.8,
+128.6,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175892736.0dxschafe0": [
+"1164141722.61sdnaik",
+-370.7,
+-173.3,
+104.8,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175892736.0dxschafe1": [
+"1164141722.61sdnaik",
+-390.4,
+-374.4,
+96.8,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175892736.0dxschafe2": [
+"1164141722.61sdnaik",
+-464.3,
+-399.7,
+87.9,
+"Spawn Node",
+"Scorpion"
+],
+"1175892864.0dxschafe": [
+"1164141722.61sdnaik",
+-463.6,
+-95.9,
+96.7,
+"Spawn Node",
+"Bat"
+],
+"1175892864.0dxschafe0": [
+"1164141722.61sdnaik",
+-103.0,
+-133.4,
+127.2,
+"Spawn Node",
+"Early Skeleton"
+],
+"1175892992.0dxschafe": [
+"1164141722.61sdnaik",
+-550.5,
+-204.0,
+84.0,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175898368.0dxschafe": [
+"1164952144.06sdnaik",
+254.6,
+-86.7,
+3.9,
+"Spawn Node",
+"Low Navy"
+],
+"1175898496.0dxschafe": [
+"1164952144.06sdnaik",
+253.8,
+-13.4,
+2.6,
+"Spawn Node",
+"Bat"
+],
+"1175898624.0dxschafe0": [
+"1164952144.06sdnaik",
+432.9,
+-295.1,
+2.6,
+"Spawn Node",
+"Low Navy"
+],
+"1175898752.0dxschafe0": [
+"1164952144.06sdnaik",
+200.9,
+-115.3,
+2.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175901184.0dxschafe": [
+"1164141722.61sdnaik",
+267.7,
+32.4,
+111.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175901312.0dxschafe": [
+"1164141722.61sdnaik",
+-28.7,
+-99.1,
+124.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175901440.0dxschafe": [
+"1164141722.61sdnaik",
+-510.3,
+-361.4,
+83.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175901568.0dxschafe": [
+"1164141722.61sdnaik",
+-314.7,
+-287.6,
+107.7,
+"Spawn Node",
+"Low Skeleton"
+],
+"1175901696.0dxschafe": [
+"1164141722.61sdnaik",
+-143.2,
+-72.2,
+127.4,
+"Spawn Node",
+"Scorpion"
+],
+"1175901696.0dxschafe0": [
+"1164141722.61sdnaik",
+33.6,
+114.0,
+117.7,
+"Spawn Node",
+"Scorpion"
+],
+"1175901696.0dxschafe1": [
+"1164141722.61sdnaik",
+210.8,
+-47.2,
+114.9,
+"Spawn Node",
+"Scorpion"
+],
+"1175901696.0dxschafe2": [
+"1164141722.61sdnaik",
+272.2,
+-163.3,
+115.2,
+"Spawn Node",
+"Scorpion"
+],
+"1175901696.0dxschafe3": [
+"1164141722.61sdnaik",
+329.9,
+-354.5,
+114.5,
+"Spawn Node",
+"Scorpion"
+],
+"1175901952.0dxschafe": [
+"1164141722.61sdnaik",
+-493.0,
+-117.4,
+92.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175902080.0dxschafe": [
+"1164141722.61sdnaik",
+27.1,
+182.4,
+116.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1175975470.29MAsaduzz": [
+"1150922126.8dzlu",
+-555.8,
+-1780.9,
+15.0,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1176149760.0dxschafe": [
+"1169592956.59sdnaik",
+501.2,
+-29.0,
+68.2,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176149760.0dxschafe1": [
+"1169592956.59sdnaik",
+558.4,
+-6.0,
+61.4,
+"Spawn Node",
+"Undead - Mire"
+],
+"1176150400.0dxschafe": [
+"1169592956.59sdnaik",
+290.0,
+128.8,
+51.6,
+"Spawn Node",
+"Early Skeleton"
+],
+"1176150912.0dxschafe": [
+"1169592956.59sdnaik",
+638.0,
+183.7,
+52.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176151040.0dxschafe": [
+"1169592956.59sdnaik",
+737.0,
+-59.6,
+52.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176151040.0dxschafe0": [
+"1169592956.59sdnaik",
+470.4,
+-12.2,
+67.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176151040.0dxschafe1": [
+"1169592956.59sdnaik",
+237.6,
+21.2,
+47.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176151168.0dxschafe0": [
+"1169592956.59sdnaik",
+133.9,
+-13.2,
+24.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176151296.0dxschafe": [
+"1169592956.59sdnaik",
+221.1,
+105.6,
+45.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176151424.0dxschafe": [
+"1169592956.59sdnaik",
+130.8,
+222.8,
+23.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176158080.0dxschafe": [
+"1165001772.05sdnaik",
+21.1,
+-169.6,
+29.5,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1176158208.0dxschafe": [
+"1165001772.05sdnaik",
+24.1,
+-152.6,
+28.9,
+"Spawn Node",
+"Low Skeleton"
+],
+"1176158976.0dxschafe": [
+"1165001772.05sdnaik",
+452.0,
+-157.7,
+2.2,
+"Spawn Node",
+"Bat"
+],
+"1176159104.0dxschafe": [
+"1165001772.05sdnaik",
+212.8,
+-253.9,
+12.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176159104.0dxschafe0": [
+"1165001772.05sdnaik",
+181.0,
+-227.4,
+17.0,
+"Spawn Node",
+"Vampire Bat"
+],
+"1176159232.0dxschafe": [
+"1165001772.05sdnaik",
+-165.7,
+-15.6,
+57.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1176159360.0dxschafe": [
+"1165001772.05sdnaik",
+114.1,
+-30.1,
+25.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176160384.0dxschafe": [
+"1161798288.34sdnaik",
+77.8,
+-117.9,
+27.2,
+"Spawn Node",
+"Wasp"
+],
+"1176160512.0dxschafe": [
+"1161798288.34sdnaik",
+-472.6,
+-138.1,
+15.7,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1176160640.0dxschafe": [
+"1161798288.34sdnaik",
+-538.1,
+-99.5,
+15.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176160640.0dxschafe0": [
+"1161798288.34sdnaik",
+-237.0,
+-74.7,
+16.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176160640.0dxschafe1": [
+"1161798288.34sdnaik",
+-287.7,
+-72.2,
+18.3,
+"Spawn Node",
+"Low Skeleton"
+],
+"1176160768.0dxschafe": [
+"1161798288.34sdnaik",
+-229.3,
+307.4,
+55.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176160896.0dxschafe": [
+"1161798288.34sdnaik",
+39.2,
+-113.7,
+25.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176160896.0dxschafe0": [
+"1161798288.34sdnaik",
+57.2,
+-54.0,
+27.7,
+"Spawn Node",
+"Low Skeleton"
+],
+"1176161024.0dxschafe": [
+"1161798288.34sdnaik",
+208.4,
+-10.6,
+34.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176161024.0dxschafe0": [
+"1161798288.34sdnaik",
+193.2,
+-72.0,
+32.8,
+"Spawn Node",
+"Wasp"
+],
+"1176161152.0dxschafe": [
+"1161798288.34sdnaik",
+351.7,
+181.2,
+44.3,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1176161280.0dxschafe": [
+"1161798288.34sdnaik",
+-175.8,
+70.1,
+17.7,
+"Spawn Node",
+"Alligator"
+],
+"1176167680.0dxschafe0": [
+"1165004570.58sdnaik",
+829.8,
+119.7,
+52.0,
+"Spawn Node",
+"Early Skeleton"
+],
+"1176167680.0dxschafe2": [
+"1165004570.58sdnaik",
+750.5,
+147.1,
+52.0,
+"Spawn Node",
+"Early Skeleton"
+],
+"1176167936.0dxschafe": [
+"1165004570.58sdnaik",
+801.0,
+139.4,
+52.1,
+"Spawn Node",
+"Early Skeleton"
+],
+"1176167936.0dxschafe0": [
+"1165004570.58sdnaik",
+418.3,
+74.0,
+62.7,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176168064.0dxschafe": [
+"1165004570.58sdnaik",
+498.9,
+-54.3,
+68.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176168064.0dxschafe0": [
+"1165004570.58sdnaik",
+685.4,
+83.6,
+52.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176168192.0dxschafe": [
+"1165004570.58sdnaik",
+868.6,
+102.4,
+52.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176168320.0dxschafe": [
+"1165004570.58sdnaik",
+-39.7,
+119.6,
+10.4,
+"Spawn Node",
+"Alligator"
+],
+"1176168448.0dxschafe": [
+"1165004570.58sdnaik",
+233.0,
+29.4,
+46.9,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176168448.0dxschafe0": [
+"1165004570.58sdnaik",
+311.2,
+71.2,
+53.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176168576.0dxschafe1": [
+"1165004570.58sdnaik",
+272.9,
+128.4,
+50.1,
+"Spawn Node",
+"Early Skeleton"
+],
+"1176169088.0dxschafe0": [
+"1165009856.72sdnaik",
+215.0,
+-23.0,
+33.4,
+"Spawn Node",
+"Vampire Bat"
+],
+"1176169344.0dxschafe": [
+"1165009856.72sdnaik",
+-283.8,
+-187.9,
+14.4,
+"Spawn Node",
+"Vampire Bat"
+],
+"1176169344.0dxschafe0": [
+"1165009856.72sdnaik",
+-238.1,
+-167.9,
+16.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176169344.0dxschafe1": [
+"1165009856.72sdnaik",
+-390.9,
+-295.2,
+9.2,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176169472.0dxschafe": [
+"1165009856.72sdnaik",
+-520.4,
+-186.3,
+13.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176169600.0dxschafe": [
+"1165009856.72sdnaik",
+-336.6,
+21.8,
+13.4,
+"Spawn Node",
+"Big Gator"
+],
+"1176169600.0dxschafe0": [
+"1165009856.72sdnaik",
+198.4,
+-56.6,
+33.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176169728.0dxschafe": [
+"1165009856.72sdnaik",
+287.9,
+59.1,
+37.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176169984.0dxschafe": [
+"1165009856.72sdnaik",
+-420.7,
+-223.2,
+12.6,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176169984.0dxschafe0": [
+"1165009856.72sdnaik",
+-448.4,
+-403.2,
+2.8,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176229120.0dxschafe": [
+"1142018473.22dxschafe",
+-1139.7,
+-704.8,
+118.9,
+"Spawn Node",
+"Scorpion"
+],
+"1176229120.0dxschafe0": [
+"1142018473.22dxschafe",
+-1230.7,
+-755.4,
+122.2,
+"Spawn Node",
+"Scorpion"
+],
+"1176229120.0dxschafe1": [
+"1142018473.22dxschafe",
+-1149.4,
+-743.4,
+120.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176229120.0dxschafe2": [
+"1142018473.22dxschafe",
+-1042.2,
+-769.2,
+119.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176229632.0dxschafe": [
+"1142018473.22dxschafe",
+-1183.2,
+381.6,
+67.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176235904.0dxschafe": [
+"1142018473.22dxschafe",
+-963.3,
+444.0,
+97.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176238080.0dxschafe": [
+"1164929110.98sdnaik",
+95.7,
+-103.9,
+0.1,
+"Spawn Node",
+"Bat"
+],
+"1176238208.0dxschafe": [
+"1164929110.98sdnaik",
+24.5,
+39.6,
+0.1,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176238208.0dxschafe0": [
+"1164929110.98sdnaik",
+16.5,
+18.4,
+0.1,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176238976.0dxschafe": [
+"1164929110.98sdnaik",
+-108.4,
+59.7,
+15.9,
+"Spawn Node",
+"Bat"
+],
+"1176239104.0dxschafe": [
+"1164929110.98sdnaik",
+-111.7,
+-53.7,
+24.7,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1176247808.0dxschafe": [
+"1168057131.73sdnaik",
+81.6,
+-227.3,
+12.2,
+"Spawn Node",
+"Undead - Zombie"
+],
+"1176247808.0dxschafe0": [
+"1168057131.73sdnaik",
+59.9,
+-160.0,
+12.2,
+"Spawn Node",
+"Undead - Zombie"
+],
+"1176247808.0dxschafe1": [
+"1168057131.73sdnaik",
+183.4,
+-201.7,
+12.2,
+"Spawn Node",
+"Undead - Zombie"
+],
+"1176247936.0dxschafe": [
+"1168057131.73sdnaik",
+136.1,
+-181.3,
+12.2,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1176247936.0dxschafe0": [
+"1168057131.73sdnaik",
+217.1,
+-220.8,
+26.5,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1176247936.0dxschafe1": [
+"1168057131.73sdnaik",
+218.3,
+43.6,
+0.1,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1176247936.0dxschafe2": [
+"1168057131.73sdnaik",
+106.7,
+-41.8,
+0.1,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1176247936.0dxschafe3": [
+"1168057131.73sdnaik",
+97.7,
+-287.9,
+12.2,
+"Spawn Node",
+"Undead - Zombie"
+],
+"1176247936.0dxschafe4": [
+"1168057131.73sdnaik",
+172.6,
+-12.0,
+0.1,
+"Spawn Node",
+"High Skeleton"
+],
+"1176247936.0dxschafe5": [
+"1168057131.73sdnaik",
+214.7,
+-42.6,
+0.1,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1176247936.0dxschafe6": [
+"1168057131.73sdnaik",
+184.7,
+-8.4,
+0.1,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1176248064.0dxschafe": [
+"1168057131.73sdnaik",
+169.0,
+-0.6,
+0.1,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1176248192.0dxschafe": [
+"1168057131.73sdnaik",
+139.7,
+46.9,
+0.1,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1176248704.0dxschafe": [
+"1168057131.73sdnaik",
+205.3,
+-153.3,
+12.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176248704.0dxschafe0": [
+"1168057131.73sdnaik",
+185.9,
+-281.6,
+12.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176248704.0dxschafe1": [
+"1168057131.73sdnaik",
+80.8,
+-127.7,
+12.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176248704.0dxschafe3": [
+"1168057131.73sdnaik",
+253.0,
+-30.3,
+0.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176249856.0dxschafe": [
+"1167862588.52sdnaik",
+284.5,
+-6.1,
+17.6,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1176249984.0dxschafe": [
+"1167862588.52sdnaik",
+215.7,
+14.4,
+21.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176249984.0dxschafe0": [
+"1167862588.52sdnaik",
+248.2,
+-32.9,
+16.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176249984.0dxschafe1": [
+"1167862588.52sdnaik",
+512.5,
+76.9,
+12.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176249984.0dxschafe2": [
+"1167862588.52sdnaik",
+410.4,
+210.6,
+12.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176322048.0dxschafe": [
+"1167862588.52sdnaik",
+534.3,
+224.1,
+12.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176322048.0dxschafe0": [
+"1167862588.52sdnaik",
+320.2,
+37.3,
+7.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176322176.0dxschafe": [
+"1167862588.52sdnaik",
+461.9,
+87.4,
+12.2,
+"Spawn Node",
+"High Navy"
+],
+"1176322176.0dxschafe0": [
+"1167862588.52sdnaik",
+552.2,
+151.2,
+12.2,
+"Spawn Node",
+"EITC - Assassin"
+],
+"1176322304.0dxschafe": [
+"1167862588.52sdnaik",
+427.1,
+200.6,
+12.2,
+"Spawn Node",
+"High Navy"
+],
+"1176322304.0dxschafe0": [
+"1167862588.52sdnaik",
+458.3,
+160.3,
+12.2,
+"Spawn Node",
+"Low EITC"
+],
+"1176322304.0dxschafe1": [
+"1167862588.52sdnaik",
+516.7,
+189.7,
+24.6,
+"Spawn Node",
+"Mid Navy"
+],
+"1176322304.0dxschafe2": [
+"1167862588.52sdnaik",
+355.5,
+48.7,
+7.8,
+"Spawn Node",
+"Low EITC"
+],
+"1176322304.0dxschafe3": [
+"1167862588.52sdnaik",
+309.2,
+20.3,
+7.8,
+"Spawn Node",
+"High Navy"
+],
+"1176322304.0dxschafe4": [
+"1167862588.52sdnaik",
+583.0,
+96.0,
+38.1,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1176322304.0dxschafe5": [
+"1167862588.52sdnaik",
+506.0,
+106.1,
+12.2,
+"Spawn Node",
+"High EITC"
+],
+"1176322432.0dxschafe": [
+"1167862588.52sdnaik",
+416.4,
+180.1,
+12.2,
+"Spawn Node",
+"High Navy"
+],
+"1176322432.0dxschafe0": [
+"1167862588.52sdnaik",
+418.2,
+81.4,
+12.2,
+"Spawn Node",
+"Mid EITC"
+],
+"1176322432.0dxschafe1": [
+"1167862588.52sdnaik",
+420.3,
+226.7,
+24.3,
+"Spawn Node",
+"Low EITC"
+],
+"1176322432.0dxschafe2": [
+"1167862588.52sdnaik",
+493.3,
+204.5,
+12.2,
+"Spawn Node",
+"High Navy"
+],
+"1176322688.0dxschafe": [
+"1167862588.52sdnaik",
+545.1,
+222.0,
+25.0,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe": [
+"1167862588.52sdnaik",
+505.4,
+188.5,
+12.2,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe0": [
+"1167862588.52sdnaik",
+505.4,
+99.4,
+24.2,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe1": [
+"1167862588.52sdnaik",
+374.4,
+68.7,
+7.8,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe2": [
+"1167862588.52sdnaik",
+401.7,
+224.3,
+24.3,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe3": [
+"1167862588.52sdnaik",
+461.1,
+265.8,
+24.2,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe4": [
+"1167862588.52sdnaik",
+333.7,
+41.3,
+7.7,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe5": [
+"1167862588.52sdnaik",
+488.0,
+216.2,
+24.6,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe6": [
+"1167862588.52sdnaik",
+531.8,
+212.0,
+25.2,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe7": [
+"1167862588.52sdnaik",
+413.5,
+196.5,
+24.4,
+"Searchable Container",
+""
+],
+"1176322816.0dxschafe8": [
+"1167862588.52sdnaik",
+466.5,
+139.1,
+24.2,
+"Searchable Container",
+""
+],
+"1176324864.0dxschafe": [
+"1167857698.16naiksd",
+61.4,
+-106.1,
+26.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176324864.0dxschafe0": [
+"1167857698.16naiksd",
+-247.1,
+-165.2,
+17.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176324864.0dxschafe1": [
+"1167857698.16naiksd",
+-528.8,
+-197.5,
+13.3,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176324864.0dxschafe2": [
+"1167857698.16naiksd",
+-196.8,
+319.3,
+58.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176324864.0dxschafe3": [
+"1167857698.16naiksd",
+182.2,
+200.7,
+48.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176324864.0dxschafe4": [
+"1167857698.16naiksd",
+-294.5,
+76.6,
+18.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176324864.0dxschafe5": [
+"1167857698.16naiksd",
+-287.2,
+-256.2,
+10.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176324992.0dxschafe0": [
+"1167857698.16naiksd",
+-302.6,
+-243.5,
+11.7,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1176324992.0dxschafe1": [
+"1167857698.16naiksd",
+-544.4,
+-107.8,
+14.9,
+"Spawn Node",
+"Stump"
+],
+"1176324992.0dxschafe10": [
+"1167857698.16naiksd",
+210.3,
+93.6,
+36.2,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1176324992.0dxschafe11": [
+"1167857698.16naiksd",
+320.0,
+197.0,
+42.4,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1176324992.0dxschafe12": [
+"1167857698.16naiksd",
+-279.5,
+-181.0,
+18.1,
+"Spawn Node",
+"High Skeleton"
+],
+"1176324992.0dxschafe13": [
+"1167857698.16naiksd",
+-280.0,
+-120.0,
+18.0,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1176324992.0dxschafe14": [
+"1167857698.16naiksd",
+-287.4,
+-50.6,
+18.4,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1176324992.0dxschafe15": [
+"1167857698.16naiksd",
+-361.5,
+-240.9,
+14.4,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1176324992.0dxschafe16": [
+"1167857698.16naiksd",
+-460.0,
+94.5,
+21.8,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1176324992.0dxschafe2": [
+"1167857698.16naiksd",
+-69.0,
+186.0,
+23.9,
+"Spawn Node",
+"Stump"
+],
+"1176324992.0dxschafe3": [
+"1167857698.16naiksd",
+76.2,
+-72.1,
+28.2,
+"Spawn Node",
+"Stump"
+],
+"1176324992.0dxschafe4": [
+"1167857698.16naiksd",
+-312.0,
+101.8,
+21.6,
+"Spawn Node",
+"Big Gator"
+],
+"1176324992.0dxschafe5": [
+"1167857698.16naiksd",
+-139.0,
+20.0,
+13.4,
+"Spawn Node",
+"Huge Gator"
+],
+"1176324992.0dxschafe6": [
+"1167857698.16naiksd",
+-223.1,
+319.0,
+57.1,
+"Spawn Node",
+"FlyTrap"
+],
+"1176324992.0dxschafe7": [
+"1167857698.16naiksd",
+52.8,
+259.3,
+74.8,
+"Spawn Node",
+"FlyTrap"
+],
+"1176324992.0dxschafe8": [
+"1167857698.16naiksd",
+-209.2,
+195.3,
+27.8,
+"Spawn Node",
+"FlyTrap"
+],
+"1176324992.0dxschafe9": [
+"1167857698.16naiksd",
+192.8,
+179.9,
+40.7,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1176325376.0dxschafe": [
+"1167857698.16naiksd",
+67.4,
+96.6,
+31.2,
+"Spawn Node",
+"Stump"
+],
+"1176325504.0dxschafe": [
+"1167857698.16naiksd",
+-272.9,
+238.1,
+59.3,
+"Spawn Node",
+"FlyTrap"
+],
+"1176325504.0dxschafe0": [
+"1167857698.16naiksd",
+-71.5,
+240.6,
+73.3,
+"Spawn Node",
+"FlyTrap"
+],
+"1176326528.0dxschafe2": [
+"1167857698.16sdnaik",
+-529.7,
+-214.6,
+12.9,
+"Searchable Container",
+""
+],
+"1176326656.0dxschafe": [
+"1167857698.16sdnaik",
+-530.8,
+-177.1,
+13.9,
+"Searchable Container",
+""
+],
+"1176414336.0dxschafe": [
+"1150922126.8dzlu",
+-1328.8,
+-3055.3,
+193.0,
+"Searchable Container",
+""
+],
+"1176414336.0dxschafe0": [
+"1150922126.8dzlu",
+-1381.8,
+-3069.2,
+193.0,
+"Searchable Container",
+""
+],
+"1176414464.0dxschafe": [
+"1150922126.8dzlu",
+-1206.9,
+-3016.1,
+225.0,
+"Searchable Container",
+""
+],
+"1176414976.0dxschafe": [
+"1150922126.8dzlu",
+-1187.2,
+-2967.3,
+198.8,
+"Searchable Container",
+""
+],
+"1176414976.0dxschafe0": [
+"1150922126.8dzlu",
+-1433.5,
+-3058.9,
+193.0,
+"Searchable Container",
+""
+],
+"1176415104.0dxschafe": [
+"1150922126.8dzlu",
+-1469.4,
+-2808.5,
+233.0,
+"Spawn Node",
+"Mid Navy"
+],
+"1176415744.0dxschafe": [
+"1150922126.8dzlu",
+-1397.0,
+-3021.1,
+193.0,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1176416000.0dxschafe": [
+"1150922126.8dzlu",
+-1219.9,
+-3030.5,
+225.5,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1176416128.0dxschafe": [
+"1150922126.8dzlu",
+-1214.9,
+-3028.8,
+262.6,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1176416128.0dxschafe0": [
+"1150922126.8dzlu",
+-1269.5,
+-3020.5,
+198.8,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1176416512.0dxschafe": [
+"1150922126.8dzlu",
+-1494.2,
+-3061.4,
+233.5,
+"Spawn Node",
+"Mid Navy"
+],
+"1176416640.0dxschafe": [
+"1150922126.8dzlu",
+-1475.1,
+-2833.5,
+193.0,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1176416768.0dxschafe": [
+"1150922126.8dzlu",
+-1368.5,
+-2911.9,
+192.9,
+"Spawn Node",
+"Noob Navy"
+],
+"1176416768.0dxschafe0": [
+"1150922126.8dzlu",
+-1446.7,
+-2937.2,
+192.9,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1176420352.0dxschafe": [
+"1142018473.22dxschafe",
+-1212.1,
+-649.7,
+119.7,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1176420608.0dxschafe0": [
+"1142018473.22dxschafe",
+-1469.5,
+-816.1,
+197.6,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1176420992.0dxschafe": [
+"1142018473.22dxschafe",
+-1530.9,
+-562.8,
+150.2,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1176421248.0dxschafe": [
+"1142018473.22dxschafe",
+-1471.2,
+-809.3,
+150.2,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1176421504.0dxschafe0": [
+"1142018473.22dxschafe",
+-1586.9,
+-581.3,
+150.2,
+"Spawn Node",
+"High Navy"
+],
+"1176421632.0dxschafe": [
+"1142018473.22dxschafe",
+-1434.0,
+-544.0,
+196.9,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1176421760.0dxschafe1": [
+"1142018473.22dxschafe",
+-1229.8,
+-615.5,
+118.7,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1176421888.0dxschafe": [
+"1142018473.22dxschafe",
+-1515.3,
+-765.3,
+150.2,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1176753664.0dxschafe": [
+"1150922126.8dzlu",
+-697.8,
+-1964.3,
+11.9,
+"Spawn Node",
+"Noob Navy"
+],
+"1176832000.0dxschafe": [
+"1158121765.09sdnaik",
+-347.6,
+-63.6,
+55.8,
+"Searchable Container",
+""
+],
+"1176832128.0dxschafe": [
+"1158121765.09sdnaik",
+-370.4,
+-17.0,
+55.8,
+"Searchable Container",
+""
+],
+"1176832256.0dxschafe": [
+"1158121765.09sdnaik",
+-311.0,
+-109.9,
+55.8,
+"Searchable Container",
+""
+],
+"1176845568.0dxschafe": [
+"1189479168.0sdnaik0",
+-475.4,
+478.3,
+68.1,
+"Searchable Container",
+""
+],
+"1176845696.0dxschafe": [
+"1189479168.0sdnaik0",
+-422.3,
+406.1,
+89.5,
+"Searchable Container",
+""
+],
+"1176845824.0dxschafe3": [
+"1189479168.0sdnaik0",
+-242.2,
+332.3,
+99.7,
+"Searchable Container",
+""
+],
+"1176845952.0dxschafe0": [
+"1189479168.0sdnaik0",
+-61.3,
+838.7,
+76.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176846080.0dxschafe": [
+"1189479168.0sdnaik0",
+-483.4,
+845.3,
+80.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176846464.0dxschafe": [
+"1189479168.0sdnaik0",
+184.9,
+490.1,
+131.7,
+"Searchable Container",
+""
+],
+"1176849152.0dxschafe": [
+"1189479168.0sdnaik0",
+251.2,
+-498.8,
+189.6,
+"Searchable Container",
+""
+],
+"1176849536.0dxschafe": [
+"1189479168.0sdnaik0",
+14.7,
+499.0,
+131.9,
+"Searchable Container",
+""
+],
+"1176850560.0dxschafe": [
+"1189479168.0sdnaik0",
+-114.7,
+442.8,
+94.1,
+"Spawn Node",
+"High Navy"
+],
+"1176850560.0dxschafe0": [
+"1189479168.0sdnaik0",
+-514.7,
+502.2,
+60.7,
+"Spawn Node",
+"Mid Navy"
+],
+"1176850560.0dxschafe1": [
+"1189479168.0sdnaik0",
+-668.1,
+494.2,
+35.5,
+"Spawn Node",
+"Mid Navy"
+],
+"1176850560.0dxschafe2": [
+"1189479168.0sdnaik0",
+-955.1,
+435.7,
+30.1,
+"Spawn Node",
+"Mid Navy"
+],
+"1176850560.0dxschafe3": [
+"1189479168.0sdnaik0",
+-519.3,
+540.6,
+60.5,
+"Spawn Node",
+"Mid Navy"
+],
+"1176850560.0dxschafe4": [
+"1189479168.0sdnaik0",
+13.6,
+416.7,
+132.2,
+"Spawn Node",
+"High Navy"
+],
+"1176850560.0dxschafe5": [
+"1189479168.0sdnaik0",
+30.3,
+403.4,
+132.5,
+"Spawn Node",
+"High Navy"
+],
+"1176853376.0dxschafe": [
+"1189479168.0sdnaik0",
+-103.4,
+437.3,
+95.7,
+"Spawn Node",
+"High Navy"
+],
+"1176853504.0dxschafe6": [
+"1189479168.0sdnaik0",
+-465.0,
+634.5,
+65.5,
+"Spawn Node",
+"Mid Navy"
+],
+"1176853760.0dxschafe": [
+"1189479168.0sdnaik0",
+141.4,
+600.9,
+131.9,
+"Spawn Node",
+"High Navy"
+],
+"1176854400.0dxschafe0": [
+"1189479168.0sdnaik0",
+123.6,
+428.1,
+171.3,
+"Spawn Node",
+"High Navy"
+],
+"1176854528.0dxschafe": [
+"1189479168.0sdnaik0",
+338.7,
+493.0,
+131.9,
+"Spawn Node",
+"High Navy"
+],
+"1176855040.0dxschafe": [
+"1189479168.0sdnaik0",
+170.9,
+-576.9,
+189.6,
+"Spawn Node",
+"High Navy"
+],
+"1176855680.0dxschafe": [
+"1189479168.0sdnaik0",
+186.9,
+-257.9,
+270.0,
+"Spawn Node",
+"High Navy"
+],
+"1176855936.0dxschafe": [
+"1189479168.0sdnaik0",
+460.7,
+0.0,
+320.0,
+"Spawn Node",
+"Mid EITC"
+],
+"1176856320.0dxschafe": [
+"1189479168.0sdnaik0",
+181.7,
+-643.1,
+251.6,
+"Spawn Node",
+"High Navy"
+],
+"1176856576.0dxschafe": [
+"1189479168.0sdnaik0",
+30.7,
+-313.3,
+169.7,
+"Spawn Node",
+"High Navy"
+],
+"1176856704.0dxschafe": [
+"1189479168.0sdnaik0",
+136.6,
+-429.3,
+187.0,
+"Spawn Node",
+"Low EITC"
+],
+"1176856704.0dxschafe0": [
+"1189479168.0sdnaik0",
+175.8,
+-364.8,
+201.5,
+"Spawn Node",
+"Low EITC"
+],
+"1176856704.0dxschafe2": [
+"1189479168.0sdnaik0",
+179.3,
+-323.0,
+212.9,
+"Spawn Node",
+"EITC - Grunt"
+],
+"1176856832.0dxschafe": [
+"1189479168.0sdnaik0",
+188.9,
+-316.4,
+214.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1176857216.0dxschafe": [
+"1189479168.0sdnaik0",
+-115.8,
+285.8,
+105.5,
+"Spawn Node",
+"High Navy"
+],
+"1176857344.0dxschafe": [
+"1189479168.0sdnaik0",
+49.7,
+-601.4,
+189.7,
+"Spawn Node",
+"Mid EITC"
+],
+"1176857344.0dxschafe0": [
+"1189479168.0sdnaik0",
+333.7,
+-332.9,
+224.6,
+"Spawn Node",
+"High Navy"
+],
+"1176857472.0dxschafe": [
+"1189479168.0sdnaik0",
+335.6,
+-62.3,
+352.0,
+"Spawn Node",
+"Low EITC"
+],
+"1176857472.0dxschafe0": [
+"1189479168.0sdnaik0",
+418.3,
+134.1,
+346.1,
+"Spawn Node",
+"High Navy"
+],
+"1176857472.0dxschafe1": [
+"1189479168.0sdnaik0",
+293.8,
+53.6,
+378.1,
+"Spawn Node",
+"High EITC"
+],
+"1177007104.0dxschafe": [
+"1165009873.53sdnaik",
+-132.5,
+-161.2,
+128.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1177008640.0dxschafe2": [
+"1165004570.58sdnaik",
+576.7,
+-38.1,
+59.3,
+"Searchable Container",
+""
+],
+"1177008896.0dxschafe": [
+"1165004570.58sdnaik",
+621.1,
+-27.3,
+54.0,
+"Searchable Container",
+""
+],
+"1177013376.0dxschafe": [
+"1165009856.72sdnaik",
+-146.7,
+118.2,
+19.4,
+"Searchable Container",
+""
+],
+"1177013632.0dxschafe0": [
+"1165009856.72sdnaik",
+-101.1,
+35.6,
+18.9,
+"Searchable Container",
+""
+],
+"1177016704.0dxschafe": [
+"1165009856.72sdnaik",
+-138.3,
+74.2,
+19.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1177017728.0dxschafe": [
+"1169179552.88sdnaik",
+26.9,
+230.0,
+13.7,
+"Searchable Container",
+""
+],
+"1177019776.0dxschafe": [
+"1169179552.88sdnaik",
+-288.9,
+294.4,
+11.1,
+"Searchable Container",
+""
+],
+"1177021184.0dxschafe": [
+"1169179552.88sdnaik",
+-142.9,
+114.7,
+2.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1177021312.0dxschafe": [
+"1169179552.88sdnaik",
+167.2,
+94.7,
+3.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1177022208.0dxschafe": [
+"1169179552.88sdnaik",
+147.0,
+-33.3,
+-2.1,
+"Searchable Container",
+""
+],
+"1177022464.0dxschafe": [
+"1169179552.88sdnaik",
+288.4,
+111.7,
+-2.4,
+"Spawn Node",
+"High Skeleton"
+],
+"1177022464.0dxschafe0": [
+"1169179552.88sdnaik",
+318.7,
+140.4,
+-2.4,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1177022464.0dxschafe1": [
+"1169179552.88sdnaik",
+316.5,
+136.4,
+-2.4,
+"Spawn Node",
+"High Skeleton"
+],
+"1177023232.0dxschafe": [
+"1156207188.95dzlu",
+353.0,
+0.8,
+15.8,
+"Searchable Container",
+""
+],
+"1177023360.0dxschafe": [
+"1156207188.95dzlu",
+368.2,
+-38.3,
+16.8,
+"Searchable Container",
+""
+],
+"1177023488.0dxschafe": [
+"1156207188.95dzlu",
+207.1,
+-173.5,
+10.2,
+"Searchable Container",
+""
+],
+"1177023616.0dxschafe": [
+"1156207188.95dzlu",
+-224.6,
+-64.8,
+13.0,
+"Searchable Container",
+""
+],
+"1177023616.0dxschafe0": [
+"1156207188.95dzlu",
+-138.8,
+-99.1,
+11.8,
+"Searchable Container",
+""
+],
+"1177031680.0dxschafe": [
+"1169179552.88sdnaik",
+67.5,
+206.4,
+3.4,
+"Spawn Node",
+"Undead - Carrion"
+],
+"1177104768.0dxschafe": [
+"1150922126.8dzlu",
+-1462.5,
+-2953.9,
+193.1,
+"Searchable Container",
+""
+],
+"1177104768.0dxschafe0": [
+"1150922126.8dzlu",
+-1431.9,
+-3036.1,
+193.0,
+"Searchable Container",
+""
+],
+"1177104896.0dxschafe": [
+"1150922126.8dzlu",
+-1217.8,
+-3036.4,
+225.0,
+"Searchable Container",
+""
+],
+"1177104896.0dxschafe0": [
+"1150922126.8dzlu",
+-1458.2,
+-2981.4,
+192.5,
+"Searchable Container",
+""
+],
+"1177108096.0dxschafe": [
+"1150922126.8dzlu",
+-1267.0,
+-2847.8,
+192.9,
+"Searchable Container",
+""
+],
+"1177108224.0dxschafe": [
+"1150922126.8dzlu",
+-1222.1,
+-3025.5,
+262.1,
+"Searchable Container",
+""
+],
+"1177108352.0dxschafe": [
+"1150922126.8dzlu",
+-1175.2,
+-3123.6,
+198.8,
+"Searchable Container",
+""
+],
+"1177352320.0dxschafe": [
+"1150922126.8dzlu",
+-1528.6,
+-2927.5,
+233.0,
+"Searchable Container",
+""
+],
+"1177358848.0dxschafe": [
+"1150922126.8dzlu",
+-169.3,
+-1651.9,
+14.6,
+"Searchable Container",
+""
+],
+"1177358976.0dxschafe": [
+"1150922126.8dzlu",
+-188.6,
+-1804.9,
+14.3,
+"Searchable Container",
+""
+],
+"1177358976.0dxschafe0": [
+"1150922126.8dzlu",
+155.4,
+-1640.7,
+15.1,
+"Searchable Container",
+""
+],
+"1177359104.0dxschafe0": [
+"1150922126.8dzlu",
+66.1,
+-1575.8,
+17.2,
+"Searchable Container",
+""
+],
+"1177359104.0dxschafe1": [
+"1150922126.8dzlu",
+2435.4,
+-2116.4,
+3.9,
+"Searchable Container",
+""
+],
+"1177359104.0dxschafe2": [
+"1150922126.8dzlu",
+434.5,
+-1956.1,
+5.5,
+"Searchable Container",
+""
+],
+"1177359104.0dxschafe3": [
+"1150922126.8dzlu",
+354.5,
+-2112.1,
+5.3,
+"Searchable Container",
+""
+],
+"1177359104.0dxschafe4": [
+"1150922126.8dzlu",
+451.3,
+-2162.9,
+5.3,
+"Searchable Container",
+""
+],
+"1177359104.0dxschafe5": [
+"1150922126.8dzlu",
+389.9,
+-2146.5,
+5.6,
+"Searchable Container",
+""
+],
+"1177359232.0dxschafe": [
+"1150922126.8dzlu",
+-343.1,
+-2140.5,
+10.6,
+"Searchable Container",
+""
+],
+"1177359232.0dxschafe0": [
+"1150922126.8dzlu",
+-337.4,
+-2185.4,
+32.7,
+"Searchable Container",
+""
+],
+"1177359232.0dxschafe1": [
+"1150922126.8dzlu",
+-393.6,
+-1952.9,
+9.8,
+"Searchable Container",
+""
+],
+"1177359232.0dxschafe2": [
+"1150922126.8dzlu",
+-379.0,
+-1855.9,
+3.1,
+"Searchable Container",
+""
+],
+"1177359360.0dxschafe": [
+"1150922126.8dzlu",
+-404.0,
+-2178.8,
+10.6,
+"Searchable Container",
+""
+],
+"1177359360.0dxschafe0": [
+"1150922126.8dzlu",
+-324.6,
+-2205.7,
+10.6,
+"Searchable Container",
+""
+],
+"1177359488.0dxschafe": [
+"1150922126.8dzlu",
+-582.3,
+-1942.6,
+1.3,
+"Searchable Container",
+""
+],
+"1177359488.0dxschafe0": [
+"1150922126.8dzlu",
+-476.4,
+-1822.5,
+8.5,
+"Searchable Container",
+""
+],
+"1177359488.0dxschafe1": [
+"1150922126.8dzlu",
+141.0,
+-1480.2,
+18.4,
+"Searchable Container",
+""
+],
+"1177359616.0dxschafe": [
+"1150922126.8dzlu",
+272.3,
+-1381.2,
+17.5,
+"Searchable Container",
+""
+],
+"1177359616.0dxschafe0": [
+"1150922126.8dzlu",
+347.0,
+-1712.5,
+18.9,
+"Searchable Container",
+""
+],
+"1177359744.0dxschafe": [
+"1150922126.8dzlu",
+400.8,
+-1654.0,
+28.5,
+"Searchable Container",
+""
+],
+"1177359872.0dxschafe": [
+"1150922126.8dzlu",
+-298.6,
+-1754.7,
+12.6,
+"Searchable Container",
+""
+],
+"1177365632.0dxschafe": [
+"1150922126.8dzlu",
+-1347.7,
+-3068.1,
+193.0,
+"Spawn Node",
+"Mid Navy"
+],
+"1177366144.0dxschafe": [
+"1150922126.8dzlu",
+-1334.1,
+-3030.1,
+193.0,
+"Spawn Node",
+"Mid Navy"
+],
+"1177366400.0dxschafe": [
+"1150922126.8dzlu",
+-1346.4,
+-2913.3,
+193.0,
+"Searchable Container",
+""
+],
+"1177374848.0dxschafe": [
+"1142018473.22dxschafe",
+-1414.8,
+-582.9,
+150.2,
+"Spawn Node",
+"High Navy"
+],
+"1177377280.0dxschafe": [
+"1142018473.22dxschafe",
+354.6,
+-1406.6,
+10.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1177377280.0dxschafe0": [
+"1142018473.22dxschafe",
+366.7,
+-1213.8,
+33.1,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1177377280.0dxschafe1": [
+"1142018473.22dxschafe",
+857.7,
+-1222.1,
+26.5,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1177377408.0dxschafe0": [
+"1142018473.22dxschafe",
+893.1,
+-1451.6,
+6.4,
+"Spawn Node",
+"Giant Crab"
+],
+"1177539968.0dxschafe": [
+"1142018473.22dxschafe",
+-1579.5,
+-620.5,
+150.2,
+"Searchable Container",
+""
+],
+"1177540096.0dxschafe": [
+"1142018473.22dxschafe",
+-1567.4,
+-691.0,
+150.2,
+"Searchable Container",
+""
+],
+"1177540096.0dxschafe0": [
+"1142018473.22dxschafe",
+-1514.6,
+-771.9,
+150.2,
+"Searchable Container",
+""
+],
+"1177540224.0dxschafe": [
+"1142018473.22dxschafe",
+-1320.6,
+-771.9,
+150.2,
+"Searchable Container",
+""
+],
+"1177540864.0dxschafe1": [
+"1142018473.22dxschafe",
+-1308.5,
+-792.6,
+150.2,
+"Searchable Container",
+""
+],
+"1177540992.0dxschafe": [
+"1142018473.22dxschafe",
+-1411.5,
+-779.9,
+150.2,
+"Searchable Container",
+""
+],
+"1177540992.0dxschafe0": [
+"1142018473.22dxschafe",
+-1373.7,
+-800.4,
+150.2,
+"Spawn Node",
+"High Navy"
+],
+"1177541120.0dxschafe": [
+"1142018473.22dxschafe",
+-1349.3,
+-763.0,
+150.2,
+"Searchable Container",
+""
+],
+"1177541248.0dxschafe0": [
+"1142018473.22dxschafe",
+-1412.5,
+-644.9,
+189.9,
+"Searchable Container",
+""
+],
+"1177541248.0dxschafe1": [
+"1142018473.22dxschafe",
+-1643.9,
+-551.3,
+212.8,
+"Searchable Container",
+""
+],
+"1177541248.0dxschafe2": [
+"1142018473.22dxschafe",
+-1626.6,
+-794.2,
+217.9,
+"Searchable Container",
+""
+],
+"1177541632.0dxschafe": [
+"1142018473.22dxschafe",
+-1483.2,
+-745.7,
+198.5,
+"Searchable Container",
+""
+],
+"1177541632.0dxschafe0": [
+"1142018473.22dxschafe",
+-1296.8,
+-787.0,
+197.6,
+"Searchable Container",
+""
+],
+"1177541760.0dxschafe": [
+"1142018473.22dxschafe",
+-1454.7,
+-629.0,
+150.2,
+"Searchable Container",
+""
+],
+"1177541888.0dxschafe": [
+"1142018473.22dxschafe",
+-1523.1,
+-733.2,
+150.2,
+"Searchable Container",
+""
+],
+"1177713664.0dxschafe": [
+"1189479168.0sdnaik0",
+-140.0,
+254.6,
+106.2,
+"Searchable Container",
+""
+],
+"1177713664.0dxschafe0": [
+"1189479168.0sdnaik0",
+-97.3,
+142.1,
+103.8,
+"Searchable Container",
+""
+],
+"1177713664.0dxschafe1": [
+"1189479168.0sdnaik0",
+-529.5,
+596.7,
+61.9,
+"Searchable Container",
+""
+],
+"1177713664.0dxschafe2": [
+"1189479168.0sdnaik0",
+-100.6,
+461.4,
+94.0,
+"Searchable Container",
+""
+],
+"1177713792.0dxschafe": [
+"1189479168.0sdnaik0",
+174.8,
+-585.9,
+189.6,
+"Searchable Container",
+""
+],
+"1177713792.0dxschafe0": [
+"1189479168.0sdnaik0",
+112.8,
+-512.9,
+189.1,
+"Searchable Container",
+""
+],
+"1177714048.0dxschafe": [
+"1189479168.0sdnaik0",
+42.9,
+-314.0,
+169.6,
+"Searchable Container",
+""
+],
+"1177715200.0dxschafe": [
+"1189479168.0sdnaik0",
+109.9,
+-390.1,
+182.6,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe0": [
+"1189479168.0sdnaik0",
+467.4,
+-155.7,
+312.9,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe1": [
+"1189479168.0sdnaik0",
+490.4,
+-0.4,
+318.1,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe2": [
+"1189479168.0sdnaik0",
+221.9,
+-249.4,
+271.2,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe3": [
+"1189479168.0sdnaik0",
+293.3,
+-333.3,
+224.6,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe4": [
+"1189479168.0sdnaik0",
+61.5,
+-687.5,
+257.4,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe5": [
+"1189479168.0sdnaik0",
+321.0,
+-753.4,
+258.0,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe6": [
+"1189479168.0sdnaik0",
+290.0,
+-632.3,
+210.9,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe7": [
+"1189479168.0sdnaik0",
+117.3,
+-739.6,
+210.9,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe8": [
+"1189479168.0sdnaik0",
+168.9,
+-834.0,
+211.2,
+"Searchable Container",
+""
+],
+"1177715328.0dxschafe9": [
+"1189479168.0sdnaik0",
+263.3,
+-779.0,
+210.9,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe": [
+"1189479168.0sdnaik0",
+355.6,
+130.9,
+346.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe0": [
+"1189479168.0sdnaik0",
+534.4,
+165.0,
+386.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe1": [
+"1189479168.0sdnaik0",
+390.3,
+-10.5,
+386.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe10": [
+"1189479168.0sdnaik0",
+360.8,
+29.1,
+378.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe11": [
+"1189479168.0sdnaik0",
+386.3,
+46.0,
+346.0,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe2": [
+"1189479168.0sdnaik0",
+196.5,
+12.0,
+352.0,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe3": [
+"1189479168.0sdnaik0",
+314.4,
+7.7,
+386.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe4": [
+"1189479168.0sdnaik0",
+328.0,
+-16.2,
+352.0,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe5": [
+"1189479168.0sdnaik0",
+446.9,
+57.6,
+346.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe6": [
+"1189479168.0sdnaik0",
+360.6,
+265.2,
+346.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe7": [
+"1189479168.0sdnaik0",
+243.5,
+164.2,
+346.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe8": [
+"1189479168.0sdnaik0",
+199.6,
+139.3,
+386.1,
+"Searchable Container",
+""
+],
+"1177715584.0dxschafe9": [
+"1189479168.0sdnaik0",
+489.7,
+121.9,
+386.1,
+"Searchable Container",
+""
+],
+"1177715712.0dxschafe": [
+"1189479168.0sdnaik0",
+389.2,
+-47.1,
+319.5,
+"Searchable Container",
+""
+],
+"1177715712.0dxschafe0": [
+"1189479168.0sdnaik0",
+277.4,
+-352.6,
+259.8,
+"Searchable Container",
+""
+],
+"1177715712.0dxschafe1": [
+"1189479168.0sdnaik0",
+305.4,
+-458.7,
+226.6,
+"Searchable Container",
+""
+],
+"1177715712.0dxschafe2": [
+"1189479168.0sdnaik0",
+62.5,
+-912.3,
+210.9,
+"Searchable Container",
+""
+],
+"1177715712.0dxschafe3": [
+"1189479168.0sdnaik0",
+287.6,
+-705.2,
+210.9,
+"Searchable Container",
+""
+],
+"1177715712.0dxschafe4": [
+"1189479168.0sdnaik0",
+235.3,
+-845.2,
+211.2,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe": [
+"1189479168.0sdnaik0",
+314.5,
+-710.7,
+210.9,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe0": [
+"1189479168.0sdnaik0",
+349.9,
+-308.7,
+224.6,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe1": [
+"1189479168.0sdnaik0",
+138.8,
+-347.2,
+205.9,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe10": [
+"1189479168.0sdnaik0",
+71.7,
+-532.6,
+189.6,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe11": [
+"1189479168.0sdnaik0",
+298.2,
+-630.5,
+257.8,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe2": [
+"1189479168.0sdnaik0",
+97.0,
+-618.6,
+189.6,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe3": [
+"1189479168.0sdnaik0",
+126.9,
+-411.8,
+186.2,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe4": [
+"1189479168.0sdnaik0",
+240.0,
+-388.4,
+193.8,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe5": [
+"1189479168.0sdnaik0",
+82.9,
+-347.7,
+175.8,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe6": [
+"1189479168.0sdnaik0",
+201.1,
+-692.5,
+210.9,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe7": [
+"1189479168.0sdnaik0",
+84.4,
+-792.9,
+210.9,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe8": [
+"1189479168.0sdnaik0",
+255.2,
+-780.3,
+210.9,
+"Searchable Container",
+""
+],
+"1177716480.0dxschafe9": [
+"1189479168.0sdnaik0",
+328.3,
+-485.7,
+190.2,
+"Searchable Container",
+""
+],
+"1177716864.0dxschafe": [
+"1189479168.0sdnaik0",
+309.9,
+-819.8,
+276.4,
+"Searchable Container",
+""
+],
+"1177716864.0dxschafe0": [
+"1189479168.0sdnaik0",
+353.1,
+-364.0,
+257.6,
+"Searchable Container",
+""
+],
+"1177716864.0dxschafe1": [
+"1189479168.0sdnaik0",
+71.4,
+-917.6,
+273.2,
+"Searchable Container",
+""
+],
+"1177716864.0dxschafe2": [
+"1189479168.0sdnaik0",
+168.1,
+-684.8,
+250.3,
+"Searchable Container",
+""
+],
+"1177716992.0dxschafe": [
+"1189479168.0sdnaik0",
+-658.9,
+513.3,
+37.7,
+"Searchable Container",
+""
+],
+"1177716992.0dxschafe0": [
+"1189479168.0sdnaik0",
+-522.8,
+554.2,
+60.7,
+"Searchable Container",
+""
+],
+"1177716992.0dxschafe1": [
+"1189479168.0sdnaik0",
+257.9,
+444.7,
+179.2,
+"Searchable Container",
+""
+],
+"1177717120.0dxschafe": [
+"1189479168.0sdnaik0",
+-78.5,
+91.8,
+103.8,
+"Searchable Container",
+""
+],
+"1177717120.0dxschafe0": [
+"1189479168.0sdnaik0",
+-39.2,
+444.3,
+100.5,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe": [
+"1189479168.0sdnaik0",
+196.6,
+361.0,
+131.9,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe0": [
+"1189479168.0sdnaik0",
+3.8,
+503.1,
+179.2,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe1": [
+"1189479168.0sdnaik0",
+261.3,
+526.8,
+131.9,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe10": [
+"1189479168.0sdnaik0",
+49.3,
+464.1,
+179.3,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe11": [
+"1189479168.0sdnaik0",
+200.6,
+368.7,
+178.4,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe12": [
+"1189479168.0sdnaik0",
+19.5,
+281.8,
+104.8,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe13": [
+"1189479168.0sdnaik0",
+-113.5,
+375.4,
+98.6,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe14": [
+"1189479168.0sdnaik0",
+188.4,
+450.7,
+131.9,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe2": [
+"1189479168.0sdnaik0",
+154.9,
+596.1,
+131.9,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe3": [
+"1189479168.0sdnaik0",
+76.0,
+552.5,
+131.9,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe4": [
+"1189479168.0sdnaik0",
+104.1,
+387.4,
+170.4,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe5": [
+"1189479168.0sdnaik0",
+-10.1,
+336.3,
+105.0,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe6": [
+"1189479168.0sdnaik0",
+201.1,
+585.8,
+131.9,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe7": [
+"1189479168.0sdnaik0",
+250.6,
+424.5,
+131.9,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe8": [
+"1189479168.0sdnaik0",
+76.4,
+455.3,
+131.9,
+"Searchable Container",
+""
+],
+"1177717248.0dxschafe9": [
+"1189479168.0sdnaik0",
+116.3,
+594.5,
+179.3,
+"Searchable Container",
+""
+],
+"1177717504.0dxschafe": [
+"1189479168.0sdnaik0",
+193.6,
+697.8,
+199.6,
+"Searchable Container",
+""
+],
+"1177717504.0dxschafe0": [
+"1189479168.0sdnaik0",
+53.8,
+631.9,
+179.3,
+"Searchable Container",
+""
+],
+"1177717504.0dxschafe1": [
+"1189479168.0sdnaik0",
+347.5,
+532.8,
+194.6,
+"Searchable Container",
+""
+],
+"1177970176.0dxschafe": [
+"1189479168.0sdnaik0",
+361.0,
+315.2,
+386.1,
+"Searchable Container",
+""
+],
+"1178224256.0dxschafe": [
+"1161732578.06sdnaik",
+196.8,
+-18.4,
+-2.4,
+"Spawn Node",
+"FlyTrap"
+],
+"1178224256.0dxschafe1": [
+"1161732578.06sdnaik",
+155.9,
+101.2,
+2.3,
+"Spawn Node",
+"Alligator"
+],
+"1178224256.0dxschafe2": [
+"1161732578.06sdnaik",
+135.4,
+29.9,
+0.0,
+"Spawn Node",
+"Alligator"
+],
+"1178224384.0dxschafe": [
+"1161732578.06sdnaik",
+256.9,
+5.5,
+0.0,
+"Spawn Node",
+"Big Gator"
+],
+"1178224384.0dxschafe0": [
+"1161732578.06sdnaik",
+163.9,
+174.6,
+-2.4,
+"Spawn Node",
+"FlyTrap"
+],
+"1178300160.0dxschafe": [
+"1156207188.95dzlu",
+294.4,
+-9.8,
+17.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1178580480.0dxschafe": [
+"1189479168.0sdnaik0",
+-66.8,
+145.6,
+103.8,
+"Spawn Node",
+"High Navy"
+],
+"1178580608.0dxschafe": [
+"1189479168.0sdnaik0",
+280.1,
+-344.3,
+259.1,
+"Spawn Node",
+"High Navy"
+],
+"1178580736.0dxschafe": [
+"1189479168.0sdnaik0",
+314.9,
+-448.3,
+226.6,
+"Spawn Node",
+"High Navy"
+],
+"1178582400.0dxschafe": [
+"1189479168.0sdnaik0",
+72.9,
+-476.0,
+185.8,
+"Spawn Node",
+"Low EITC"
+],
+"1178582400.0dxschafe0": [
+"1189479168.0sdnaik0",
+164.0,
+-536.6,
+189.6,
+"Spawn Node",
+"High Navy"
+],
+"1178582784.0dxschafe": [
+"1189479168.0sdnaik0",
+403.0,
+-49.1,
+319.6,
+"Spawn Node",
+"High Navy"
+],
+"1178667776.0dxschafe": [
+"1150922126.8dzlu",
+219.0,
+-1099.4,
+52.4,
+"Spawn Node",
+"Noob Navy"
+],
+"1178667776.0dxschafe0": [
+"1150922126.8dzlu",
+83.2,
+-997.0,
+51.7,
+"Spawn Node",
+"Noob Navy"
+],
+"1178667776.0dxschafe1": [
+"1150922126.8dzlu",
+46.1,
+-1179.8,
+40.1,
+"Spawn Node",
+"Noob Navy"
+],
+"1178667904.0dxschafe": [
+"1150922126.8dzlu",
+295.4,
+-1365.7,
+19.3,
+"Spawn Node",
+"Noob Navy"
+],
+"1178668288.0dxschafe0": [
+"1150922126.8dzlu",
+162.0,
+-1089.5,
+54.5,
+"Spawn Node",
+"Noob Navy"
+],
+"1178669184.0dxschafe": [
+"1150922126.8dzlu",
+-308.8,
+-1813.7,
+7.9,
+"Spawn Node",
+"Noob Navy"
+],
+"1178832878.26Aholdun": [
+"1150922126.8dzlu",
+-1262.9,
+-2859.1,
+192.9,
+"Spawn Node",
+"Noob Navy"
+],
+"1178835840.0dxschafe": [
+"1189479168.0sdnaik0",
+238.3,
+-417.3,
+189.6,
+"Spawn Node",
+"Mid EITC"
+],
+"1178835968.0dxschafe": [
+"1189479168.0sdnaik0",
+220.0,
+-33.3,
+351.6,
+"Spawn Node",
+"High Navy"
+],
+"1178835968.0dxschafe0": [
+"1189479168.0sdnaik0",
+442.1,
+-165.6,
+315.5,
+"Spawn Node",
+"High Navy"
+],
+"1178836224.0dxschafe": [
+"1189479168.0sdnaik0",
+384.0,
+211.0,
+345.9,
+"Spawn Node",
+"Low EITC"
+],
+"1178836352.0dxschafe": [
+"1189479168.0sdnaik0",
+77.6,
+-902.6,
+272.5,
+"Spawn Node",
+"High Navy"
+],
+"1178836480.0dxschafe0": [
+"1189479168.0sdnaik0",
+274.2,
+-753.6,
+259.7,
+"Spawn Node",
+"High Navy"
+],
+"1178836608.0dxschafe": [
+"1189479168.0sdnaik0",
+272.8,
+-467.8,
+189.6,
+"Spawn Node",
+"High Navy"
+],
+"1178836608.0dxschafe0": [
+"1189479168.0sdnaik0",
+223.6,
+-527.3,
+189.6,
+"Spawn Node",
+"Low EITC"
+],
+"1178837120.0dxschafe": [
+"1189479168.0sdnaik0",
+48.3,
+-590.8,
+189.7,
+"Spawn Node",
+"Low EITC"
+],
+"1178911488.0dxschafe0": [
+"1189479168.0sdnaik0",
+173.5,
+481.3,
+131.9,
+"Spawn Node",
+"High Navy"
+],
+"1178911616.0dxschafe": [
+"1189479168.0sdnaik0",
+197.8,
+564.9,
+131.9,
+"Spawn Node",
+"Low EITC"
+],
+"1178911744.0dxschafe": [
+"1189479168.0sdnaik0",
+245.3,
+515.4,
+131.9,
+"Spawn Node",
+"High Navy"
+],
+"1178911872.0dxschafe": [
+"1189479168.0sdnaik0",
+212.5,
+401.0,
+131.9,
+"Spawn Node",
+"High Navy"
+],
+"1178912429.07Aholdun": [
+"1158121765.09sdnaik",
+-322.5,
+-80.8,
+55.8,
+"Spawn Node",
+"EITC - Thug"
+],
+"1178912512.0dxschafe0": [
+"1189479168.0sdnaik0",
+9.0,
+542.5,
+179.3,
+"Spawn Node",
+"High Navy"
+],
+"1178912768.0dxschafe": [
+"1189479168.0sdnaik0",
+16.3,
+464.5,
+179.2,
+"Spawn Node",
+"High Navy"
+],
+"1178912768.0dxschafe0": [
+"1189479168.0sdnaik0",
+217.1,
+410.7,
+179.0,
+"Spawn Node",
+"High Navy"
+],
+"1178912896.0dxschafe": [
+"1189479168.0sdnaik0",
+82.9,
+588.0,
+179.3,
+"Spawn Node",
+"High Navy"
+],
+"1178913024.0dxschafe": [
+"1189479168.0sdnaik0",
+184.0,
+650.4,
+198.6,
+"Spawn Node",
+"High Navy"
+],
+"1178913280.0dxschafe": [
+"1189479168.0sdnaik0",
+330.7,
+519.7,
+194.5,
+"Spawn Node",
+"High Navy"
+],
+"1178913408.0dxschafe": [
+"1189479168.0sdnaik0",
+64.0,
+625.4,
+131.9,
+"Spawn Node",
+"Low EITC"
+],
+"1178914816.0dxschafe0": [
+"1189479168.0sdnaik0",
+-52.9,
+108.7,
+103.8,
+"Spawn Node",
+"Low EITC"
+],
+"1178914816.0dxschafe1": [
+"1189479168.0sdnaik0",
+-45.3,
+352.9,
+104.9,
+"Spawn Node",
+"High Navy"
+],
+"1178914816.0dxschafe2": [
+"1189479168.0sdnaik0",
+-30.4,
+397.5,
+103.5,
+"Spawn Node",
+"High Navy"
+],
+"1178915200.0dxschafe": [
+"1189479168.0sdnaik0",
+327.6,
+-366.6,
+258.2,
+"Spawn Node",
+"High Navy"
+],
+"1178915200.0dxschafe0": [
+"1189479168.0sdnaik0",
+102.3,
+-730.0,
+258.0,
+"Spawn Node",
+"High Navy"
+],
+"1178915200.0dxschafe1": [
+"1189479168.0sdnaik0",
+94.3,
+-871.6,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915200.0dxschafe2": [
+"1189479168.0sdnaik0",
+155.4,
+-804.9,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915200.0dxschafe3": [
+"1189479168.0sdnaik0",
+196.1,
+-731.0,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915200.0dxschafe4": [
+"1189479168.0sdnaik0",
+226.1,
+-812.9,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915376.46Aholdun": [
+"1165009856.72sdnaik",
+-111.5,
+138.8,
+20.6,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1178915584.0dxschafe": [
+"1189479168.0sdnaik0",
+275.1,
+-647.9,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915712.0dxschafe": [
+"1189479168.0sdnaik0",
+148.7,
+-799.3,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915840.0dxschafe": [
+"1189479168.0sdnaik0",
+304.6,
+-688.7,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915968.0dxschafe": [
+"1189479168.0sdnaik0",
+310.8,
+-858.9,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915968.0dxschafe0": [
+"1189479168.0sdnaik0",
+349.8,
+-725.4,
+210.9,
+"Spawn Node",
+"High Navy"
+],
+"1178915968.0dxschafe1": [
+"1189479168.0sdnaik0",
+311.8,
+-726.1,
+258.1,
+"Spawn Node",
+"High Navy"
+],
+"1178916352.0dxschafe": [
+"1189479168.0sdnaik0",
+513.5,
+145.4,
+386.1,
+"Spawn Node",
+"High Navy"
+],
+"1178916352.0dxschafe0": [
+"1189479168.0sdnaik0",
+393.8,
+91.6,
+346.1,
+"Spawn Node",
+"Mid EITC"
+],
+"1178916352.0dxschafe1": [
+"1189479168.0sdnaik0",
+523.9,
+17.2,
+316.1,
+"Spawn Node",
+"High Navy"
+],
+"1178916352.0dxschafe2": [
+"1189479168.0sdnaik0",
+237.4,
+65.4,
+378.1,
+"Spawn Node",
+"High EITC"
+],
+"1178916480.0dxschafe": [
+"1189479168.0sdnaik0",
+208.0,
+164.4,
+346.1,
+"Spawn Node",
+"High EITC"
+],
+"1178916480.0dxschafe0": [
+"1189479168.0sdnaik0",
+337.9,
+320.1,
+386.1,
+"Spawn Node",
+"High Navy"
+],
+"1178916480.0dxschafe1": [
+"1189479168.0sdnaik0",
+478.3,
+47.2,
+386.2,
+"Spawn Node",
+"High Navy"
+],
+"1178916678.43Aholdun": [
+"1165009856.72sdnaik",
+-137.2,
+160.0,
+22.2,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1178916736.0dxschafe": [
+"1189479168.0sdnaik0",
+212.0,
+35.3,
+386.1,
+"Spawn Node",
+"High Navy"
+],
+"1178916864.0dxschafe0": [
+"1189479168.0sdnaik0",
+207.8,
+283.8,
+386.1,
+"Spawn Node",
+"High Navy"
+],
+"1178916864.0dxschafe2": [
+"1189479168.0sdnaik0",
+353.1,
+101.5,
+346.1,
+"Spawn Node",
+"Mid EITC"
+],
+"1178916992.0dxschafe": [
+"1189479168.0sdnaik0",
+261.5,
+108.6,
+346.2,
+"Spawn Node",
+"Mid EITC"
+],
+"1178916992.0dxschafe0": [
+"1189479168.0sdnaik0",
+238.6,
+138.2,
+346.1,
+"Spawn Node",
+"High EITC"
+],
+"1178932046.6Aholdun": [
+"1169179552.88sdnaik",
+-294.9,
+231.3,
+11.3,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1179265920.0dxschafe": [
+"1164135492.81dzlu",
+601.0,
+-99.3,
+16.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1179265920.0dxschafe0": [
+"1164135492.81dzlu",
+525.6,
+-246.8,
+19.7,
+"Spawn Node",
+"Crab"
+],
+"1179265920.0dxschafe1": [
+"1164135492.81dzlu",
+475.2,
+185.7,
+18.2,
+"Spawn Node",
+"Crab"
+],
+"1179265920.0dxschafe2": [
+"1164135492.81dzlu",
+103.8,
+-444.0,
+15.1,
+"Spawn Node",
+"Crab"
+],
+"1179265920.0dxschafe3": [
+"1164135492.81dzlu",
+-70.3,
+-471.1,
+11.2,
+"Spawn Node",
+"Crab"
+],
+"1179265920.0dxschafe4": [
+"1164135492.81dzlu",
+-191.0,
+-362.4,
+11.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1179265920.0dxschafe5": [
+"1164135492.81dzlu",
+256.0,
+-260.3,
+26.3,
+"Spawn Node",
+"Scorpion"
+],
+"1179266048.0dxschafe": [
+"1164135492.81dzlu",
+-2.7,
+-313.5,
+25.8,
+"Spawn Node",
+"Scorpion"
+],
+"1179266048.0dxschafe0": [
+"1164135492.81dzlu",
+198.8,
+-279.9,
+26.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1179266048.0dxschafe1": [
+"1164135492.81dzlu",
+-120.9,
+-308.1,
+23.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1179266048.0dxschafe2": [
+"1164135492.81dzlu",
+-51.3,
+316.7,
+12.5,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1179266048.0dxschafe3": [
+"1164135492.81dzlu",
+-34.4,
+372.5,
+6.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1179266176.0dxschafe": [
+"1164135492.81dzlu",
+598.5,
+-35.6,
+13.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1179266176.0dxschafe0": [
+"1164135492.81dzlu",
+-113.8,
+-473.2,
+10.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1179333564.3Aholdun": [
+"1165004570.58sdnaik",
+121.0,
+141.5,
+21.0,
+"Spawn Node",
+"Low Skeleton"
+],
+"1179333651.86Aholdun": [
+"1165004570.58sdnaik",
+176.7,
+185.9,
+35.4,
+"Spawn Node",
+"Low Skeleton"
+],
+"1179333670.7Aholdun": [
+"1165004570.58sdnaik",
+59.3,
+124.0,
+7.4,
+"Spawn Node",
+"Low Skeleton"
+],
+"1179333814.72Aholdun": [
+"1165004570.58sdnaik",
+191.3,
+40.1,
+39.5,
+"Spawn Node",
+"Low Skeleton"
+],
+"1179336066.55Aholdun": [
+"1165004570.58sdnaik",
+100.1,
+58.3,
+15.7,
+"Spawn Node",
+"Early Skeleton"
+],
+"1179346924.27Aholdun": [
+"1161798288.34sdnaik",
+-227.3,
+294.1,
+52.5,
+"Spawn Node",
+"Early Skeleton"
+],
+"1179346979.48Aholdun": [
+"1161798288.34sdnaik",
+-419.5,
+107.5,
+22.5,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1179772307.6Aholdun": [
+"1173382404.64sdnaik",
+141.5,
+-285.8,
+26.0,
+"Spawn Node",
+"High Skeleton"
+],
+"1179772341.21Aholdun": [
+"1173382404.64sdnaik",
+520.0,
+-162.7,
+24.2,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1179772411.83Aholdun": [
+"1173382404.64sdnaik",
+282.7,
+251.1,
+18.1,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1179772435.88Aholdun": [
+"1173382404.64sdnaik",
+349.5,
+151.5,
+27.0,
+"Spawn Node",
+"High Skeleton"
+],
+"1179772467.65Aholdun": [
+"1173382404.64sdnaik",
+549.2,
+19.3,
+17.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1179772489.58Aholdun": [
+"1173382404.64sdnaik",
+586.3,
+-19.5,
+14.5,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1179772572.96Aholdun": [
+"1173382404.64sdnaik",
+137.1,
+-406.1,
+19.6,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1179772681.83Aholdun": [
+"1173382404.64sdnaik",
+401.1,
+-357.9,
+9.4,
+"Spawn Node",
+"Rock Crab"
+],
+"1179772713.57Aholdun": [
+"1173382404.64sdnaik",
+508.0,
+-283.5,
+17.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1179772735.35Aholdun": [
+"1173382404.64sdnaik",
+266.6,
+-355.2,
+18.4,
+"Spawn Node",
+"Crab"
+],
+"1179772829.02Aholdun": [
+"1173382404.64sdnaik",
+356.1,
+-156.2,
+25.6,
+"Spawn Node",
+"Spanish Undead Bandido"
+],
+"1179772859.43Aholdun": [
+"1173382404.64sdnaik",
+-27.5,
+368.5,
+8.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1179772887.38Aholdun": [
+"1173382404.64sdnaik",
+131.1,
+341.4,
+8.0,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1179772927.65Aholdun": [
+"1173382404.64sdnaik",
+442.3,
+220.6,
+17.8,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1179772932.69Aholdun": [
+"1173382404.64sdnaik",
+414.3,
+266.3,
+9.6,
+"Spawn Node",
+"Rock Crab"
+],
+"1179772952.69Aholdun": [
+"1173382404.64sdnaik",
+356.4,
+274.1,
+10.9,
+"Spawn Node",
+"Crab"
+],
+"1179773043.72Aholdun": [
+"1173382404.64sdnaik",
+498.7,
+91.1,
+22.0,
+"Spawn Node",
+"Mean Skeleton"
+],
+"1179773161.52Aholdun": [
+"1173382404.64sdnaik",
+108.7,
+265.8,
+22.7,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1179773205.49Aholdun": [
+"1173382404.64sdnaik",
+598.8,
+-197.0,
+13.8,
+"Spawn Node",
+"Giant Crab"
+],
+"1179773647.63Aholdun": [
+"1173382404.64sdnaik",
+27.3,
+-467.4,
+12.5,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1179773875.15Aholdun": [
+"1173382404.64sdnaik",
+109.3,
+-471.1,
+18.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1179780339.07Aholdun": [
+"1173381952.2sdnaik",
+51.3,
+390.9,
+3.7,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1179780446.62Aholdun": [
+"1173381952.2sdnaik",
+-322.8,
+164.1,
+9.0,
+"Spawn Node",
+"Scorpion"
+],
+"1179780565.52Aholdun": [
+"1173381952.2sdnaik",
+-359.1,
+84.2,
+11.5,
+"Spawn Node",
+"Scorpion"
+],
+"1179780661.1Aholdun": [
+"1173381952.2sdnaik",
+-161.8,
+262.3,
+1.8,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1179780753.58Aholdun": [
+"1173381952.2sdnaik",
+199.2,
+314.5,
+4.8,
+"Spawn Node",
+"Scorpion"
+],
+"1179780786.46Aholdun": [
+"1173381952.2sdnaik",
+30.2,
+228.9,
+4.1,
+"Spawn Node",
+"Scorpion"
+],
+"1179780842.29Aholdun": [
+"1173381952.2sdnaik",
+-215.8,
+186.9,
+4.1,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1179780846.71Aholdun": [
+"1173381952.2sdnaik",
+-256.4,
+253.0,
+2.5,
+"Spawn Node",
+"Scorpion"
+],
+"1179780901.35Aholdun": [
+"1173381952.2sdnaik",
+262.8,
+257.3,
+8.4,
+"Spawn Node",
+"Scorpion"
+],
+"1179780921.77Aholdun": [
+"1173381952.2sdnaik",
+-24.4,
+292.5,
+4.5,
+"Spawn Node",
+"Scorpion"
+],
+"1179781234.4Aholdun": [
+"1173381952.2sdnaik",
+203.0,
+142.2,
+6.7,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1179791064.29Aholdun": [
+"1160614528.73sdnaik",
+-319.9,
+-759.9,
+22.9,
+"Spawn Node",
+"Alligator"
+],
+"1179791120.18Aholdun": [
+"1160614528.73sdnaik",
+-272.3,
+-807.4,
+12.5,
+"Spawn Node",
+"Alligator"
+],
+"1179791134.46Aholdun": [
+"1160614528.73sdnaik",
+-262.1,
+-857.9,
+6.7,
+"Spawn Node",
+"Alligator"
+],
+"1179791701.57Aholdun": [
+"1160614528.73sdnaik",
+-10.3,
+-477.5,
+-1.3,
+"Spawn Node",
+"Alligator"
+],
+"1179791720.71Aholdun": [
+"1160614528.73sdnaik",
+-198.1,
+-553.2,
+16.2,
+"Spawn Node",
+"Alligator"
+],
+"1179793974.72Aholdun": [
+"1160614528.73sdnaik",
+-112.9,
+-459.4,
+-0.6,
+"Spawn Node",
+"Alligator"
+],
+"1179857302.69Aholdun": [
+"1173381952.2sdnaik",
+-217.2,
+45.1,
+3.5,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1179857354.4Aholdun": [
+"1173381952.2sdnaik",
+-348.8,
+125.8,
+10.4,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1179859687.82Aholdun": [
+"1164150392.42dzlu",
+98.7,
+-180.4,
+13.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1179859802.76Aholdun": [
+"1164150392.42dzlu",
+-30.4,
+-415.9,
+9.9,
+"Spawn Node",
+"Giant Crab"
+],
+"1179859894.57Aholdun": [
+"1164150392.42dzlu",
+-175.4,
+-453.8,
+12.4,
+"Spawn Node",
+"Giant Crab"
+],
+"1179859916.96Aholdun": [
+"1164150392.42dzlu",
+-257.8,
+-336.6,
+10.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1179859941.49Aholdun": [
+"1164150392.42dzlu",
+315.9,
+-40.6,
+12.4,
+"Spawn Node",
+"Giant Crab"
+],
+"1179859981.02Aholdun": [
+"1164150392.42dzlu",
+18.0,
+-300.1,
+14.1,
+"Spawn Node",
+"Giant Crab"
+],
+"1179860013.38Aholdun": [
+"1164150392.42dzlu",
+-76.7,
+-341.2,
+14.5,
+"Spawn Node",
+"Giant Crab"
+],
+"1179860068.44Aholdun": [
+"1164150392.42dzlu",
+206.2,
+64.3,
+14.7,
+"Spawn Node",
+"Giant Crab"
+],
+"1179860098.51Aholdun": [
+"1164150392.42dzlu",
+177.5,
+-296.3,
+14.5,
+"Spawn Node",
+"Giant Crab"
+],
+"1179860154.57Aholdun": [
+"1164150392.42dzlu",
+-331.7,
+-155.5,
+11.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1179860165.94Aholdun": [
+"1164150392.42dzlu",
+-139.0,
+-293.6,
+14.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1179860166.77Aholdun": [
+"1164150392.42dzlu",
+-338.1,
+-237.9,
+1.6,
+"Spawn Node",
+"Giant Crab"
+],
+"1179860230.79Aholdun": [
+"1164150392.42dzlu",
+317.3,
+-178.5,
+12.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1179861836.94Aholdun": [
+"1172208344.92sdnaik",
+44.3,
+-205.1,
+28.4,
+"Spawn Node",
+"Vampire Bat"
+],
+"1179861898.15Aholdun": [
+"1172208344.92sdnaik",
+-139.4,
+-3.7,
+55.3,
+"Spawn Node",
+"Vampire Bat"
+],
+"1179861984.82Aholdun": [
+"1172208344.92sdnaik",
+139.5,
+-179.8,
+24.2,
+"Spawn Node",
+"Vampire Bat"
+],
+"1179862042.35Aholdun": [
+"1172208344.92sdnaik",
+38.4,
+-143.2,
+28.7,
+"Spawn Node",
+"Mid DJCrew"
+],
+"1179873579.27Aholdun": [
+"1161732578.06sdnaik",
+293.9,
+89.7,
+-2.4,
+"Spawn Node",
+"FlyTrap"
+],
+"1179873610.52Aholdun": [
+"1161732578.06sdnaik",
+323.4,
+222.3,
+-2.4,
+"Spawn Node",
+"Alligator"
+],
+"1179873636.46Aholdun": [
+"1161732578.06sdnaik",
+116.2,
+98.3,
+-2.4,
+"Spawn Node",
+"Big Gator"
+],
+"1179873649.69Aholdun": [
+"1161732578.06sdnaik",
+66.1,
+35.2,
+-2.4,
+"Spawn Node",
+"FlyTrap"
+],
+"1179873681.62Aholdun": [
+"1161732578.06sdnaik",
+-166.0,
+-72.5,
+0.1,
+"Spawn Node",
+"Alligator"
+],
+"1179873779.77Aholdun": [
+"1161732578.06sdnaik",
+-97.4,
+-154.1,
+-2.4,
+"Spawn Node",
+"FlyTrap"
+],
+"1179874217.3Aholdun": [
+"1161732578.06sdnaik",
+257.9,
+224.1,
+4.4,
+"Spawn Node",
+"Alligator"
+],
+"1179874246.05Aholdun": [
+"1161732578.06sdnaik",
+197.6,
+136.2,
+0.0,
+"Spawn Node",
+"Big Gator"
+],
+"1179874268.52Aholdun": [
+"1161732578.06sdnaik",
+317.6,
+273.3,
+-2.4,
+"Spawn Node",
+"Alligator"
+],
+"1179874295.43Aholdun": [
+"1161732578.06sdnaik",
+-97.5,
+56.5,
+-2.4,
+"Spawn Node",
+"FlyTrap"
+],
+"1179874319.68Aholdun": [
+"1161732578.06sdnaik",
+85.0,
+-43.5,
+2.5,
+"Spawn Node",
+"Big Gator"
+],
+"1179877459.87Aholdun": [
+"1164157132.99dzlu",
+-127.2,
+68.2,
+19.2,
+"Spawn Node",
+"Angry Wasp"
+],
+"1179877536.51Aholdun": [
+"1164157132.99dzlu",
+11.5,
+-268.4,
+25.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1179877565.4Aholdun": [
+"1164157132.99dzlu",
+280.5,
+-106.0,
+21.0,
+"Spawn Node",
+"Wasp"
+],
+"1179877599.51Aholdun": [
+"1164157132.99dzlu",
+170.1,
+-301.8,
+18.6,
+"Spawn Node",
+"Giant Crab"
+],
+"1179877641.49Aholdun": [
+"1164157132.99dzlu",
+-253.3,
+-126.5,
+16.6,
+"Spawn Node",
+"Rock Crab"
+],
+"1179877662.26Aholdun": [
+"1164157132.99dzlu",
+58.7,
+-176.2,
+26.5,
+"Spawn Node",
+"Angry Wasp"
+],
+"1179877716.65Aholdun": [
+"1164157132.99dzlu",
+-54.5,
+-144.8,
+26.5,
+"Spawn Node",
+"Angry Wasp"
+],
+"1179944463.16Aholdun": [
+"1172209955.25sdnaik",
+232.4,
+159.8,
+38.2,
+"Spawn Node",
+"Wasp"
+],
+"1179944524.92Aholdun": [
+"1172209955.25sdnaik",
+354.5,
+139.6,
+42.5,
+"Spawn Node",
+"Wasp"
+],
+"1179944593.36Aholdun": [
+"1172209955.25sdnaik",
+113.2,
+197.6,
+51.6,
+"Spawn Node",
+"Angry Wasp"
+],
+"1179946104.72Aholdun": [
+"1172208344.92sdnaik",
+-303.9,
+15.7,
+56.8,
+"Spawn Node",
+"Early DJCrew"
+],
+"1179946138.7Aholdun": [
+"1172208344.92sdnaik",
+-53.4,
+72.3,
+32.8,
+"Spawn Node",
+"Fierce DJCrew"
+],
+"1179946169.66Aholdun": [
+"1172208344.92sdnaik",
+-65.6,
+126.2,
+33.6,
+"Spawn Node",
+"Elite DJCrew"
+],
+"1179946209.01Aholdun": [
+"1172208344.92sdnaik",
+-3.3,
+19.0,
+30.5,
+"Spawn Node",
+"Mean DJCrew"
+],
+"1179946254.11Aholdun": [
+"1172208344.92sdnaik",
+-303.7,
+123.5,
+65.9,
+"Spawn Node",
+"Vampire Bat"
+],
+"1179946309.78Aholdun": [
+"1172208344.92sdnaik",
+-85.5,
+18.8,
+38.0,
+"Spawn Node",
+"High DJCrew"
+],
+"1179946339.7Aholdun": [
+"1172208344.92sdnaik",
+32.7,
+-67.7,
+29.0,
+"Spawn Node",
+"Mean DJCrew"
+],
+"1179946425.84Aholdun": [
+"1172208344.92sdnaik",
+433.8,
+-166.5,
+2.2,
+"Spawn Node",
+"High DJCrew"
+],
+"1179946450.75Aholdun": [
+"1172208344.92sdnaik",
+51.0,
+-1.3,
+28.1,
+"Spawn Node",
+"Fierce DJCrew"
+],
+"1182806528.0dxschafe": [
+"1164157132.99dzlu",
+-172.0,
+-197.7,
+19.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1182807296.0dxschafe": [
+"1161282725.84kmuller",
+461.7,
+95.8,
+27.1,
+"Spawn Node",
+"Wasp"
+],
+"1182807296.0dxschafe0": [
+"1161282725.84kmuller",
+-445.1,
+70.1,
+9.1,
+"Spawn Node",
+"Wasp"
+],
+"1182807424.0dxschafe": [
+"1161282725.84kmuller",
+-242.0,
+121.5,
+7.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1182807552.0dxschafe": [
+"1161282725.84kmuller",
+-475.4,
+-41.6,
+12.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1182807552.0dxschafe0": [
+"1161282725.84kmuller",
+267.9,
+293.5,
+20.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1182807552.0dxschafe2": [
+"1161282725.84kmuller",
+401.8,
+62.6,
+20.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1182816000.0dxschafe": [
+"1164150392.42dzlu",
+61.7,
+-251.9,
+14.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1182816000.0dxschafe0": [
+"1164150392.42dzlu",
+247.9,
+16.2,
+13.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1182816000.0dxschafe1": [
+"1164150392.42dzlu",
+-110.7,
+-494.7,
+7.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1182816128.0dxschafe": [
+"1164150392.42dzlu",
+-132.9,
+-420.7,
+14.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1183417216.0dxschafe": [
+"1150922126.8dzlu",
+-319.0,
+-1786.6,
+9.2,
+"Spawn Node",
+"Noob Navy"
+],
+"1183417216.0dxschafe0": [
+"1150922126.8dzlu",
+-614.0,
+-1927.2,
+8.2,
+"Spawn Node",
+"Noob Navy"
+],
+"1183417344.0dxschafe": [
+"1150922126.8dzlu",
+-623.2,
+-1910.7,
+10.1,
+"Spawn Node",
+"Noob Navy"
+],
+"1183683584.0dxschafe": [
+"1156207188.95dzlu",
+-378.4,
+-342.8,
+-0.5,
+"Spawn Node",
+"Alligator"
+],
+"1184632064.0dxschafe": [
+"1150922126.8dzlu",
+-715.7,
+-1782.3,
+23.4,
+"Spawn Node",
+"Noob Navy"
+],
+"1184791424.0dxschafe": [
+"1172209955.25sdnaik",
+-9.5,
+248.5,
+76.5,
+"Spawn Node",
+"Wasp"
+],
+"1184791424.0dxschafe0": [
+"1172209955.25sdnaik",
+-396.7,
+-30.3,
+18.3,
+"Spawn Node",
+"Wasp"
+],
+"1184791424.0dxschafe1": [
+"1172209955.25sdnaik",
+-235.6,
+-84.0,
+17.2,
+"Spawn Node",
+"Angry Wasp"
+],
+"1184791424.0dxschafe2": [
+"1172209955.25sdnaik",
+-464.1,
+-60.8,
+17.5,
+"Spawn Node",
+"Wasp"
+],
+"1184791424.0dxschafe3": [
+"1172209955.25sdnaik",
+-220.6,
+279.7,
+48.7,
+"Spawn Node",
+"Wasp"
+],
+"1184791424.0dxschafe4": [
+"1172209955.25sdnaik",
+-69.1,
+263.9,
+72.9,
+"Spawn Node",
+"Angry Wasp"
+],
+"1184791424.0dxschafe5": [
+"1172209955.25sdnaik",
+-288.2,
+-170.3,
+16.1,
+"Spawn Node",
+"Wasp"
+],
+"1184791424.0dxschafe6": [
+"1172209955.25sdnaik",
+-385.2,
+176.8,
+39.7,
+"Spawn Node",
+"Wasp"
+],
+"1184791424.0dxschafe7": [
+"1172209955.25sdnaik",
+-433.9,
+53.5,
+20.0,
+"Spawn Node",
+"Wasp"
+],
+"1184791424.0dxschafe8": [
+"1172209955.25sdnaik",
+-328.4,
+239.8,
+61.1,
+"Spawn Node",
+"Angry Wasp"
+],
+"1184872448.0dxschafe": [
+"1164763706.66sdnaik",
+106.3,
+401.8,
+10.9,
+"Spawn Node",
+"Crab"
+],
+"1184872576.0dxschafe": [
+"1164763706.66sdnaik",
+352.5,
+307.1,
+10.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1184872576.0dxschafe0": [
+"1164763706.66sdnaik",
+393.0,
+339.5,
+2.3,
+"Spawn Node",
+"Crab"
+],
+"1184872576.0dxschafe1": [
+"1164763706.66sdnaik",
+13.1,
+443.0,
+17.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1184872704.0dxschafe": [
+"1164763706.66sdnaik",
+70.0,
+401.2,
+17.3,
+"Spawn Node",
+"Giant Crab"
+],
+"1184872832.0dxschafe0": [
+"1164763706.66sdnaik",
+89.5,
+-220.1,
+9.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1184873344.0dxschafe": [
+"1164763706.66sdnaik",
+152.2,
+-264.0,
+13.8,
+"Spawn Node",
+"Giant Crab"
+],
+"1185388800.0dxschafe": [
+"1165001772.05sdnaik",
+-99.2,
+158.4,
+34.8,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1185388800.0dxschafe0": [
+"1165001772.05sdnaik",
+-88.4,
+161.9,
+34.3,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1185388800.0dxschafe1": [
+"1165001772.05sdnaik",
+-85.8,
+152.8,
+34.2,
+"Spawn Node",
+"Low Skeleton"
+],
+"1185388800.0dxschafe2": [
+"1165001772.05sdnaik",
+-90.3,
+139.5,
+34.4,
+"Spawn Node",
+"Low Skeleton"
+],
+"1186435200.0dchiappe": [
+"1165001772.05sdnaik",
+-104.2,
+144.5,
+35.0,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1186437632.0dxschafe0": [
+"1169592956.59sdnaik",
+89.2,
+16.5,
+4.7,
+"Spawn Node",
+"Alligator"
+],
+"1186512896.0dxschafe": [
+"1156267951.67dzlu0",
+-0.6,
+-4.7,
+0.0,
+"Searchable Container",
+""
+],
+"1186513024.0dxschafe": [
+"1156267951.67dzlu0",
+11.6,
+-11.0,
+0.0,
+"Spawn Node",
+"Navy - Guard"
+],
+"1186519296.0dxschafe": [
+"1169179552.88sdnaik",
+-154.1,
+197.6,
+-2.2,
+"Spawn Node",
+"FlyTrap"
+],
+"1186519296.0dxschafe0": [
+"1169179552.88sdnaik",
+-55.1,
+142.8,
+-1.4,
+"Spawn Node",
+"Alligator"
+],
+"1186531328.0dxschafe": [
+"1165009873.53sdnaik",
+-99.6,
+-63.7,
+125.7,
+"Spawn Node",
+"Scorpion"
+],
+"1186531328.0dxschafe0": [
+"1165009873.53sdnaik",
+-131.8,
+-68.1,
+126.9,
+"Spawn Node",
+"Scorpion"
+],
+"1186531328.0dxschafe1": [
+"1165009873.53sdnaik",
+-153.5,
+-86.3,
+128.0,
+"Spawn Node",
+"Scorpion"
+],
+"1186531328.0dxschafe2": [
+"1165009873.53sdnaik",
+-165.4,
+-11.0,
+126.9,
+"Spawn Node",
+"Scorpion"
+],
+"1186531328.0dxschafe4": [
+"1165009873.53sdnaik",
+-468.4,
+-63.2,
+97.2,
+"Spawn Node",
+"Scorpion"
+],
+"1186698880.0dxschafe": [
+"1165009856.72sdnaik",
+-287.8,
+159.1,
+30.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1186699520.0dxschafe": [
+"1186699264.0dxschafe0",
+-3.2,
+-9.7,
+-0.1,
+"Spawn Node",
+"EITC - Thug"
+],
+"1186699648.0dxschafe": [
+"1186699264.0dxschafe0",
+-9.2,
+28.9,
+5.3,
+"Spawn Node",
+"EITC - Thug"
+],
+"1186699904.0dxschafe": [
+"1158121765.09sdnaik",
+-298.8,
+-10.0,
+55.8,
+"Spawn Node",
+"Low Navy"
+],
+"1186707456.0dchiappe": [
+"1165001772.05sdnaik",
+7.1,
+82.8,
+30.1,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1186707456.0dchiappe0": [
+"1165001772.05sdnaik",
+-17.6,
+78.2,
+31.2,
+"Spawn Node",
+"Early Skeleton"
+],
+"1186707456.0dchiappe2": [
+"1165001772.05sdnaik",
+16.8,
+48.7,
+29.6,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1186708736.0dchiappe4": [
+"1165001772.05sdnaik",
+-0.8,
+41.5,
+30.4,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1186709120.0dchiappe": [
+"1165001772.05sdnaik",
+31.5,
+-167.8,
+29.0,
+"Spawn Node",
+"Early Skeleton"
+],
+"1186709120.0dchiappe0": [
+"1165001772.05sdnaik",
+37.5,
+-153.3,
+28.3,
+"Spawn Node",
+"Early Skeleton"
+],
+"1186713984.0dxschafe": [
+"1172209955.25sdnaik",
+-237.9,
+302.4,
+56.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1186714240.0dxschafe0": [
+"1172208344.92sdnaik",
+22.9,
+129.4,
+29.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1186772608.0dchiappe0": [
+"1165001772.05sdnaik",
+216.5,
+-155.4,
+11.6,
+"Spawn Node",
+"Low Skeleton"
+],
+"1186772608.0dchiappe1": [
+"1165001772.05sdnaik",
+215.0,
+-128.2,
+11.0,
+"Spawn Node",
+"Low Skeleton"
+],
+"1186773632.0dchiappe": [
+"1165001772.05sdnaik",
+2.7,
+64.4,
+30.2,
+"Spawn Node",
+"Scorpion"
+],
+"1186774528.0dchiappe": [
+"1165001772.05sdnaik",
+294.6,
+88.1,
+0.1,
+"Spawn Node",
+"Bat"
+],
+"1186775680.0dchiappe": [
+"1165001772.05sdnaik",
+422.6,
+14.2,
+-1.1,
+"Spawn Node",
+"Vampire Bat"
+],
+"1186776192.0dchiappe": [
+"1165001772.05sdnaik",
+290.0,
+-103.0,
+2.2,
+"Spawn Node",
+"Bat"
+],
+"1186776448.0dchiappe": [
+"1165001772.05sdnaik",
+376.6,
+6.4,
+-1.1,
+"Spawn Node",
+"Bat"
+],
+"1186776960.0dchiappe": [
+"1165001772.05sdnaik",
+-149.8,
+-34.8,
+56.3,
+"Spawn Node",
+"Early Skeleton"
+],
+"1186776960.0dchiappe0": [
+"1165001772.05sdnaik",
+-153.2,
+17.7,
+55.6,
+"Spawn Node",
+"Low Skeleton"
+],
+"1186777472.0dchiappe0": [
+"1165001772.05sdnaik",
+-260.4,
+120.9,
+66.0,
+"Spawn Node",
+"Bat"
+],
+"1186777600.0dchiappe": [
+"1165001772.05sdnaik",
+-264.2,
+178.7,
+66.7,
+"Spawn Node",
+"Bat"
+],
+"1186777600.0dchiappe0": [
+"1165001772.05sdnaik",
+-337.3,
+87.5,
+65.3,
+"Spawn Node",
+"Bat"
+],
+"1186777600.0dchiappe1": [
+"1165001772.05sdnaik",
+-414.4,
+146.8,
+78.1,
+"Spawn Node",
+"Bat"
+],
+"1187042944.0dxschafe0": [
+"1161798288.34sdnaik",
+-6.6,
+303.5,
+83.2,
+"Spawn Node",
+"Wasp"
+],
+"1187057664.0dxschafe": [
+"1186699264.0dxschafe0",
+-1.2,
+-5.3,
+0.0,
+"Searchable Container",
+""
+],
+"1187139456.0dxschafe": [
+"1165009856.72sdnaik",
+84.7,
+122.8,
+35.5,
+"Spawn Node",
+"High Skeleton"
+],
+"1187139712.0dxschafe0": [
+"1165009856.72sdnaik",
+-62.6,
+76.9,
+21.6,
+"Spawn Node",
+"High Skeleton"
+],
+"1187140736.0dchiappe": [
+"1169592956.59sdnaik",
+570.4,
+-9.1,
+60.0,
+"Spawn Node",
+"Navy - Guard"
+],
+"1187140864.0dchiappe0": [
+"1169592956.59sdnaik",
+572.5,
+-11.5,
+59.8,
+"Spawn Node",
+"Navy - Cadet"
+],
+"1187140992.0dchiappe": [
+"1169592956.59sdnaik",
+576.8,
+-18.3,
+59.3,
+"Spawn Node",
+"Undead - Sludge"
+],
+"1187142784.0dchiappe": [
+"1169592956.59sdnaik",
+492.6,
+42.6,
+69.0,
+"Spawn Node",
+"Low Skeleton"
+],
+"1187143040.0dchiappe": [
+"1169592956.59sdnaik",
+654.2,
+121.8,
+52.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1187143552.0dchiappe": [
+"1169592956.59sdnaik",
+632.4,
+121.0,
+52.5,
+"Spawn Node",
+"Early Skeleton"
+],
+"1187143552.0dchiappe0": [
+"1169592956.59sdnaik",
+643.2,
+120.5,
+52.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1187145344.0dchiappe": [
+"1169179552.88sdnaik",
+293.3,
+113.0,
+-2.3,
+"Spawn Node",
+"High Skeleton"
+],
+"1187145600.0dchiappe": [
+"1169179552.88sdnaik",
+220.6,
+108.3,
+-4.2,
+"Spawn Node",
+"Early Skeleton"
+],
+"1187207424.0dchiappe": [
+"1169592956.59sdnaik",
+467.7,
+136.3,
+66.8,
+"Spawn Node",
+"Undead - Sludge"
+],
+"1187207424.0dchiappe0": [
+"1169592956.59sdnaik",
+463.9,
+126.5,
+66.5,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1187207424.0dchiappe1": [
+"1169592956.59sdnaik",
+471.0,
+130.7,
+67.1,
+"Spawn Node",
+"Undead - Mire"
+],
+"1187230080.0dxschafe": [
+"1158121765.09sdnaik",
+-241.7,
+-75.3,
+56.3,
+"Spawn Node",
+"High Navy"
+],
+"1187640576.0dchiappe": [
+"1169592956.59sdnaik",
+420.4,
+226.2,
+62.5,
+"Spawn Node",
+"Undead - Sludge"
+],
+"1187640704.0dchiappe": [
+"1169592956.59sdnaik",
+408.8,
+224.9,
+61.6,
+"Spawn Node",
+"Navy - Guard"
+],
+"1187656704.0dxschafe0": [
+"1167862588.52sdnaik",
+282.3,
+11.6,
+17.2,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1188000256.0dxschafe": [
+"1150922126.8dzlu",
+-548.0,
+-1752.9,
+14.1,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1188433792.0dxschafe": [
+"1150922126.8dzlu",
+-1003.8,
+-2085.7,
+31.4,
+"Spawn Node",
+"Low Navy"
+],
+"1188433792.0dxschafe0": [
+"1150922126.8dzlu",
+-1098.1,
+-2517.9,
+116.0,
+"Spawn Node",
+"Noob Navy"
+],
+"1188433920.0dxschafe": [
+"1150922126.8dzlu",
+-1248.1,
+-2591.9,
+134.8,
+"Spawn Node",
+"Noob Navy"
+],
+"1188434048.0dxschafe": [
+"1150922126.8dzlu",
+-1084.0,
+-2182.2,
+51.8,
+"Spawn Node",
+"Noob Navy"
+],
+"1188442752.0dxschafe1": [
+"1164952144.06sdnaik",
+390.6,
+-208.6,
+3.1,
+"Spawn Node",
+"Mid Navy"
+],
+"1188442880.0dxschafe": [
+"1164952144.06sdnaik",
+395.5,
+-211.9,
+2.9,
+"Spawn Node",
+"Mid Navy"
+],
+"1189033856.0dchiappe": [
+"1164929110.98sdnaik",
+5.5,
+33.6,
+0.1,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1189445899.98kmuller": [
+"1173381952.2sdnaik",
+-357.4,
+-33.3,
+8.2,
+"Spawn Node",
+"Stump"
+],
+"1189446451.16kmuller": [
+"1173381952.2sdnaik",
+417.0,
+570.7,
+23.9,
+"Spawn Node",
+"Stump"
+],
+"1189446492.31kmuller": [
+"1173381952.2sdnaik",
+194.8,
+665.1,
+14.4,
+"Spawn Node",
+"Stump"
+],
+"1189459652.73kmuller": [
+"1172208344.92sdnaik",
+-108.1,
+164.2,
+35.2,
+"Searchable Container",
+""
+],
+"1189459903.72kmuller": [
+"1172208344.92sdnaik",
+-451.2,
+161.9,
+78.1,
+"Spawn Node",
+"Low DJCrew"
+],
+"1189460022.72kmuller": [
+"1172208344.92sdnaik",
+396.9,
+-16.4,
+-0.5,
+"Spawn Node",
+"High DJCrew"
+],
+"1189460063.77kmuller": [
+"1172208344.92sdnaik",
+353.6,
+-121.5,
+-1.1,
+"Spawn Node",
+"Fierce DJCrew"
+],
+"1189470592.0dxschafe": [
+"1142018473.22dxschafe",
+715.7,
+-1180.4,
+34.5,
+"Spawn Node",
+"High Skeleton"
+],
+"1189470592.0dxschafe0": [
+"1142018473.22dxschafe",
+860.6,
+-1346.9,
+18.7,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1189470592.0dxschafe1": [
+"1142018473.22dxschafe",
+432.8,
+-1215.7,
+32.0,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1189470592.0dxschafe2": [
+"1142018473.22dxschafe",
+646.2,
+-1124.0,
+36.8,
+"Spawn Node",
+"High Skeleton"
+],
+"1189470592.0dxschafe3": [
+"1142018473.22dxschafe",
+323.3,
+-1310.4,
+33.4,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1189470592.0dxschafe4": [
+"1142018473.22dxschafe",
+615.2,
+-1192.9,
+32.2,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1189470592.0dxschafe5": [
+"1142018473.22dxschafe",
+460.2,
+-1172.0,
+34.0,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1189470848.0dxschafe": [
+"1142018473.22dxschafe",
+575.3,
+-1143.1,
+35.7,
+"Spawn Node",
+"Navy - Officer"
+],
+"1189470976.0dxschafe": [
+"1142018473.22dxschafe",
+583.0,
+-1147.8,
+35.5,
+"Spawn Node",
+"Undead - Zombie"
+],
+"1189470976.0dxschafe0": [
+"1142018473.22dxschafe",
+528.3,
+-1158.7,
+33.0,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1189471104.0dxschafe": [
+"1142018473.22dxschafe",
+531.0,
+-1151.7,
+34.1,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1189471232.0dxschafe": [
+"1142018473.22dxschafe",
+327.0,
+-1264.9,
+34.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1189471232.0dxschafe0": [
+"1142018473.22dxschafe",
+608.8,
+-1093.6,
+39.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1189471232.0dxschafe1": [
+"1142018473.22dxschafe",
+775.8,
+-1233.1,
+29.8,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1189471232.0dxschafe2": [
+"1142018473.22dxschafe",
+459.2,
+-1253.1,
+29.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1189546831.77kmuller": [
+"1150922126.8dzlu",
+-1142.3,
+-3008.9,
+198.8,
+"Spawn Node",
+"Low EITC"
+],
+"1189546921.29kmuller": [
+"1150922126.8dzlu",
+-1211.0,
+-3099.3,
+198.8,
+"Spawn Node",
+"Mid EITC"
+],
+"1189551232.0dxschafe": [
+"1167862588.52sdnaik",
+207.6,
+51.4,
+21.6,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1189551360.0dxschafe": [
+"1167862588.52sdnaik",
+207.6,
+43.8,
+21.6,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1189551488.0dxschafe0": [
+"1167862588.52sdnaik",
+198.7,
+69.1,
+21.7,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1189551488.0dxschafe1": [
+"1167862588.52sdnaik",
+208.8,
+68.7,
+21.6,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1189564672.0dxschafe": [
+"1156207188.95dzlu",
+-37.6,
+82.1,
+34.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1189643569.14kmuller": [
+"1172208344.92sdnaik",
+301.3,
+-192.8,
+2.2,
+"Spawn Node",
+"Mid DJCrew"
+],
+"1189788800.0dxschafe0": [
+"1168057131.73sdnaik",
+106.4,
+-285.8,
+12.2,
+"Spawn Node",
+"Navy - Officer"
+],
+"1189788928.0dxschafe": [
+"1168057131.73sdnaik",
+115.5,
+-40.3,
+0.1,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1189788928.0dxschafe0": [
+"1168057131.73sdnaik",
+113.9,
+-47.1,
+0.1,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1189788928.0dxschafe1": [
+"1168057131.73sdnaik",
+221.5,
+36.0,
+0.1,
+"Spawn Node",
+"EITC - Mercenary"
+],
+"1189788928.0dxschafe2": [
+"1168057131.73sdnaik",
+143.4,
+51.3,
+0.1,
+"Spawn Node",
+"EITC - Grunt"
+],
+"1189788928.0dxschafe3": [
+"1168057131.73sdnaik",
+77.0,
+-231.6,
+12.2,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1189788928.0dxschafe4": [
+"1168057131.73sdnaik",
+131.5,
+-188.2,
+12.2,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1189788928.0dxschafe5": [
+"1168057131.73sdnaik",
+64.9,
+-163.5,
+12.2,
+"Spawn Node",
+"EITC - Mercenary"
+],
+"1189788928.0dxschafe6": [
+"1168057131.73sdnaik",
+83.8,
+-234.6,
+12.2,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1189788928.0dxschafe7": [
+"1168057131.73sdnaik",
+223.6,
+-182.1,
+27.2,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1189788928.0dxschafe8": [
+"1168057131.73sdnaik",
+232.3,
+-131.3,
+28.2,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1189818368.0dxschafe": [
+"1169592956.59sdnaik",
+412.6,
+310.4,
+61.7,
+"Spawn Node",
+"Low Skeleton"
+],
+"1189818368.0dxschafe0": [
+"1169592956.59sdnaik",
+228.0,
+215.3,
+46.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1189818368.0dxschafe1": [
+"1169592956.59sdnaik",
+106.5,
+141.2,
+17.2,
+"Spawn Node",
+"Low Skeleton"
+],
+"1189818496.0dxschafe": [
+"1169592956.59sdnaik",
+733.4,
+19.1,
+52.3,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1189818496.0dxschafe0": [
+"1169592956.59sdnaik",
+772.4,
+89.3,
+52.1,
+"Spawn Node",
+"Noob Skeleton"
+],
+"1189819008.0dxschafe": [
+"1164141722.61sdnaik",
+243.3,
+-315.5,
+117.3,
+"Spawn Node",
+"Undead - Clod"
+],
+"1189819008.0dxschafe0": [
+"1164141722.61sdnaik",
+252.6,
+-319.2,
+117.1,
+"Spawn Node",
+"Navy - Cadet"
+],
+"1189819136.0dxschafe": [
+"1164141722.61sdnaik",
+233.9,
+-159.6,
+116.4,
+"Spawn Node",
+"Undead - Mire"
+],
+"1189819136.0dxschafe0": [
+"1164141722.61sdnaik",
+233.5,
+-166.3,
+116.5,
+"Spawn Node",
+"Navy - Guard"
+],
+"1189820800.0dxschafe": [
+"1165001772.05sdnaik",
+-359.1,
+-44.1,
+55.8,
+"Spawn Node",
+"Vampire Bat"
+],
+"1190056192.0dchiappe": [
+"1168057131.73sdnaik",
+180.4,
+-15.3,
+0.1,
+"Spawn Node",
+"High Skeleton"
+],
+"1190060160.0dchiappe0": [
+"1168057131.73sdnaik",
+148.4,
+-124.0,
+12.2,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1190077312.0dxschafe": [
+"1165004570.58sdnaik",
+761.5,
+83.2,
+52.1,
+"Spawn Node",
+"Early Skeleton"
+],
+"1190077440.0dxschafe": [
+"1165004570.58sdnaik",
+655.6,
+47.6,
+52.3,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1190077440.0dxschafe0": [
+"1165004570.58sdnaik",
+356.7,
+238.7,
+57.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1190077568.0dxschafe": [
+"1165004570.58sdnaik",
+459.7,
+254.7,
+65.9,
+"Spawn Node",
+"Early Skeleton"
+],
+"1190077568.0dxschafe0": [
+"1165004570.58sdnaik",
+178.6,
+237.4,
+35.8,
+"Spawn Node",
+"Low Skeleton"
+],
+"1190145792.0dxschafe": [
+"1168057131.73sdnaik",
+-41.0,
+-252.6,
+40.0,
+"Spawn Node",
+"High Skeleton"
+],
+"1190145920.0dxschafe": [
+"1168057131.73sdnaik",
+1.4,
+-225.8,
+40.0,
+"Spawn Node",
+"High Skeleton"
+],
+"1190145920.0dxschafe0": [
+"1168057131.73sdnaik",
+-64.6,
+-212.7,
+41.4,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1190145920.0dxschafe1": [
+"1168057131.73sdnaik",
+28.4,
+-230.8,
+40.0,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1190145920.0dxschafe2": [
+"1168057131.73sdnaik",
+-54.5,
+-138.8,
+42.1,
+"Spawn Node",
+"High Skeleton"
+],
+"1190145920.0dxschafe3": [
+"1168057131.73sdnaik",
+-21.4,
+-184.5,
+40.0,
+"Spawn Node",
+"High Skeleton"
+],
+"1190146432.0dxschafe": [
+"1168057131.73sdnaik",
+25.1,
+-203.3,
+41.8,
+"Spawn Node",
+"High Skeleton"
+],
+"1190146560.0dxschafe": [
+"1168057131.73sdnaik",
+-18.5,
+-186.0,
+40.4,
+"Spawn Node",
+"High Skeleton"
+],
+"1190148224.0dxschafe": [
+"1168057131.73sdnaik",
+-62.8,
+-209.0,
+37.9,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1190325760.0dxschafe1": [
+"1158121765.09sdnaik",
+321.2,
+-210.8,
+2.2,
+"Spawn Node",
+"Low Navy"
+],
+"1190325888.0dxschafe": [
+"1158121765.09sdnaik",
+271.0,
+-197.2,
+2.2,
+"Spawn Node",
+"Low Navy"
+],
+"1190325888.0dxschafe0": [
+"1158121765.09sdnaik",
+322.5,
+-216.3,
+2.2,
+"Spawn Node",
+"EITC - Thug"
+],
+"1190326016.0dxschafe": [
+"1158121765.09sdnaik",
+291.6,
+-207.8,
+2.2,
+"Spawn Node",
+"EITC - Thug"
+],
+"1190326144.0dxschafe": [
+"1158121765.09sdnaik",
+296.3,
+-208.0,
+2.2,
+"Spawn Node",
+"Low Navy"
+],
+"1190326400.0dxschafe": [
+"1158121765.09sdnaik",
+297.2,
+-142.1,
+2.2,
+"Spawn Node",
+"Low Navy"
+],
+"1190327296.0dxschafe0": [
+"1161282725.84kmuller",
+409.4,
+137.6,
+21.4,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1190327424.0dxschafe": [
+"1161282725.84kmuller",
+-209.9,
+286.1,
+10.7,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1190415104.0dxschafe": [
+"1170972672.0dxschafe0",
+50.0,
+-1.8,
+-6.0,
+"Searchable Container",
+""
+],
+"1190415104.0dxschafe0": [
+"1170972672.0dxschafe0",
+51.5,
+36.8,
+0.0,
+"Searchable Container",
+""
+],
+"1190415104.0dxschafe1": [
+"1170972672.0dxschafe0",
+-55.3,
+29.7,
+0.0,
+"Searchable Container",
+""
+],
+"1190415104.0dxschafe2": [
+"1170972672.0dxschafe0",
+-56.5,
+-47.3,
+0.0,
+"Searchable Container",
+""
+],
+"1190415104.0dxschafe3": [
+"1170972672.0dxschafe0",
+-32.3,
+-5.5,
+0.0,
+"Searchable Container",
+""
+],
+"1190415232.0dxschafe": [
+"1170972672.0dxschafe0",
+3.7,
+38.2,
+0.0,
+"Searchable Container",
+""
+],
+"1190415232.0dxschafe0": [
+"1170972672.0dxschafe0",
+25.3,
+21.7,
+-6.0,
+"Searchable Container",
+""
+],
+"1190415232.0dxschafe1": [
+"1170972672.0dxschafe0",
+51.1,
+-40.5,
+0.0,
+"Searchable Container",
+""
+],
+"1190415232.0dxschafe2": [
+"1170972672.0dxschafe0",
+0.2,
+-46.9,
+0.0,
+"Searchable Container",
+""
+],
+"1190417152.0dxschafe": [
+"1158121765.09sdnaik",
+-274.0,
+61.0,
+64.4,
+"Spawn Node",
+"Low Navy"
+],
+"1190417152.0dxschafe0": [
+"1158121765.09sdnaik",
+-337.1,
+68.8,
+65.1,
+"Spawn Node",
+"Low Navy"
+],
+"1190417280.0dxschafe": [
+"1158121765.09sdnaik",
+-243.2,
+-74.3,
+56.3,
+"Searchable Container",
+""
+],
+"1190419328.0dxschafe": [
+"1165004570.58sdnaik",
+570.7,
+73.2,
+59.8,
+"Spawn Node",
+"Low Skeleton"
+],
+"1190419328.0dxschafe0": [
+"1165004570.58sdnaik",
+494.7,
+124.3,
+68.6,
+"Spawn Node",
+"Early Skeleton"
+],
+"1190419328.0dxschafe1": [
+"1165004570.58sdnaik",
+723.6,
+-10.6,
+52.3,
+"Spawn Node",
+"Early Skeleton"
+],
+"1190664960.0dxschafe": [
+"1161798288.34sdnaik",
+-52.1,
+183.3,
+25.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1190665088.0dxschafe": [
+"1161798288.34sdnaik",
+-333.3,
+109.3,
+23.0,
+"Spawn Node",
+"Low Skeleton"
+],
+"1190665088.0dxschafe0": [
+"1161798288.34sdnaik",
+-406.9,
+13.8,
+16.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1190666112.0dxschafe": [
+"1172209955.25sdnaik",
+-165.6,
+98.3,
+18.2,
+"Spawn Node",
+"Angry Wasp"
+],
+"1190666112.0dxschafe0": [
+"1172209955.25sdnaik",
+-290.5,
+90.9,
+19.8,
+"Spawn Node",
+"Wasp"
+],
+"1190668160.0dxschafe": [
+"1164763706.66sdnaik",
+40.5,
+-133.9,
+12.8,
+"Spawn Node",
+"Crab"
+],
+"1190668160.0dxschafe0": [
+"1164763706.66sdnaik",
+-201.7,
+-101.4,
+17.6,
+"Spawn Node",
+"Crab"
+],
+"1190668160.0dxschafe1": [
+"1164763706.66sdnaik",
+-413.3,
+-303.8,
+7.3,
+"Spawn Node",
+"Crab"
+],
+"1190668160.0dxschafe10": [
+"1164763706.66sdnaik",
+-40.4,
+452.8,
+12.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668160.0dxschafe2": [
+"1164763706.66sdnaik",
+139.2,
+345.4,
+16.4,
+"Spawn Node",
+"Crab"
+],
+"1190668160.0dxschafe3": [
+"1164763706.66sdnaik",
+177.9,
+322.7,
+14.0,
+"Spawn Node",
+"Crab"
+],
+"1190668160.0dxschafe4": [
+"1164763706.66sdnaik",
+-156.6,
+-210.1,
+-10.5,
+"Spawn Node",
+"Crab"
+],
+"1190668160.0dxschafe5": [
+"1164763706.66sdnaik",
+-410.6,
+-240.9,
+18.8,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668160.0dxschafe6": [
+"1164763706.66sdnaik",
+-505.6,
+-200.4,
+19.8,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668160.0dxschafe7": [
+"1164763706.66sdnaik",
+-562.0,
+59.3,
+9.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668160.0dxschafe8": [
+"1164763706.66sdnaik",
+-533.6,
+111.5,
+12.6,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668160.0dxschafe9": [
+"1164763706.66sdnaik",
+-349.3,
+351.5,
+5.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668288.0dxschafe": [
+"1164763706.66sdnaik",
+472.1,
+170.8,
+6.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668288.0dxschafe0": [
+"1164763706.66sdnaik",
+487.8,
+58.4,
+-6.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668288.0dxschafe1": [
+"1164763706.66sdnaik",
+252.2,
+-276.1,
+1.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668288.0dxschafe10": [
+"1164763706.66sdnaik",
+177.4,
+0.4,
+62.1,
+"Spawn Node",
+"Wasp"
+],
+"1190668288.0dxschafe11": [
+"1164763706.66sdnaik",
+-174.6,
+266.0,
+39.7,
+"Spawn Node",
+"Wasp"
+],
+"1190668288.0dxschafe12": [
+"1164763706.66sdnaik",
+-94.1,
+312.6,
+33.2,
+"Spawn Node",
+"Wasp"
+],
+"1190668288.0dxschafe13": [
+"1164763706.66sdnaik",
+-144.0,
+112.0,
+33.0,
+"Spawn Node",
+"Wasp"
+],
+"1190668288.0dxschafe14": [
+"1164763706.66sdnaik",
+-22.1,
+154.8,
+43.4,
+"Spawn Node",
+"Wasp"
+],
+"1190668288.0dxschafe15": [
+"1164763706.66sdnaik",
+-322.8,
+264.9,
+26.9,
+"Spawn Node",
+"Wasp"
+],
+"1190668288.0dxschafe16": [
+"1164763706.66sdnaik",
+-482.9,
+-90.2,
+36.6,
+"Spawn Node",
+"Wasp"
+],
+"1190668288.0dxschafe17": [
+"1164763706.66sdnaik",
+-351.9,
+-153.4,
+27.4,
+"Spawn Node",
+"Wasp"
+],
+"1190668288.0dxschafe2": [
+"1164763706.66sdnaik",
+348.7,
+-195.4,
+9.4,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668288.0dxschafe3": [
+"1164763706.66sdnaik",
+418.0,
+-83.3,
+6.2,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668288.0dxschafe4": [
+"1164763706.66sdnaik",
+394.6,
+275.3,
+26.1,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668288.0dxschafe5": [
+"1164763706.66sdnaik",
+24.0,
+399.7,
+29.2,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668288.0dxschafe6": [
+"1164763706.66sdnaik",
+-174.7,
+435.0,
+7.6,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668288.0dxschafe7": [
+"1164763706.66sdnaik",
+-442.6,
+292.4,
+3.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668288.0dxschafe8": [
+"1164763706.66sdnaik",
+206.7,
+-247.0,
+19.9,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668288.0dxschafe9": [
+"1164763706.66sdnaik",
+204.3,
+-98.0,
+58.6,
+"Spawn Node",
+"Wasp"
+],
+"1190668800.0dxschafe1": [
+"1161282725.84kmuller",
+-542.9,
+-238.3,
+3.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe10": [
+"1161282725.84kmuller",
+-254.2,
+477.7,
+5.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe11": [
+"1161282725.84kmuller",
+292.5,
+444.0,
+7.2,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668800.0dxschafe2": [
+"1161282725.84kmuller",
+-465.2,
+-312.4,
+5.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe3": [
+"1161282725.84kmuller",
+-574.1,
+-164.6,
+5.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe4": [
+"1161282725.84kmuller",
+-423.1,
+-279.1,
+6.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe5": [
+"1161282725.84kmuller",
+-197.7,
+21.0,
+2.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe6": [
+"1161282725.84kmuller",
+261.9,
+107.6,
+7.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe7": [
+"1161282725.84kmuller",
+458.3,
+-197.8,
+20.2,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe8": [
+"1161282725.84kmuller",
+595.7,
+-40.7,
+11.6,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668800.0dxschafe9": [
+"1161282725.84kmuller",
+460.3,
+310.2,
+4.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1190668928.0dxschafe": [
+"1161282725.84kmuller",
+534.1,
+213.7,
+3.8,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668928.0dxschafe0": [
+"1161282725.84kmuller",
+602.3,
+48.3,
+9.7,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668928.0dxschafe1": [
+"1161282725.84kmuller",
+568.8,
+-97.0,
+15.3,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668928.0dxschafe2": [
+"1161282725.84kmuller",
+423.4,
+-32.7,
+20.6,
+"Spawn Node",
+"Giant Crab"
+],
+"1190668928.0dxschafe3": [
+"1161282725.84kmuller",
+-359.9,
+174.1,
+11.0,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1190668928.0dxschafe4": [
+"1161282725.84kmuller",
+-232.4,
+383.7,
+8.8,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1190668928.0dxschafe5": [
+"1161282725.84kmuller",
+294.2,
+321.2,
+21.7,
+"Spawn Node",
+"Dread Scorpion"
+],
+"1190669056.0dxschafe": [
+"1185994805.82kmuller0",
+-15.1,
+3.5,
+0.0,
+"Searchable Container",
+""
+],
+"1190669056.0dxschafe1": [
+"1185994805.82kmuller0",
+23.8,
+1.7,
+0.0,
+"Searchable Container",
+""
+],
+"1190669312.0dxschafe0": [
+"1173381952.2sdnaik",
+-272.9,
+7.9,
+7.6,
+"Spawn Node",
+"Stump"
+],
+"1190669440.0dxschafe": [
+"1173381952.2sdnaik",
+428.3,
+523.1,
+22.9,
+"Spawn Node",
+"Stump"
+],
+"1190672768.0dxschafe": [
+"1142018473.22dxschafe",
+734.0,
+-1383.5,
+19.6,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1190672896.0dxschafe": [
+"1142018473.22dxschafe",
+654.5,
+-1296.0,
+30.0,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1190672896.0dxschafe0": [
+"1142018473.22dxschafe",
+547.8,
+-1372.1,
+23.2,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1190672896.0dxschafe1": [
+"1142018473.22dxschafe",
+713.0,
+-1500.4,
+4.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1190672896.0dxschafe2": [
+"1142018473.22dxschafe",
+800.3,
+-1442.6,
+13.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1190677888.0dxschafe": [
+"1167857698.16sdnaik",
+-93.7,
+75.4,
+19.8,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1190677888.0dxschafe0": [
+"1167857698.16sdnaik",
+241.3,
+23.2,
+35.7,
+"Spawn Node",
+"Elite Skeleton"
+],
+"1190678144.0dxschafe": [
+"1167857698.16sdnaik",
+-152.7,
+19.9,
+13.4,
+"Spawn Node",
+"Huge Gator"
+],
+"1190678144.0dxschafe0": [
+"1167857698.16sdnaik",
+-206.4,
+-24.0,
+13.4,
+"Spawn Node",
+"Huge Gator"
+],
+"1190679168.0dxschafe": [
+"1167857698.16sdnaik",
+-533.6,
+-203.1,
+13.2,
+"Spawn Node",
+"Mid EITC"
+],
+"1190679296.0dxschafe": [
+"1167857698.16sdnaik",
+-140.4,
+199.2,
+24.8,
+"Spawn Node",
+"Stump"
+],
+"1190746487.03dxschafe": [
+"1169179552.88sdnaik",
+472.5,
+349.8,
+1.9,
+"Spawn Node",
+"Low Skeleton"
+],
+"1190746626.47dxschafe": [
+"1169179552.88sdnaik",
+420.9,
+285.6,
+-2.4,
+"Spawn Node",
+"Early Skeleton"
+],
+"1190746895.41dxschafe": [
+"1169179552.88sdnaik",
+-344.3,
+195.7,
+-2.2,
+"Spawn Node",
+"Early Skeleton"
+],
+"1190847616.0dxschafe": [
+"1164141722.61sdnaik",
+168.4,
+140.4,
+112.6,
+"Spawn Node",
+"Alligator"
+],
+"1190848640.0dxschafe": [
+"1169592956.59sdnaik",
+641.9,
+168.3,
+52.0,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1190851200.0dxschafe": [
+"1164952144.06sdnaik",
+500.0,
+-243.1,
+2.6,
+"Spawn Node",
+"High Navy"
+],
+"1190851456.0dxschafe": [
+"1164952144.06sdnaik",
+526.8,
+-214.9,
+2.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1190919296.0dchiappe": [
+"1165009873.53sdnaik",
+-406.2,
+-140.5,
+101.8,
+"Spawn Node",
+"Scorpion"
+],
+"1190932352.0dxschafe": [
+"1165009873.53sdnaik",
+-7.0,
+114.5,
+121.5,
+"Spawn Node",
+"Early Skeleton"
+],
+"1190932480.0dxschafe": [
+"1165009873.53sdnaik",
+44.5,
+113.3,
+121.6,
+"Spawn Node",
+"Early Skeleton"
+],
+"1191370240.0dchiappe": [
+"1189479168.0sdnaik0",
+-331.0,
+636.0,
+67.4,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1191370368.0dchiappe": [
+"1189479168.0sdnaik0",
+-329.2,
+626.5,
+67.5,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1191370496.0dchiappe": [
+"1189479168.0sdnaik0",
+-327.0,
+617.2,
+67.7,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1191370624.0dchiappe": [
+"1189479168.0sdnaik0",
+-343.2,
+633.1,
+67.4,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1191370624.0dchiappe0": [
+"1189479168.0sdnaik0",
+-340.6,
+623.7,
+67.5,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1191370624.0dchiappe1": [
+"1189479168.0sdnaik0",
+-338.1,
+614.3,
+67.7,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1191624960.0dxschafe": [
+"1164952144.06sdnaik",
+352.7,
+-322.0,
+3.9,
+"Spawn Node",
+"EITC - Thug"
+],
+"1191624960.0dxschafe0": [
+"1164952144.06sdnaik",
+441.3,
+-318.5,
+2.6,
+"Spawn Node",
+"EITC - Thug"
+],
+"1191625984.0dxschafe": [
+"1169179552.88sdnaik",
+199.7,
+-29.4,
+-2.3,
+"Spawn Node",
+"FlyTrap"
+],
+"1191626112.0dxschafe": [
+"1169179552.88sdnaik",
+368.3,
+45.6,
+-2.3,
+"Spawn Node",
+"FlyTrap"
+],
+"1192140288.0dxschafe": [
+"1164952144.06sdnaik",
+385.0,
+-136.8,
+14.4,
+"Spawn Node",
+"High Navy"
+],
+"1192140416.0dxschafe": [
+"1164952144.06sdnaik",
+439.6,
+-219.6,
+15.8,
+"Spawn Node",
+"High Navy"
+],
+"1192227328.0dxschafe0": [
+"1156359855.24bbathen",
+-236.6,
+-166.0,
+14.1,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe": [
+"1156359855.24bbathen",
+-227.6,
+-244.7,
+5.9,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe0": [
+"1156359855.24bbathen",
+-136.5,
+-48.2,
+15.2,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe1": [
+"1156359855.24bbathen",
+189.3,
+-178.4,
+35.3,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe10": [
+"1156359855.24bbathen",
+-273.6,
+340.4,
+16.4,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe11": [
+"1156359855.24bbathen",
+-420.4,
+287.0,
+5.9,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe12": [
+"1156359855.24bbathen",
+-460.9,
+-162.9,
+32.6,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe13": [
+"1156359855.24bbathen",
+-506.3,
+-126.7,
+27.3,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe14": [
+"1156359855.24bbathen",
+228.9,
+-239.0,
+22.0,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe15": [
+"1156359855.24bbathen",
+-158.6,
+-163.3,
+1.5,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe16": [
+"1156359855.24bbathen",
+391.4,
+285.8,
+21.7,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe17": [
+"1156359855.24bbathen",
+-469.3,
+-75.3,
+41.1,
+"Spawn Node",
+"Giant Crab"
+],
+"1192227456.0dxschafe2": [
+"1156359855.24bbathen",
+329.1,
+-100.0,
+43.0,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe3": [
+"1156359855.24bbathen",
+225.5,
+239.9,
+32.8,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe4": [
+"1156359855.24bbathen",
+331.1,
+372.5,
+-9.4,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe5": [
+"1156359855.24bbathen",
+252.7,
+380.9,
+-9.7,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe6": [
+"1156359855.24bbathen",
+-86.6,
+497.2,
+-7.1,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe7": [
+"1156359855.24bbathen",
+476.1,
+178.4,
+5.9,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe8": [
+"1156359855.24bbathen",
+410.9,
+171.5,
+27.6,
+"Spawn Node",
+"Crab"
+],
+"1192227456.0dxschafe9": [
+"1156359855.24bbathen",
+-157.1,
+404.6,
+16.3,
+"Spawn Node",
+"Crab"
+],
+"1192227584.0dxschafe1": [
+"1156359855.24bbathen",
+-212.8,
+299.7,
+32.8,
+"Spawn Node",
+"Giant Crab"
+],
+"1192227584.0dxschafe10": [
+"1156359855.24bbathen",
+-494.7,
+102.1,
+24.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1192227584.0dxschafe11": [
+"1156359855.24bbathen",
+-423.1,
+214.9,
+18.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe12": [
+"1156359855.24bbathen",
+-43.0,
+383.4,
+31.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe13": [
+"1156359855.24bbathen",
+-165.1,
+247.6,
+40.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe14": [
+"1156359855.24bbathen",
+-249.8,
+-99.7,
+21.8,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe15": [
+"1156359855.24bbathen",
+222.0,
+-128.4,
+49.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe16": [
+"1156359855.24bbathen",
+-413.6,
+-195.6,
+25.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe17": [
+"1156359855.24bbathen",
+-205.2,
+-55.8,
+21.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe3": [
+"1156359855.24bbathen",
+326.4,
+270.8,
+20.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe5": [
+"1156359855.24bbathen",
+160.2,
+-89.6,
+51.6,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe6": [
+"1156359855.24bbathen",
+-373.9,
+-143.1,
+32.6,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe7": [
+"1156359855.24bbathen",
+66.2,
+143.4,
+47.4,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe8": [
+"1156359855.24bbathen",
+125.8,
+192.9,
+47.2,
+"Spawn Node",
+"Rock Crab"
+],
+"1192227584.0dxschafe9": [
+"1156359855.24bbathen",
+-509.0,
+-37.5,
+31.1,
+"Spawn Node",
+"Giant Crab"
+],
+"1192228480.0dxschafe": [
+"1160614528.73sdnaik",
+26.9,
+-359.9,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228608.0dxschafe": [
+"1160614528.73sdnaik",
+148.5,
+-233.7,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228608.0dxschafe0": [
+"1160614528.73sdnaik",
+-27.2,
+-156.3,
+-2.0,
+"Spawn Node",
+"Big Gator"
+],
+"1192228608.0dxschafe1": [
+"1160614528.73sdnaik",
+51.0,
+-214.4,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228608.0dxschafe2": [
+"1160614528.73sdnaik",
+363.5,
+-547.3,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228608.0dxschafe3": [
+"1160614528.73sdnaik",
+409.3,
+-595.8,
+-1.3,
+"Spawn Node",
+"Alligator"
+],
+"1192228608.0dxschafe4": [
+"1160614528.73sdnaik",
+330.9,
+-437.1,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228608.0dxschafe5": [
+"1160614528.73sdnaik",
+223.5,
+-546.5,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228608.0dxschafe6": [
+"1160614528.73sdnaik",
+215.7,
+-309.7,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228608.0dxschafe7": [
+"1160614528.73sdnaik",
+-69.3,
+-165.9,
+-2.0,
+"Spawn Node",
+"Big Gator"
+],
+"1192228608.0dxschafe8": [
+"1160614528.73sdnaik",
+-90.7,
+-210.4,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228736.0dxschafe": [
+"1160614528.73sdnaik",
+255.2,
+-245.8,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228736.0dxschafe0": [
+"1160614528.73sdnaik",
+325.1,
+-639.5,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228736.0dxschafe1": [
+"1160614528.73sdnaik",
+265.2,
+-605.8,
+-1.3,
+"Spawn Node",
+"Alligator"
+],
+"1192228736.0dxschafe2": [
+"1160614528.73sdnaik",
+310.8,
+-372.2,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228736.0dxschafe3": [
+"1160614528.73sdnaik",
+-49.5,
+-297.5,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228736.0dxschafe4": [
+"1160614528.73sdnaik",
+-23.0,
+-218.5,
+-2.0,
+"Spawn Node",
+"Alligator"
+],
+"1192228736.0dxschafe5": [
+"1160614528.73sdnaik",
+76.8,
+-324.1,
+-1.3,
+"Spawn Node",
+"Alligator"
+],
+"1192233728.0dxschafe": [
+"1161282725.84kmuller",
+345.1,
+-39.1,
+7.6,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe0": [
+"1161282725.84kmuller",
+362.7,
+-159.2,
+21.6,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe1": [
+"1161282725.84kmuller",
+167.1,
+224.8,
+12.6,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe10": [
+"1161282725.84kmuller",
+-39.3,
+555.8,
+3.0,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe11": [
+"1161282725.84kmuller",
+-524.6,
+212.0,
+3.2,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe12": [
+"1161282725.84kmuller",
+-440.4,
+361.0,
+1.5,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe13": [
+"1161282725.84kmuller",
+-582.9,
+17.2,
+2.8,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe14": [
+"1161282725.84kmuller",
+-333.5,
+-283.9,
+4.2,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe15": [
+"1161282725.84kmuller",
+-368.5,
+-263.8,
+6.1,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe16": [
+"1161282725.84kmuller",
+-419.2,
+-213.5,
+7.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233728.0dxschafe2": [
+"1161282725.84kmuller",
+42.1,
+222.1,
+7.8,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe3": [
+"1161282725.84kmuller",
+-106.1,
+208.5,
+3.9,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe4": [
+"1161282725.84kmuller",
+-286.1,
+-147.7,
+4.4,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe5": [
+"1161282725.84kmuller",
+-303.9,
+-201.4,
+2.6,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe6": [
+"1161282725.84kmuller",
+-181.1,
+467.5,
+8.0,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe7": [
+"1161282725.84kmuller",
+-151.4,
+526.4,
+4.0,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe8": [
+"1161282725.84kmuller",
+-370.0,
+428.5,
+3.5,
+"Spawn Node",
+"Crab"
+],
+"1192233728.0dxschafe9": [
+"1161282725.84kmuller",
+51.2,
+494.1,
+6.0,
+"Spawn Node",
+"Crab"
+],
+"1192233856.0dxschafe": [
+"1161282725.84kmuller",
+-276.6,
+-23.0,
+5.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe0": [
+"1161282725.84kmuller",
+-169.2,
+201.5,
+6.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe1": [
+"1161282725.84kmuller",
+290.1,
+199.1,
+19.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe10": [
+"1161282725.84kmuller",
+-449.4,
+150.7,
+7.0,
+"Spawn Node",
+"Wasp"
+],
+"1192233856.0dxschafe11": [
+"1161282725.84kmuller",
+-507.5,
+-98.8,
+10.2,
+"Spawn Node",
+"Wasp"
+],
+"1192233856.0dxschafe12": [
+"1161282725.84kmuller",
+-466.7,
+-131.2,
+11.2,
+"Spawn Node",
+"Wasp"
+],
+"1192233856.0dxschafe13": [
+"1161282725.84kmuller",
+350.6,
+167.9,
+20.4,
+"Spawn Node",
+"Scorpion"
+],
+"1192233856.0dxschafe14": [
+"1161282725.84kmuller",
+201.1,
+335.8,
+19.8,
+"Spawn Node",
+"Scorpion"
+],
+"1192233856.0dxschafe15": [
+"1161282725.84kmuller",
+463.0,
+43.1,
+25.6,
+"Spawn Node",
+"Scorpion"
+],
+"1192233856.0dxschafe16": [
+"1161282725.84kmuller",
+402.4,
+27.8,
+19.3,
+"Spawn Node",
+"Scorpion"
+],
+"1192233856.0dxschafe17": [
+"1161282725.84kmuller",
+241.0,
+258.7,
+19.8,
+"Spawn Node",
+"Scorpion"
+],
+"1192233856.0dxschafe18": [
+"1161282725.84kmuller",
+-227.0,
+218.3,
+8.3,
+"Spawn Node",
+"Scorpion"
+],
+"1192233856.0dxschafe2": [
+"1161282725.84kmuller",
+147.4,
+360.7,
+14.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe3": [
+"1161282725.84kmuller",
+339.0,
+99.4,
+13.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe4": [
+"1161282725.84kmuller",
+-224.9,
+433.2,
+7.2,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe5": [
+"1161282725.84kmuller",
+-182.9,
+355.1,
+9.0,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe6": [
+"1161282725.84kmuller",
+94.4,
+402.6,
+13.2,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe7": [
+"1161282725.84kmuller",
+79.3,
+316.3,
+11.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe8": [
+"1161282725.84kmuller",
+-359.7,
+-52.3,
+8.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1192233856.0dxschafe9": [
+"1161282725.84kmuller",
+-502.0,
+28.4,
+9.9,
+"Spawn Node",
+"Wasp"
+],
+"1192233984.0dxschafe": [
+"1161282725.84kmuller",
+-490.6,
+-238.3,
+7.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1192233984.0dxschafe0": [
+"1161282725.84kmuller",
+-398.7,
+-243.0,
+6.9,
+"Spawn Node",
+"Giant Crab"
+],
+"1192234112.0dxschafe": [
+"1161282725.84kmuller",
+-273.2,
+70.9,
+5.2,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234368.0dxschafe": [
+"1164763706.66sdnaik",
+-147.4,
+163.0,
+37.7,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe0": [
+"1164763706.66sdnaik",
+19.4,
+168.0,
+50.5,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe1": [
+"1164763706.66sdnaik",
+10.2,
+112.4,
+37.0,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe10": [
+"1164763706.66sdnaik",
+185.9,
+-185.4,
+34.9,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe11": [
+"1164763706.66sdnaik",
+-416.0,
+-178.3,
+29.9,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe12": [
+"1164763706.66sdnaik",
+-394.3,
+-139.1,
+35.3,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe13": [
+"1164763706.66sdnaik",
+-285.1,
+-108.6,
+26.1,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe14": [
+"1164763706.66sdnaik",
+-141.4,
+375.0,
+19.5,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe2": [
+"1164763706.66sdnaik",
+-98.5,
+265.6,
+41.7,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe3": [
+"1164763706.66sdnaik",
+-235.7,
+306.4,
+31.9,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe4": [
+"1164763706.66sdnaik",
+-66.3,
+372.9,
+27.9,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe5": [
+"1164763706.66sdnaik",
+204.7,
+-39.0,
+69.0,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe6": [
+"1164763706.66sdnaik",
+126.6,
+36.5,
+38.7,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe7": [
+"1164763706.66sdnaik",
+269.1,
+-109.2,
+56.6,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe8": [
+"1164763706.66sdnaik",
+125.0,
+-63.4,
+39.7,
+"Spawn Node",
+"Wasp"
+],
+"1192234368.0dxschafe9": [
+"1164763706.66sdnaik",
+127.7,
+-120.2,
+38.4,
+"Spawn Node",
+"Wasp"
+],
+"1192234624.0dxschafe": [
+"1164763706.66sdnaik",
+274.3,
+282.1,
+15.5,
+"Spawn Node",
+"Crab"
+],
+"1192234624.0dxschafe0": [
+"1164763706.66sdnaik",
+435.9,
+217.9,
+18.2,
+"Spawn Node",
+"Crab"
+],
+"1192234624.0dxschafe1": [
+"1164763706.66sdnaik",
+-169.5,
+-37.0,
+19.3,
+"Spawn Node",
+"Crab"
+],
+"1192234624.0dxschafe2": [
+"1164763706.66sdnaik",
+-70.5,
+-18.0,
+17.9,
+"Spawn Node",
+"Crab"
+],
+"1192234624.0dxschafe3": [
+"1164763706.66sdnaik",
+53.6,
+-78.2,
+19.1,
+"Spawn Node",
+"Crab"
+],
+"1192234624.0dxschafe4": [
+"1164763706.66sdnaik",
+-541.2,
+-59.5,
+18.0,
+"Spawn Node",
+"Crab"
+],
+"1192234624.0dxschafe5": [
+"1164763706.66sdnaik",
+-456.7,
+193.2,
+18.5,
+"Spawn Node",
+"Crab"
+],
+"1192234752.0dxschafe": [
+"1164763706.66sdnaik",
+57.5,
+443.6,
+7.6,
+"Spawn Node",
+"Crab"
+],
+"1192234752.0dxschafe0": [
+"1164763706.66sdnaik",
+6.8,
+50.8,
+24.6,
+"Spawn Node",
+"Crab"
+],
+"1192234752.0dxschafe1": [
+"1164763706.66sdnaik",
+-136.2,
+19.7,
+25.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234752.0dxschafe2": [
+"1164763706.66sdnaik",
+81.9,
+-147.6,
+20.8,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234752.0dxschafe3": [
+"1164763706.66sdnaik",
+248.7,
+234.5,
+36.1,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234752.0dxschafe4": [
+"1164763706.66sdnaik",
+301.1,
+234.3,
+39.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234752.0dxschafe5": [
+"1164763706.66sdnaik",
+382.5,
+163.2,
+38.4,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234752.0dxschafe6": [
+"1164763706.66sdnaik",
+310.6,
+-132.1,
+42.5,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234752.0dxschafe7": [
+"1164763706.66sdnaik",
+215.0,
+-140.9,
+42.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234752.0dxschafe8": [
+"1164763706.66sdnaik",
+-466.8,
+-149.0,
+34.2,
+"Spawn Node",
+"Rock Crab"
+],
+"1192234752.0dxschafe9": [
+"1164763706.66sdnaik",
+-253.9,
+365.4,
+13.8,
+"Spawn Node",
+"Rock Crab"
+],
+"1192497024.0dxschafe": [
+"1172208344.92sdnaik",
+-32.3,
+81.4,
+31.8,
+"Spawn Node",
+"Elite DJCrew"
+],
+"1192571392.0dxschafe": [
+"1189479168.0sdnaik0",
+-364.2,
+618.0,
+67.5,
+"Spawn Node",
+"Navy - Officer"
+],
+"1192578944.0dxschafe": [
+"1164952144.06sdnaik",
+410.0,
+-154.9,
+2.6,
+"Spawn Node",
+"Low Navy"
+],
+"1192579200.0dxschafe": [
+"1164952144.06sdnaik",
+502.4,
+-10.6,
+54.4,
+"Spawn Node",
+"Mid Navy"
+],
+"1192640692.06akelts": [
+"1150922126.8dzlu",
+-1457.2,
+-3006.3,
+193.0,
+"Searchable Container",
+""
+],
+"1192668928.0dxschafe0": [
+"1150922126.8dzlu",
+294.5,
+-1154.3,
+44.7,
+"Spawn Node",
+"Noob Navy"
+],
+"1192669824.0dxschafe": [
+"1150922126.8dzlu",
+-116.2,
+-1762.8,
+13.7,
+"Spawn Node",
+"Noob Navy"
+],
+"1192669952.0dxschafe": [
+"1150922126.8dzlu",
+-1236.6,
+-2947.8,
+225.0,
+"Spawn Node",
+"Mid Navy"
+],
+"1192670080.0dxschafe": [
+"1150922126.8dzlu",
+-1306.2,
+-2757.7,
+233.0,
+"Spawn Node",
+"Mid Navy"
+],
+"1192670080.0dxschafe0": [
+"1150922126.8dzlu",
+-1246.5,
+-2813.8,
+233.7,
+"Spawn Node",
+"Mid Navy"
+],
+"1192670592.0dxschafe0": [
+"1170972800.0dxschafe0",
+-10.6,
+1.7,
+-1.5,
+"Spawn Node",
+"EITC - Assassin"
+],
+"1192672000.0dxschafe": [
+"1142018473.22dxschafe",
+611.1,
+-1529.9,
+2.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1192672000.0dxschafe0": [
+"1142018473.22dxschafe",
+859.2,
+-1518.3,
+-2.5,
+"Spawn Node",
+"Giant Crab"
+],
+"1192672000.0dxschafe1": [
+"1142018473.22dxschafe",
+924.0,
+-1340.0,
+15.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1192672000.0dxschafe2": [
+"1142018473.22dxschafe",
+790.7,
+-1493.8,
+2.0,
+"Spawn Node",
+"Giant Crab"
+],
+"1192672128.0dxschafe": [
+"1142018473.22dxschafe",
+375.3,
+-1455.7,
+2.6,
+"Spawn Node",
+"Giant Crab"
+],
+"1192672128.0dxschafe0": [
+"1142018473.22dxschafe",
+528.0,
+-1297.2,
+30.0,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1192672128.0dxschafe1": [
+"1142018473.22dxschafe",
+587.1,
+-1309.2,
+28.9,
+"Spawn Node",
+"Fierce Skeleton"
+],
+"1192672768.0dxschafe": [
+"1142018473.22dxschafe",
+-1368.5,
+-709.0,
+150.2,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1192672768.0dxschafe0": [
+"1142018473.22dxschafe",
+-1436.6,
+-650.3,
+150.2,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1192672896.0dxschafe": [
+"1142018473.22dxschafe",
+-1533.9,
+-722.4,
+150.2,
+"Spawn Node",
+"Navy - Sergeant"
+],
+"1192672896.0dxschafe0": [
+"1142018473.22dxschafe",
+-1329.2,
+-691.4,
+197.6,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1192673024.0dxschafe": [
+"1142018473.22dxschafe",
+-1327.0,
+-701.5,
+197.6,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1192673024.0dxschafe0": [
+"1142018473.22dxschafe",
+-1579.2,
+-784.2,
+216.9,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1192673152.0dxschafe": [
+"1142018473.22dxschafe",
+-1612.2,
+-789.4,
+217.8,
+"Spawn Node",
+"Navy - Veteran"
+],
+"1192728704.0dxschafe": [
+"1189479168.0sdnaik0",
+554.4,
+-308.9,
+-5.0,
+"Spawn Node",
+"High Navy"
+],
+"1192728704.0dxschafe0": [
+"1189479168.0sdnaik0",
+321.7,
+-397.0,
+258.2,
+"Spawn Node",
+"High Navy"
+],
+"1192728960.0dxschafe": [
+"1189479168.0sdnaik0",
+-204.6,
+462.7,
+83.0,
+"Spawn Node",
+"High Navy"
+],
+"1192728960.0dxschafe0": [
+"1189479168.0sdnaik0",
+-106.5,
+511.1,
+100.5,
+"Spawn Node",
+"High Navy"
+],
+"1192728960.0dxschafe1": [
+"1189479168.0sdnaik0",
+-452.3,
+513.2,
+65.4,
+"Spawn Node",
+"High Navy"
+],
+"1192813568.0dxschafe": [
+"1164157132.99dzlu",
+63.5,
+-337.3,
+20.1,
+"Spawn Node",
+"Giant Crab"
+],
+"1192819712.0dxschafe0": [
+"1172208344.92sdnaik",
+-135.2,
+9.1,
+54.0,
+"Spawn Node",
+"Fierce DJCrew"
+],
+"1192819712.0dxschafe1": [
+"1172208344.92sdnaik",
+-199.0,
+-15.6,
+58.5,
+"Spawn Node",
+"Fierce DJCrew"
+],
+"1192819712.0dxschafe2": [
+"1172208344.92sdnaik",
+342.0,
+-45.2,
+-1.1,
+"Spawn Node",
+"Fierce DJCrew"
+],
+"1192840891.97dxschafe": [
+"1150922126.8dzlu",
+281.2,
+-1162.2,
+44.9,
+"Spawn Node",
+"Noob Navy"
+],
+"1193085056.0dxschafe1": [
+"1169592956.59sdnaik",
+501.3,
+187.6,
+67.7,
+"Spawn Node",
+"Low Skeleton"
+],
+"1193085056.0dxschafe2": [
+"1169592956.59sdnaik",
+508.3,
+-46.1,
+67.3,
+"Spawn Node",
+"Low Skeleton"
+],
+"1193085312.0dxschafe": [
+"1169592956.59sdnaik",
+640.2,
+125.5,
+52.1,
+"Spawn Node",
+"Low Skeleton"
+],
+"1193173504.0dxschafe1": [
+"1172209955.25sdnaik",
+-249.5,
+-51.2,
+17.2,
+"Spawn Node",
+"Wasp"
+],
+"1193173504.0dxschafe2": [
+"1172209955.25sdnaik",
+-272.5,
+-94.1,
+18.5,
+"Spawn Node",
+"Wasp"
+],
+"1193173632.0dxschafe": [
+"1172209955.25sdnaik",
+-152.4,
+76.1,
+19.1,
+"Spawn Node",
+"Wasp"
+],
+"1193173632.0dxschafe0": [
+"1172209955.25sdnaik",
+-204.1,
+103.6,
+20.2,
+"Spawn Node",
+"Wasp"
+],
+"1193173632.0dxschafe1": [
+"1172209955.25sdnaik",
+-53.7,
+71.3,
+22.1,
+"Spawn Node",
+"Wasp"
+],
+"1193174528.0dxschafe": [
+"1172209955.25sdnaik",
+-154.5,
+201.0,
+24.8,
+"Spawn Node",
+"Wasp"
+],
+"1193356416.0dxschafe0": [
+"1158121765.09sdnaik",
+333.7,
+-203.1,
+2.2,
+"Spawn Node",
+"Low Navy"
+],
+"1193356416.0dxschafe2": [
+"1158121765.09sdnaik",
+298.1,
+-194.2,
+2.2,
+"Spawn Node",
+"Low Navy"
+],
+"1193356544.0dxschafe": [
+"1158121765.09sdnaik",
+-288.1,
+-103.0,
+55.8,
+"Spawn Node",
+"Low Navy"
+],
+"1193356928.0dxschafe1": [
+"1169179552.88sdnaik",
+405.2,
+321.9,
+-1.3,
+"Spawn Node",
+"Crab"
+],
+"1193357312.0dxschafe": [
+"1164135492.81dzlu",
+528.5,
+71.8,
+17.7,
+"Spawn Node",
+"Crab"
+],
+"1193357312.0dxschafe0": [
+"1164135492.81dzlu",
+578.7,
+-7.3,
+14.9,
+"Spawn Node",
+"Crab"
+],
+"1193357312.0dxschafe1": [
+"1164135492.81dzlu",
+545.3,
+-160.3,
+22.4,
+"Spawn Node",
+"Crab"
+],
+"1193357312.0dxschafe2": [
+"1164135492.81dzlu",
+581.5,
+-230.4,
+12.9,
+"Spawn Node",
+"Rock Crab"
+],
+"1193357312.0dxschafe3": [
+"1164135492.81dzlu",
+207.6,
+-427.2,
+9.9,
+"Spawn Node",
+"Crab"
+],
+"1193357312.0dxschafe4": [
+"1164135492.81dzlu",
+366.7,
+-215.1,
+25.7,
+"Spawn Node",
+"Rock Crab"
+],
+"1193357312.0dxschafe5": [
+"1164135492.81dzlu",
+47.0,
+368.4,
+9.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1193357312.0dxschafe6": [
+"1164135492.81dzlu",
+6.6,
+326.9,
+18.9,
+"Spawn Node",
+"Crab"
+],
+"1193357312.0dxschafe7": [
+"1164135492.81dzlu",
+259.1,
+301.0,
+6.6,
+"Spawn Node",
+"Crab"
+],
+"1193357440.0dxschafe": [
+"1164135492.81dzlu",
+543.8,
+-204.0,
+20.8,
+"Spawn Node",
+"Crab"
+],
+"1193357440.0dxschafe0": [
+"1164135492.81dzlu",
+555.9,
+-277.8,
+10.9,
+"Spawn Node",
+"Crab"
+],
+"1193357440.0dxschafe1": [
+"1164135492.81dzlu",
+591.1,
+-179.0,
+15.8,
+"Spawn Node",
+"Crab"
+],
+"1193357440.0dxschafe2": [
+"1164135492.81dzlu",
+163.7,
+-469.1,
+6.3,
+"Spawn Node",
+"Rock Crab"
+],
+"1193359744.0dxschafe0": [
+"1150922126.8dzlu",
+-880.5,
+-2101.0,
+25.6,
+"Spawn Node",
+"Low Navy"
+],
+"1193362048.0dxschafe": [
+"1150922126.8dzlu",
+-1192.2,
+-2468.4,
+109.2,
+"Spawn Node",
+"Noob Navy"
+],
+"1193364096.0dxschafe": [
+"1150922126.8dzlu",
+-1313.4,
+-2928.3,
+206.1,
+"Spawn Node",
+"Low EITC"
+],
+"1193688832.0dxschafe0": [
+"1165009856.72sdnaik",
+222.3,
+127.7,
+37.2,
+"Spawn Node",
+"Mid Skeleton"
+],
+"1193689088.0dxschafe0": [
+"1165009856.72sdnaik",
+-77.2,
+277.3,
+70.7,
+"Spawn Node",
+"Undead - Corpse"
+],
+"1193702656.0dxschafe0": [
+"1167857698.16sdnaik",
+-506.9,
+-230.7,
+13.7,
+"Spawn Node",
+"EITC - Grunt"
+],
+"1194287232.0dxschafe": [
+"1150922126.8dzlu",
+-1285.2,
+-3050.4,
+198.5,
+"Searchable Container",
+""
+],
+"1194287360.0dxschafe": [
+"1150922126.8dzlu",
+-1473.0,
+-3008.8,
+205.0,
+"Searchable Container",
+""
+],
+"1194287360.0dxschafe0": [
+"1150922126.8dzlu",
+-1497.7,
+-3000.0,
+193.0,
+"Searchable Container",
+""
+],
+"1194287360.0dxschafe1": [
+"1150922126.8dzlu",
+-1321.0,
+-2763.4,
+233.0,
+"Searchable Container",
+""
+],
+"1194287360.0dxschafe2": [
+"1150922126.8dzlu",
+-1281.6,
+-3074.7,
+225.0,
+"Searchable Container",
+""
+],
+"1194287360.0dxschafe3": [
+"1150922126.8dzlu",
+-1232.3,
+-2915.3,
+192.9,
+"Searchable Container",
+""
+],
+"1194287488.0dxschafe": [
+"1150922126.8dzlu",
+-1231.5,
+-3043.0,
+233.0,
+"Searchable Container",
+""
+],
+"1194287488.0dxschafe0": [
+"1150922126.8dzlu",
+-1159.3,
+-2947.1,
+198.8,
+"Searchable Container",
+""
+],
+"1194287616.0dxschafe": [
+"1150922126.8dzlu",
+-1124.8,
+-3019.1,
+198.8,
+"Searchable Container",
+""
+],
+"1209063257.17dxschafe": [
+"1165009873.53sdnaik",
+190.9,
+-305.2,
+119.1,
+"Spawn Node",
+"Noob Navy"
+],
+"1209063626.67dxschafe": [
+"1165009873.53sdnaik",
+266.7,
+-146.9,
+115.0,
+"Spawn Node",
+"Noob Navy"
+],
+"1209063669.72dxschafe": [
+"1165009873.53sdnaik",
+222.8,
+-100.5,
+115.6,
+"Spawn Node",
+"Noob Navy"
+],
+"1210031872.0WDIG0": [
+"1173382404.64sdnaik",
+-102.1,
+-368.6,
+20.7,
+"Spawn Node",
+"Spanish Undead Low"
+],
+"1210032000.0WDIG": [
+"1173382404.64sdnaik",
+-172.2,
+-348.9,
+15.4,
+"Spawn Node",
+"Spanish Undead High"
+],
+"1210032000.0WDIG0": [
+"1173382404.64sdnaik",
+-33.7,
+-311.3,
+25.4,
+"Spawn Node",
+"Spanish Undead Mid"
+],
+"1210101888.0WDIG2": [
+"1173382404.64sdnaik",
+377.0,
+-231.4,
+25.7,
+"Spawn Node",
+"Spanish Undead Low"
+],
+"1210102016.0WDIG4": [
+"1173382404.64sdnaik",
+472.3,
+-79.4,
+25.0,
+"Spawn Node",
+"Spanish Undead Mid"
+],
+"1210102272.0WDIG0": [
+"1173382404.64sdnaik",
+60.2,
+309.8,
+19.5,
+"Spawn Node",
+"Spanish Undead High"
+],
+"1210103424.0WDIG": [
+"1173382404.64sdnaik",
+-137.2,
+-328.5,
+21.4,
+"Spawn Node",
+"Spanish Undead High"
+],
+"1210103424.0WDIG0": [
+"1173382404.64sdnaik",
+-5.6,
+-290.8,
+26.3,
+"Spawn Node",
+"Spanish Undead Bandido"
+],
+"1210103424.0WDIG1": [
+"1173382404.64sdnaik",
+331.2,
+-245.8,
+25.9,
+"Spawn Node",
+"Spanish Undead Low"
+],
+"1210103424.0WDIG2": [
+"1173382404.64sdnaik",
+437.8,
+-56.7,
+25.2,
+"Spawn Node",
+"Spanish Undead Mid"
+],
+"1210103424.0WDIG3": [
+"1173382404.64sdnaik",
+474.4,
+-124.6,
+25.1,
+"Spawn Node",
+"Spanish Undead Mid"
+],
+"1210103680.0WDIG": [
+"1167857698.16naiksd",
+323.2,
+52.0,
+38.3,
+"Spawn Node",
+"Spanish Undead Low"
+],
+"1210103680.0WDIG0": [
+"1167857698.16naiksd",
+212.9,
+-10.0,
+34.3,
+"Spawn Node",
+"Spanish Undead Low"
+],
+"1210103808.0WDIG4": [
+"1167857698.16naiksd",
+-68.4,
+59.5,
+21.2,
+"Spawn Node",
+"Spanish Undead Mid"
+],
+"1210103936.0WDIG1": [
+"1167857698.16naiksd",
+-200.7,
+98.7,
+19.3,
+"Spawn Node",
+"Spanish Undead High"
+],
+"1210109184.0WDIG3": [
+"1167857698.16naiksd",
+-426.7,
+-162.2,
+15.5,
+"Spawn Node",
+"Spanish Undead Pirata"
+],
+"1210109184.0WDIG4": [
+"1167857698.16naiksd",
+-407.1,
+-205.7,
+13.0,
+"Spawn Node",
+"Spanish Undead Low"
+],
+"1210109440.0WDIG": [
+"1167857698.16naiksd",
+-140.2,
+166.9,
+22.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1210109440.0WDIG0": [
+"1167857698.16naiksd",
+-128.4,
+189.8,
+23.0,
+"Spawn Node",
+"Spanish Undead High"
+],
+"1210109568.0WDIG": [
+"1167857698.16naiksd",
+19.5,
+169.1,
+38.4,
+"Spawn Node",
+"Spanish Undead High"
+],
+"1210109696.0WDIG": [
+"1167857698.16naiksd",
+118.5,
+173.4,
+44.6,
+"Spawn Node",
+"Spanish Undead Mid"
+],
+"1210112896.0WDIG": [
+"1156359855.24bbathen",
+-159.9,
+34.8,
+30.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1210112896.0WDIG0": [
+"1156359855.24bbathen",
+-146.9,
+22.0,
+27.5,
+"Spawn Node",
+"French Undead High"
+],
+"1210112896.0WDIG1": [
+"1156359855.24bbathen",
+-165.0,
+153.8,
+37.7,
+"Spawn Node",
+"French Undead High"
+],
+"1210113024.0WDIG": [
+"1156359855.24bbathen",
+-98.9,
+183.1,
+39.6,
+"Spawn Node",
+"French Undead High"
+],
+"1210113024.0WDIG0": [
+"1156359855.24bbathen",
+-125.4,
+125.4,
+33.8,
+"Spawn Node",
+"French Undead Mid"
+],
+"1210113024.0WDIG1": [
+"1156359855.24bbathen",
+-151.8,
+78.6,
+31.6,
+"Spawn Node",
+"French Undead Mid"
+],
+"1210113152.0WDIG2": [
+"1156359855.24bbathen",
+-83.2,
+304.5,
+37.5,
+"Spawn Node",
+"French Undead Low"
+],
+"1210113280.0WDIG": [
+"1156359855.24bbathen",
+-127.9,
+298.0,
+36.1,
+"Spawn Node",
+"French Undead Mid"
+],
+"1210113536.0WDIG0": [
+"1156359855.24bbathen",
+322.1,
+168.6,
+58.2,
+"Spawn Node",
+"French Undead High"
+],
+"1210113536.0WDIG1": [
+"1156359855.24bbathen",
+271.1,
+170.3,
+58.2,
+"Spawn Node",
+"French Undead Mid"
+],
+"1210113536.0WDIG3": [
+"1156359855.24bbathen",
+277.1,
+223.9,
+41.6,
+"Spawn Node",
+"French Undead Low"
+],
+"1210113536.0WDIG4": [
+"1156359855.24bbathen",
+319.3,
+208.4,
+50.9,
+"Spawn Node",
+"French Undead Lieutenant"
+],
+"1210113792.0WDIG0": [
+"1156359855.24bbathen",
+35.0,
+-22.7,
+20.3,
+"Spawn Node",
+"French Undead Low"
+],
+"1210113792.0WDIG1": [
+"1156359855.24bbathen",
+28.8,
+-70.3,
+18.5,
+"Spawn Node",
+"French Undead Low"
+],
+"1211500160.0WDIG": [
+"1156359855.24bbathen",
+366.1,
+152.6,
+46.3,
+"Spawn Node",
+"French Undead Capitaine"
+],
+"1211500288.0WDIG": [
+"1156359855.24bbathen",
+-178.0,
+110.5,
+37.5,
+"Spawn Node",
+"French Undead Capitaine"
+],
+"1211500288.0WDIG0": [
+"1156359855.24bbathen",
+275.0,
+201.5,
+48.5,
+"Spawn Node",
+"French Undead Lieutenant"
+],
+"1211500416.0WDIG": [
+"1156359855.24bbathen",
+229.4,
+171.0,
+49.0,
+"Spawn Node",
+"French Undead Quarter Master"
+],
+"1211500672.0WDIG": [
+"1156359855.24bbathen",
+62.2,
+-58.1,
+20.7,
+"Spawn Node",
+"French Undead Quarter Master"
+],
+"1211500672.0WDIG1": [
+"1156359855.24bbathen",
+-96.3,
+259.9,
+41.6,
+"Spawn Node",
+"French Undead Maitre"
+],
+"1211500800.0WDIG0": [
+"1156359855.24bbathen",
+2.4,
+-39.9,
+18.1,
+"Spawn Node",
+"French Undead Maitre"
+],
+"1211500928.0WDIG1": [
+"1167857698.16naiksd",
+-244.6,
+88.5,
+18.7,
+"Spawn Node",
+"Spanish Undead Captain"
+],
+"1211501056.0WDIG": [
+"1167857698.16naiksd",
+66.7,
+198.7,
+52.0,
+"Spawn Node",
+"Spanish Undead Captain"
+],
+"1211501184.0WDIG": [
+"1167857698.16naiksd",
+-105.2,
+76.5,
+19.7,
+"Spawn Node",
+"Spanish Undead Pirata"
+],
+"1211501184.0WDIG0": [
+"1167857698.16naiksd",
+13.2,
+26.5,
+26.1,
+"Spawn Node",
+"Spanish Undead Bandido"
+],
+"1211501184.0WDIG1": [
+"1167857698.16naiksd",
+-404.1,
+-98.2,
+20.3,
+"Spawn Node",
+"Spanish Undead Bandido"
+],
+"1211501312.0WDIG": [
+"1167857698.16naiksd",
+264.5,
+25.4,
+36.3,
+"Spawn Node",
+"Spanish Undead Conquistador"
+],
+"1211501312.0WDIG0": [
+"1167857698.16naiksd",
+-453.7,
+-195.8,
+14.6,
+"Spawn Node",
+"Spanish Undead Conquistador"
+],
+"1211502080.0WDIG": [
+"1173382404.64sdnaik",
+19.5,
+333.3,
+17.9,
+"Spawn Node",
+"Spanish Undead Conquistador"
+],
+"1211502080.0WDIG0": [
+"1173382404.64sdnaik",
+279.2,
+-248.7,
+26.2,
+"Spawn Node",
+"Spanish Undead Conquistador"
+],
+"1211502080.0WDIG1": [
+"1173382404.64sdnaik",
+480.8,
+-37.4,
+24.8,
+"Spawn Node",
+"Spanish Undead Pirata"
+],
+"1211502208.0WDIG": [
+"1173382404.64sdnaik",
+56.8,
+344.1,
+13.5,
+"Spawn Node",
+"Spanish Undead Pirata"
+],
+"1211502208.0WDIG0": [
+"1173382404.64sdnaik",
+-78.3,
+-418.0,
+17.5,
+"Spawn Node",
+"Spanish Undead Captain"
+],
+"1211502208.0WDIG1": [
+"1173382404.64sdnaik",
+413.5,
+-258.7,
+24.8,
+"Spawn Node",
+"Spanish Undead Captain"
+],
+"1213740055.14WDIG": [
+"1164763706.66sdnaik",
+-297.4,
+-185.4,
+14.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1213740088.81WDIG": [
+"1164763706.66sdnaik",
+-71.0,
+43.9,
+21.1,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1213740104.3WDIG": [
+"1164763706.66sdnaik",
+227.1,
+-65.5,
+67.0,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1213740118.8WDIG": [
+"1164763706.66sdnaik",
+251.4,
+-184.7,
+27.7,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1213740163.47WDIG": [
+"1164763706.66sdnaik",
+91.7,
+95.1,
+38.4,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1213740183.83WDIG": [
+"1164763706.66sdnaik",
+302.3,
+173.1,
+59.9,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1213740223.27WDIG": [
+"1164763706.66sdnaik",
+168.1,
+261.1,
+27.2,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1213740249.55WDIG": [
+"1164763706.66sdnaik",
+-175.5,
+319.0,
+32.6,
+"Object Spawn Node",
+"Buried Treasure"
+],
+"1220896448.28mtucker": [
+"1169179552.88sdnaik",
+-29.4,
+194.1,
+10.2,
+"Spawn Node",
+"Undead - Carrion"
+],
+"1220896713.35mtucker": [
+"1169179552.88sdnaik",
+81.0,
+198.6,
+2.0,
+"Spawn Node",
+"Undead - Carrion"
+]
+}
+}
